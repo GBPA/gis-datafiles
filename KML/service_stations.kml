@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="service_stations" id="service_stations">
+	<SimpleField name="Id" type="float"></SimpleField>
+	<SimpleField name="Phone" type="string"></SimpleField>
+</Schema>
+<Folder><name>service_stations</name>
+  <Placemark>
+	<name>Metro Service Station</name>
+	<ExtendedData><SchemaData schemaUrl="#service_stations">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Phone">373-9134</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6583357987424,26.5331337267121</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Allied Service Station</name>
+	<ExtendedData><SchemaData schemaUrl="#service_stations">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Phone">352-5010</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7396406020156,26.5250173783774</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hawksbill Service Station</name>
+	<ExtendedData><SchemaData schemaUrl="#service_stations">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Phone">352-2054</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7334963733004,26.5175325190358</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Queen's Hwy Sevice Centre</name>
+	<ExtendedData><SchemaData schemaUrl="#service_stations">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Phone">351-6799</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7023423078604,26.5427245061246</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>East Mall Service Centre</name>
+	<ExtendedData><SchemaData schemaUrl="#service_stations">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Phone">352-5301</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6946424969925,26.5395351206095</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sunrise Service Centre</name>
+	<ExtendedData><SchemaData schemaUrl="#service_stations">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Phone">351-7703</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6930075661471,26.5175468778332</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Boulevard Services Limited</name>
+	<ExtendedData><SchemaData schemaUrl="#service_stations">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Phone">373-6700</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6791783582282,26.5173100719097</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Municipal Motors Limited</name>
+	<ExtendedData><SchemaData schemaUrl="#service_stations">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Phone">373-6290</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6684332777196,26.519458207077</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cooper's Service Station</name>
+	<ExtendedData><SchemaData schemaUrl="#service_stations">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Phone">373-2787</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6379069532055,26.5194994651629</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jetwash Service Station</name>
+	<ExtendedData><SchemaData schemaUrl="#service_stations">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Phone">352-7441</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6977863929149,26.5328244847333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Petro Express</name>
+	<ExtendedData><SchemaData schemaUrl="#service_stations">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Phone">352-8910</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7611323017491,26.5176599209375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Texaco Service Station</name>
+	<ExtendedData><SchemaData schemaUrl="#service_stations">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7902456178309,26.5320696941909</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="schools" id="schools">
+	<SimpleField name="Id" type="float"></SimpleField>
+	<SimpleField name="Type" type="string"></SimpleField>
+	<SimpleField name="Descript" type="string"></SimpleField>
+	<SimpleField name="URL" type="string"></SimpleField>
+	<SimpleField name="Phone" type="string"></SimpleField>
+</Schema>
+<Folder><name>schools</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Id">1</SimpleData>
+		<SimpleData name="Type">All Age</SimpleData>
+		<SimpleData name="Descript">The Beacon School</SimpleData>
+		<SimpleData name="URL">http://www.bahamaseducation.com/</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6892115440619,26.541230782548</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Id">2</SimpleData>
+		<SimpleData name="Type">All Age</SimpleData>
+		<SimpleData name="Descript">Tabernacle Baptist Christian Academy</SimpleData>
+		<SimpleData name="Phone">352-9556</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6868082129273,26.540042790263</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Id">3</SimpleData>
+		<SimpleData name="Type">High School</SimpleData>
+		<SimpleData name="Descript">Grand Bahama Catholic High</SimpleData>
+		<SimpleData name="URL">http://chs.cec.edu.bs/</SimpleData>
+		<SimpleData name="Phone">352-2544</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6730727745088,26.5410516905314</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Id">4</SimpleData>
+		<SimpleData name="Type">Primary School</SimpleData>
+		<SimpleData name="Descript">Freeport Primary School</SimpleData>
+		<SimpleData name="URL">http://www.bahamaseducation.com/</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6707681347276,26.5206142679796</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Id">5</SimpleData>
+		<SimpleData name="Type">Primary School</SimpleData>
+		<SimpleData name="Descript">Walter Parker Primary School</SimpleData>
+		<SimpleData name="URL">http://www.bahamaseducation.com/</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6719183088584,26.5205808291411</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Id">6</SimpleData>
+		<SimpleData name="Type">Primary School</SimpleData>
+		<SimpleData name="Descript">Bishop Michael Eldon Primary School</SimpleData>
+		<SimpleData name="URL">http://www.btvi.org.bs/jhome/</SimpleData>
+		<SimpleData name="Phone">373-3579</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6729452498664,26.5190403852893</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Id">8</SimpleData>
+		<SimpleData name="Type">Primary School</SimpleData>
+		<SimpleData name="Descript">Mary Star of the Sea Catholic School</SimpleData>
+		<SimpleData name="URL">http://mssprimary.ash.com/index_home.mss.html</SimpleData>
+		<SimpleData name="Phone">373-3456</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6882003458716,26.5169176583484</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Id">9</SimpleData>
+		<SimpleData name="Type">High School</SimpleData>
+		<SimpleData name="Descript">St.Georges' High School</SimpleData>
+		<SimpleData name="URL">http://www.bahamaseducation.com/</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6837413493158,26.512694955219</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Id">10</SimpleData>
+		<SimpleData name="Type">Primary School</SimpleData>
+		<SimpleData name="Descript">Hugh Campbell Primary School</SimpleData>
+		<SimpleData name="URL">http://www.bahamaseducation.com/</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7047860635146,26.5376044703724</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Id">11</SimpleData>
+		<SimpleData name="Type">College</SimpleData>
+		<SimpleData name="Descript">College of the Bahamas</SimpleData>
+		<SimpleData name="URL">http://www.cob.edu.bs/</SimpleData>
+		<SimpleData name="Phone">352-9761</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.5536546556235,26.5939323647958</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Id">12</SimpleData>
+		<SimpleData name="Type">Vocational School</SimpleData>
+		<SimpleData name="Descript">Bahamas Technical &amp; Vocational Institute</SimpleData>
+		<SimpleData name="URL">http://www.btvi.org.bs/jhome/</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7019339385536,26.5378389908163</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Id">13</SimpleData>
+		<SimpleData name="Type">All Age</SimpleData>
+		<SimpleData name="Descript">St. Pauls Methodist College</SimpleData>
+		<SimpleData name="Phone">352-6225</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6906319196867,26.5368055026347</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Id">14</SimpleData>
+		<SimpleData name="Type">Primary School</SimpleData>
+		<SimpleData name="Descript">Maurice Moore Primary School</SimpleData>
+		<SimpleData name="URL">http://www.bahamaseducation.com/</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.639861981031,26.5434556829026</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Id">15</SimpleData>
+		<SimpleData name="Type">All Age</SimpleData>
+		<SimpleData name="Descript">Grand Bahama Academy of Seventh Day Adventist</SimpleData>
+		<SimpleData name="URL">http://northbahamasconference.interamerica.org/gra</SimpleData>
+		<SimpleData name="Phone">373-4794</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6403071655338,26.5452193384511</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Id">16</SimpleData>
+		<SimpleData name="Type">Primary School</SimpleData>
+		<SimpleData name="Descript">Freeport Gospel Chapel School</SimpleData>
+		<SimpleData name="Phone">374-3427</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6569274283764,26.5340929333805</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Id">17</SimpleData>
+		<SimpleData name="Type">All Age School</SimpleData>
+		<SimpleData name="Descript">Lucaya International School</SimpleData>
+		<SimpleData name="URL">http://www.lucayainternationalschool.com/home/</SimpleData>
+		<SimpleData name="Phone">373-4004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.5939672103964,26.5456888312995</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Id">18</SimpleData>
+		<SimpleData name="Type">All Age School</SimpleData>
+		<SimpleData name="Descript">Alpha &amp; Omega</SimpleData>
+		<SimpleData name="Phone">352-4378</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6902019118399,26.5222904020093</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Id">19</SimpleData>
+		<SimpleData name="Type">High School</SimpleData>
+		<SimpleData name="Descript">Sir Jack Hayward High School</SimpleData>
+		<SimpleData name="URL">http://www.bahamaseducation.com/</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6662576175444,26.5335115902892</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Id">20</SimpleData>
+		<SimpleData name="Type">High School</SimpleData>
+		<SimpleData name="Descript">Bishop Michael Eldon</SimpleData>
+		<SimpleData name="URL">http://www.edline.net/pages/BMES</SimpleData>
+		<SimpleData name="Phone">373-3579</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6740847086362,26.5174575028012</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Id">21</SimpleData>
+		<SimpleData name="Type">All Age</SimpleData>
+		<SimpleData name="Descript">Sunland Baptist Academy</SimpleData>
+		<SimpleData name="URL">http://www.sunlandbaptistacademy.org/</SimpleData>
+		<SimpleData name="Phone">373-3700</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6744330785372,26.5210555989101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Id">22</SimpleData>
+		<SimpleData name="Type">Junior High</SimpleData>
+		<SimpleData name="Descript">Sister Mary Patricia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6820784095554,26.5127341537239</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Id">23</SimpleData>
+		<SimpleData name="Type">Primary School</SimpleData>
+		<SimpleData name="Descript">Bartlett Hill Primary School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7899398251476,26.532712557006</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Id">24</SimpleData>
+		<SimpleData name="Type">High School</SimpleData>
+		<SimpleData name="Descript">Eight Mile Rock High School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.8071528528457,26.5458938540328</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Id">25</SimpleData>
+		<SimpleData name="Type">All Age</SimpleData>
+		<SimpleData name="Descript">West End All Age School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.9722405076346,26.6913216920094</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Id">7</SimpleData>
+		<SimpleData name="Type">Primary School</SimpleData>
+		<SimpleData name="Descript">St. Vincet Primary School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7314571130037,26.4966750971246</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Id">27</SimpleData>
+		<SimpleData name="Type">Primary School</SimpleData>
+		<SimpleData name="Descript">Martin Town Primary School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.8151148057529,26.5439430514021</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

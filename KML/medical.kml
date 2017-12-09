@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="medical" id="medical">
+	<SimpleField name="Type" type="string"></SimpleField>
+</Schema>
+<Folder><name>medical</name>
+  <Placemark>
+	<name>Rand Memorial Hospital</name>
+	<ExtendedData><SchemaData schemaUrl="#medical">
+		<SimpleData name="Type">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6921627150677,26.5324512342064</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sunrise Medical Center</name>
+	<ExtendedData><SchemaData schemaUrl="#medical">
+		<SimpleData name="Type">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6872255807377,26.5166621715488</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lucayan Medical Center</name>
+	<ExtendedData><SchemaData schemaUrl="#medical">
+		<SimpleData name="Type">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6636513189,26.5223102644439</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Medical Pavilion</name>
+	<ExtendedData><SchemaData schemaUrl="#medical">
+		<SimpleData name="Type">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6709385810967,26.5181724306967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Hawksbill Clinic</name>
+	<ExtendedData><SchemaData schemaUrl="#medical">
+		<SimpleData name="Type">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7376914704904,26.5113251377728</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eight Mile Rock Clinic</name>
+	<ExtendedData><SchemaData schemaUrl="#medical">
+		<SimpleData name="Type">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7933987867292,26.533865162438</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>West End Clinic</name>
+	<ExtendedData><SchemaData schemaUrl="#medical">
+		<SimpleData name="Type">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.9743656214745,26.6962268971857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Okyanos Cell Therapy</name>
+	<ExtendedData><SchemaData schemaUrl="#medical">
+		<SimpleData name="Type">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6943576938736,26.5244625588091</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

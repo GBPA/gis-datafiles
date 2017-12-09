@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="parks_recreation" id="parks_recreation">
+	<SimpleField name="Comment" type="string"></SimpleField>
+	<SimpleField name="GPS_Date" type="string"></SimpleField>
+	<SimpleField name="GPS_Time" type="string"></SimpleField>
+</Schema>
+<Folder><name>parks_recreation</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#parks_recreation">
+		<SimpleData name="Comment">C.L. Griffin Community Park</SimpleData>
+		<SimpleData name="GPS_Date">2013/07/26</SimpleData>
+		<SimpleData name="GPS_Time">02:14:20pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7030179369536,26.5316773277259</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#parks_recreation">
+		<SimpleData name="Comment">Neko Grant Community Park</SimpleData>
+		<SimpleData name="GPS_Date">2013/07/26</SimpleData>
+		<SimpleData name="GPS_Time">02:25:15pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7239470766922,26.5226402806551</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#parks_recreation">
+		<SimpleData name="Comment">Adena Medows Communit Park</SimpleData>
+		<SimpleData name="GPS_Date">2013/07/26</SimpleData>
+		<SimpleData name="GPS_Time">02:32:20pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.736589643689,26.5132810241964</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#parks_recreation">
+		<SimpleData name="Comment">Charlie Robins Recreation Facil</SimpleData>
+		<SimpleData name="GPS_Date">2013/07/26</SimpleData>
+		<SimpleData name="GPS_Time">02:51:20pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.687313150659,26.5325330999606</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#parks_recreation">
+		<SimpleData name="Comment">Richard Gaitor Community Park</SimpleData>
+		<SimpleData name="GPS_Date">2013/07/26</SimpleData>
+		<SimpleData name="GPS_Time">03:01:35pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6727212043784,26.5345390914124</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#parks_recreation">
+		<SimpleData name="Comment">Erro Bodie Community Park</SimpleData>
+		<SimpleData name="GPS_Date">2013/07/26</SimpleData>
+		<SimpleData name="GPS_Time">03:04:45pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6749461768255,26.5322103462126</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#parks_recreation">
+		<SimpleData name="Comment">Zenobia Kemp Community Park</SimpleData>
+		<SimpleData name="GPS_Date">2013/07/26</SimpleData>
+		<SimpleData name="GPS_Time">03:25:30pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6706770950721,26.526404859509</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#parks_recreation">
+		<SimpleData name="Comment">Jim White Field</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7154767718215,26.5405846719719</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#parks_recreation">
+		<SimpleData name="Comment">St. Pauls Track</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6931810299654,26.5370436819305</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#parks_recreation">
+		<SimpleData name="Comment">Mary Star Sport Field</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6870287367248,26.5177519484734</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#parks_recreation">
+		<SimpleData name="Comment">Independence Park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6714529943675,26.5215167862456</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#parks_recreation">
+		<SimpleData name="Comment">Bishop Micheal Eldon Sport Field</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6737966142624,26.5191972579132</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#parks_recreation">
+		<SimpleData name="Comment">Freeport Sports Field</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.677071077653,26.5434585530402</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#parks_recreation">
+		<SimpleData name="Comment">Cheseapeake Park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6001399182722,26.5546041741881</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#parks_recreation">
+		<SimpleData name="Comment">Royal Bahamian Estates Park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6686191763071,26.4973355606708</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#parks_recreation">
+		<SimpleData name="Comment">Coral Gardens Park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6661850241373,26.5169461317452</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#parks_recreation">
+		<SimpleData name="Comment">Queen's Cove Park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7444802683186,26.5380675404568</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#parks_recreation">
+		<SimpleData name="Comment">Moon McPhee Park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6590317075807,26.5338992914582</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#parks_recreation">
+		<SimpleData name="Comment">Rand Nature Center</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6718439966646,26.5382686160572</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#parks_recreation">
+		<SimpleData name="Comment">Garden of the Grooves</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.5737231811651,26.5532391491631</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

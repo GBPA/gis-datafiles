@@ -1,0 +1,2627 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fire_hydrants" id="fire_hydrants">
+	<SimpleField name="Date_" type="string"></SimpleField>
+	<SimpleField name="Time" type="string"></SimpleField>
+	<SimpleField name="Year_of_Ma" type="string"></SimpleField>
+	<SimpleField name="Street" type="string"></SimpleField>
+	<SimpleField name="Colour" type="string"></SimpleField>
+	<SimpleField name="Number_of_" type="string"></SimpleField>
+	<SimpleField name="Main_Valve" type="string"></SimpleField>
+	<SimpleField name="Height_of_" type="string"></SimpleField>
+	<SimpleField name="Style" type="string"></SimpleField>
+	<SimpleField name="GPS_Date" type="string"></SimpleField>
+	<SimpleField name="GPS_Time" type="string"></SimpleField>
+</Schema>
+<Folder><name>fire_hydrants</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">04:09:12pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2013/04/23</SimpleData>
+		<SimpleData name="Street">Fishing hole road</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/23</SimpleData>
+		<SimpleData name="GPS_Time">04:09:14pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7397507473441,26.5266622538584</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">04:15:43pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2013/04/23</SimpleData>
+		<SimpleData name="Street">Abaco Drive</SimpleData>
+		<SimpleData name="Colour">No Paint</SimpleData>
+		<SimpleData name="Number_of_">One</SimpleData>
+		<SimpleData name="Style">Standpipe</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/23</SimpleData>
+		<SimpleData name="GPS_Time">04:15:45pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7340777778588,26.5160737626095</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">04:18:54pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2013/04/23</SimpleData>
+		<SimpleData name="Street">Abaco Drive</SimpleData>
+		<SimpleData name="Colour">No Paint</SimpleData>
+		<SimpleData name="Number_of_">One</SimpleData>
+		<SimpleData name="Main_Valve">2.5</SimpleData>
+		<SimpleData name="Height_of_">4ft</SimpleData>
+		<SimpleData name="Style">Standpipe</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/23</SimpleData>
+		<SimpleData name="GPS_Time">04:18:55pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.735388657842,26.5160328527734</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">04:21:45pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2013/04/23</SimpleData>
+		<SimpleData name="Street">Abaco Drive</SimpleData>
+		<SimpleData name="Colour">No Paint</SimpleData>
+		<SimpleData name="Number_of_">One</SimpleData>
+		<SimpleData name="Main_Valve">2.5</SimpleData>
+		<SimpleData name="Height_of_">2ft</SimpleData>
+		<SimpleData name="Style">Standpipe</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/23</SimpleData>
+		<SimpleData name="GPS_Time">04:21:46pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7369039232997,26.5159245846552</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">04:23:58pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2013/04/23</SimpleData>
+		<SimpleData name="Street">Abaco Drive</SimpleData>
+		<SimpleData name="Colour">No Paint</SimpleData>
+		<SimpleData name="Number_of_">One</SimpleData>
+		<SimpleData name="Main_Valve">2.5</SimpleData>
+		<SimpleData name="Height_of_">1ft</SimpleData>
+		<SimpleData name="Style">Standpipe</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/23</SimpleData>
+		<SimpleData name="GPS_Time">04:23:59pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7383449642906,26.5157240150981</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">04:26:01pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2001/05/18</SimpleData>
+		<SimpleData name="Street">Eleuthera Drive</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Height_of_">3ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/23</SimpleData>
+		<SimpleData name="GPS_Time">04:26:02pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7397340638176,26.515511873022</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">04:37:12pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2006/04/23</SimpleData>
+		<SimpleData name="Street">Jumbay Dribe</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">1ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/23</SimpleData>
+		<SimpleData name="GPS_Time">04:37:13pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7399151657414,26.5088615681345</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">04:42:06pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2006/04/23</SimpleData>
+		<SimpleData name="Street">Pine Road</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">2ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/23</SimpleData>
+		<SimpleData name="GPS_Time">04:42:08pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7356661755018,26.5094757597057</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">04:46:06pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2006/04/23</SimpleData>
+		<SimpleData name="Street">Jumbay Drive</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">2ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/23</SimpleData>
+		<SimpleData name="GPS_Time">04:46:09pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7342535753154,26.5081349180133</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">04:49:44pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2006/04/23</SimpleData>
+		<SimpleData name="Street">Jumbay Drive</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">1ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/23</SimpleData>
+		<SimpleData name="GPS_Time">04:49:46pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7373732620022,26.5081800342239</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">04:56:26pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2006/04/23</SimpleData>
+		<SimpleData name="Street">Westwind Road</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">.255</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/23</SimpleData>
+		<SimpleData name="GPS_Time">04:56:28pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7316303314475,26.5117293331157</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">05:01:12pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2006/04/23</SimpleData>
+		<SimpleData name="Street">Westwind Road</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">1.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/23</SimpleData>
+		<SimpleData name="GPS_Time">05:01:14pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7347196541326,26.5114755299606</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">05:04:46pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2003/04/23</SimpleData>
+		<SimpleData name="Street">Westport Way</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">2ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/23</SimpleData>
+		<SimpleData name="GPS_Time">05:04:48pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7300922487851,26.5124805027226</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">05:10:13pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2001/04/23</SimpleData>
+		<SimpleData name="Street">Westport Way</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">2ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/23</SimpleData>
+		<SimpleData name="GPS_Time">05:10:15pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7303785352491,26.5139720382078</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">05:15:16pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2001/04/23</SimpleData>
+		<SimpleData name="Street">Westport Way</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">2.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/23</SimpleData>
+		<SimpleData name="GPS_Time">05:15:19pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7305474003924,26.5162521937334</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">05:24:33pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2013/04/23</SimpleData>
+		<SimpleData name="Street">Sunrise Highway</SimpleData>
+		<SimpleData name="Colour">No Paint</SimpleData>
+		<SimpleData name="Number_of_">One</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">3ft</SimpleData>
+		<SimpleData name="Style">Standpipe</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/23</SimpleData>
+		<SimpleData name="GPS_Time">05:25:28pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7529976984063,26.5182548230301</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">05:29:51pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2007/04/23</SimpleData>
+		<SimpleData name="Street">Queens Highway</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">3ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/23</SimpleData>
+		<SimpleData name="GPS_Time">05:29:54pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7373698624015,26.525597671439</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">05:34:11pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1977/04/23</SimpleData>
+		<SimpleData name="Street">Thackery</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">2.5</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/23</SimpleData>
+		<SimpleData name="GPS_Time">05:34:13pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7169238257404,26.5359425037741</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">05:36:42pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1971/04/23</SimpleData>
+		<SimpleData name="Street">Queens Highway</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">2.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/23</SimpleData>
+		<SimpleData name="GPS_Time">05:36:45pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7141200635424,26.5374936859541</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">05:40:24pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1971/04/23</SimpleData>
+		<SimpleData name="Street">Queens Highway</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">2.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/23</SimpleData>
+		<SimpleData name="GPS_Time">05:40:26pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7095596174153,26.5400191928179</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">05:43:24pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1971/04/23</SimpleData>
+		<SimpleData name="Street">Queens Highway</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">2.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/23</SimpleData>
+		<SimpleData name="GPS_Time">05:43:26pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7068726393904,26.5411760733464</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">05:46:57pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1971/04/23</SimpleData>
+		<SimpleData name="Street">Queens Highway</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">2.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/23</SimpleData>
+		<SimpleData name="GPS_Time">05:48:18pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7030383224593,26.5427740218084</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">05:50:13pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2013/04/23</SimpleData>
+		<SimpleData name="Street">Queens Highway</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">One</SimpleData>
+		<SimpleData name="Main_Valve">2</SimpleData>
+		<SimpleData name="Height_of_">2.5</SimpleData>
+		<SimpleData name="Style">Standpipe</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/23</SimpleData>
+		<SimpleData name="GPS_Time">05:50:18pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7021594737857,26.5429623514882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">05:55:12pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2001/04/23</SimpleData>
+		<SimpleData name="Street">Cedar Street</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">2.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/23</SimpleData>
+		<SimpleData name="GPS_Time">05:55:14pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6963711961073,26.5407463670862</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">06:00:03pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1986/04/23</SimpleData>
+		<SimpleData name="Street">West Mall Drive</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">2.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/23</SimpleData>
+		<SimpleData name="GPS_Time">06:00:05pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6964307823666,26.5360052271007</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">06:03:38pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2011/04/23</SimpleData>
+		<SimpleData name="Street">Explorers Way</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">2ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/23</SimpleData>
+		<SimpleData name="GPS_Time">06:06:05pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6958049843526,26.534310361685</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">04:32:34pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2007/04/24</SimpleData>
+		<SimpleData name="Street">Aintree Drive</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">1.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/24</SimpleData>
+		<SimpleData name="GPS_Time">04:32:35pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7277632178524,26.5185670853626</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">04:37:42pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1997/04/24</SimpleData>
+		<SimpleData name="Street">Brompton Road</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">2ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/24</SimpleData>
+		<SimpleData name="GPS_Time">04:37:43pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7235134148095,26.5193526815091</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">04:40:32pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2007/04/24</SimpleData>
+		<SimpleData name="Street">Seymour Drive</SimpleData>
+		<SimpleData name="Colour">No Paint</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">6</SimpleData>
+		<SimpleData name="Height_of_">1.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/24</SimpleData>
+		<SimpleData name="GPS_Time">04:40:33pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7258472233954,26.520146660381</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">04:59:42pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2006/04/24</SimpleData>
+		<SimpleData name="Street">Trade Winds Drive</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">1.5</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/24</SimpleData>
+		<SimpleData name="GPS_Time">04:59:44pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7088147796604,26.5091389909005</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">05:08:20pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2006/04/24</SimpleData>
+		<SimpleData name="Street">Santa Maria</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">2ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/24</SimpleData>
+		<SimpleData name="GPS_Time">05:08:22pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.700497716795,26.5018476661652</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">05:16:38pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2013/04/24</SimpleData>
+		<SimpleData name="Street">Princess Isle Lane</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">1.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/24</SimpleData>
+		<SimpleData name="GPS_Time">05:16:40pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7072751596198,26.4943255146593</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">05:19:17pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1998/04/24</SimpleData>
+		<SimpleData name="Street">Princess Isle Lane</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">2ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/24</SimpleData>
+		<SimpleData name="GPS_Time">05:19:19pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7091367747038,26.4946976298877</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">05:20:51pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1998/04/24</SimpleData>
+		<SimpleData name="Street">Princess Isle Lane</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">2ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/24</SimpleData>
+		<SimpleData name="GPS_Time">05:21:08pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7099816712978,26.4946273208084</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">05:22:40pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1998/04/24</SimpleData>
+		<SimpleData name="Street">Princess Isle Lane</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">2ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/24</SimpleData>
+		<SimpleData name="GPS_Time">05:22:42pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7109022814319,26.4940862758305</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">05:24:12pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1996/04/24</SimpleData>
+		<SimpleData name="Street">Princess Isle Lane</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">2ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/24</SimpleData>
+		<SimpleData name="GPS_Time">05:24:14pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7117974351875,26.4937715733776</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">05:25:31pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1996/04/24</SimpleData>
+		<SimpleData name="Street">Princess Isle Lane</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">2ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/24</SimpleData>
+		<SimpleData name="GPS_Time">05:25:33pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7126813633173,26.4938994835646</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">05:26:54pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1996/04/24</SimpleData>
+		<SimpleData name="Street">Princess Isle Lane</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.26</SimpleData>
+		<SimpleData name="Height_of_">2.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/24</SimpleData>
+		<SimpleData name="GPS_Time">05:26:56pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7136773946775,26.4942354189345</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">05:28:23pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1996/04/24</SimpleData>
+		<SimpleData name="Street">Princess Isle Lane</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">3ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/24</SimpleData>
+		<SimpleData name="GPS_Time">05:28:25pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7144947629436,26.4939742724392</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">05:29:44pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1996/04/24</SimpleData>
+		<SimpleData name="Street">Princess Isle Lane</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">2ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/24</SimpleData>
+		<SimpleData name="GPS_Time">05:29:46pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7153818925731,26.4941789812726</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">05:31:04pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1996/04/24</SimpleData>
+		<SimpleData name="Street">Princess Isle Lane</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">2.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/24</SimpleData>
+		<SimpleData name="GPS_Time">05:31:07pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7163524251237,26.4944242321063</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">05:32:24pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1996/04/24</SimpleData>
+		<SimpleData name="Street">Princess Isle Lane</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">2.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/24</SimpleData>
+		<SimpleData name="GPS_Time">05:32:26pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7169766591666,26.4944811600493</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">05:33:40pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1996/04/24</SimpleData>
+		<SimpleData name="Street">Princess Isle Lane</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">1.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/24</SimpleData>
+		<SimpleData name="GPS_Time">05:33:42pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7177212387062,26.4947968529296</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">05:35:05pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1996/04/24</SimpleData>
+		<SimpleData name="Street">Princess Isle Lane</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">2ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/24</SimpleData>
+		<SimpleData name="GPS_Time">05:35:08pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7187373051313,26.4946942810723</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">05:36:23pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1996/04/24</SimpleData>
+		<SimpleData name="Street">Princess Isle Lane</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">3ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/24</SimpleData>
+		<SimpleData name="GPS_Time">05:36:25pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7196879718609,26.4946550564275</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">05:38:20pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1996/04/24</SimpleData>
+		<SimpleData name="Street">Princess Isle Lane</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">2ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/24</SimpleData>
+		<SimpleData name="GPS_Time">05:38:22pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7212171803019,26.4950800381983</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">05:39:45pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1996/04/24</SimpleData>
+		<SimpleData name="Street">Princess Isle Lane</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">3ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/24</SimpleData>
+		<SimpleData name="GPS_Time">05:39:49pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7204203995531,26.4951241218193</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">05:42:28pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1996/04/24</SimpleData>
+		<SimpleData name="Street">Princess Isle Lane</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">2.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/24</SimpleData>
+		<SimpleData name="GPS_Time">05:42:32pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7127253652863,26.4944370971767</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">05:43:36pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1996/04/24</SimpleData>
+		<SimpleData name="Street">Princess Isle Lane</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">3ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/24</SimpleData>
+		<SimpleData name="GPS_Time">05:43:39pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7118262251678,26.494348866418</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">05:44:48pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1996/04/24</SimpleData>
+		<SimpleData name="Street">Princess Isle Lane</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">2.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/24</SimpleData>
+		<SimpleData name="GPS_Time">05:44:50pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7109224758771,26.4944232528754</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">05:46:27pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1996/04/24</SimpleData>
+		<SimpleData name="Street">Princess Isle Lane</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/24</SimpleData>
+		<SimpleData name="GPS_Time">05:46:29pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7082003619013,26.4945053275332</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">05:54:58pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2007/04/24</SimpleData>
+		<SimpleData name="Street">Yorkshire Drive</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">3ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/24</SimpleData>
+		<SimpleData name="GPS_Time">05:55:00pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.72252307124,26.515673751866</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">06:00:35pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2005/04/24</SimpleData>
+		<SimpleData name="Street">W. Atlantic Drive</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">2.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/24</SimpleData>
+		<SimpleData name="GPS_Time">06:00:37pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6993757866019,26.5209648594086</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">06:03:49pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2004/04/24</SimpleData>
+		<SimpleData name="Street">W. Atlantic Drive</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">1ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/24</SimpleData>
+		<SimpleData name="GPS_Time">06:03:51pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6984135228787,26.5239387928882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">06:12:01pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1971/04/24</SimpleData>
+		<SimpleData name="Street">York Steet</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">2ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/24</SimpleData>
+		<SimpleData name="GPS_Time">06:12:03pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6962771524158,26.53047490736</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">06:15:00pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1970/04/24</SimpleData>
+		<SimpleData name="Street">Pioneers Street</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">2ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/24</SimpleData>
+		<SimpleData name="GPS_Time">06:15:35pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6947713146802,26.530496342673</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">06:22:39pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2013/04/24</SimpleData>
+		<SimpleData name="Street">Mall Drive</SimpleData>
+		<SimpleData name="Colour">No Paint</SimpleData>
+		<SimpleData name="Number_of_">One</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">3ft</SimpleData>
+		<SimpleData name="Style">Standpipe</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/24</SimpleData>
+		<SimpleData name="GPS_Time">06:22:41pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6934675657445,26.5322529575258</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">05:56:01pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2007/04/25</SimpleData>
+		<SimpleData name="Street">Sergeant Major</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">3ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/25</SimpleData>
+		<SimpleData name="GPS_Time">05:56:03pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6582416191982,26.532706684177</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">06:02:00pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1998/04/25</SimpleData>
+		<SimpleData name="Street">E. Indianman Drive</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">2.75ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/25</SimpleData>
+		<SimpleData name="GPS_Time">06:02:02pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6600869278067,26.5371226315326</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">06:10:35pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2011/04/25</SimpleData>
+		<SimpleData name="Street">S/Ringwood Drive</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">3ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/25</SimpleData>
+		<SimpleData name="GPS_Time">06:10:37pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6441688314925,26.5365509479988</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">06:14:14pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2011/05/25</SimpleData>
+		<SimpleData name="Street">Firecroft Road</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">2.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/25</SimpleData>
+		<SimpleData name="GPS_Time">06:14:15pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6393049820989,26.5360826182441</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">06:20:28pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1997/04/25</SimpleData>
+		<SimpleData name="Street">E. Indianman Drive</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">2.75ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/25</SimpleData>
+		<SimpleData name="GPS_Time">06:20:30pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6477852612694,26.5411514525201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">06:28:51pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2008/04/25</SimpleData>
+		<SimpleData name="Street">Albacore Drive</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.24</SimpleData>
+		<SimpleData name="Height_of_">2ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/25</SimpleData>
+		<SimpleData name="GPS_Time">06:31:34pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6519741799448,26.523652426815</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">06:36:06pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2008/04/25</SimpleData>
+		<SimpleData name="Street">Harrow Place</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">2ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/25</SimpleData>
+		<SimpleData name="GPS_Time">06:36:08pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6467723599669,26.5198273350562</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">06:46:31pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2013/04/25</SimpleData>
+		<SimpleData name="Street">Bell Channel Road</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">2ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/25</SimpleData>
+		<SimpleData name="GPS_Time">06:46:34pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6452163381527,26.511899158512</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">06:51:24pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1999/04/25</SimpleData>
+		<SimpleData name="Street">Manor House</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">2ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/25</SimpleData>
+		<SimpleData name="GPS_Time">06:51:26pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6395167652999,26.512736609406</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">06:53:12pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2013/04/25</SimpleData>
+		<SimpleData name="Street">Manor House</SimpleData>
+		<SimpleData name="Colour">No Paint</SimpleData>
+		<SimpleData name="Number_of_">Two</SimpleData>
+		<SimpleData name="Main_Valve">3</SimpleData>
+		<SimpleData name="Height_of_">3ft</SimpleData>
+		<SimpleData name="Style">Standpipe</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/25</SimpleData>
+		<SimpleData name="GPS_Time">06:53:23pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6396102659311,26.5125233994224</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">06:55:25pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2013/04/25</SimpleData>
+		<SimpleData name="Street">Manor House</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Two</SimpleData>
+		<SimpleData name="Main_Valve">3</SimpleData>
+		<SimpleData name="Height_of_">4ft</SimpleData>
+		<SimpleData name="Style">Standpipe</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/25</SimpleData>
+		<SimpleData name="GPS_Time">06:55:27pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6401577158552,26.5126020738804</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">06:56:14pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2013/04/25</SimpleData>
+		<SimpleData name="Street">Manor House</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">3</SimpleData>
+		<SimpleData name="Height_of_">4ft</SimpleData>
+		<SimpleData name="Style">Standpipe</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/25</SimpleData>
+		<SimpleData name="GPS_Time">06:56:16pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6401853302515,26.5125939331911</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">07:00:44pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1999/04/25</SimpleData>
+		<SimpleData name="Street">Seahorse Road</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">3ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/25</SimpleData>
+		<SimpleData name="GPS_Time">07:00:45pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6419027405727,26.5121835511486</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">07:03:09pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2009/04/25</SimpleData>
+		<SimpleData name="Street">Seahorse Road</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">2.ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/25</SimpleData>
+		<SimpleData name="GPS_Time">07:03:11pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.642724072474,26.5119564380343</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">07:07:37pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1970/04/25</SimpleData>
+		<SimpleData name="Street">Kings Road</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">3ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/25</SimpleData>
+		<SimpleData name="GPS_Time">07:07:38pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6476978540015,26.5151871566142</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">07:09:59pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1970/04/25</SimpleData>
+		<SimpleData name="Street">Kings Road</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">3.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/25</SimpleData>
+		<SimpleData name="GPS_Time">07:10:03pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6424527110396,26.5173008452981</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">07:21:47pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1971/04/25</SimpleData>
+		<SimpleData name="Street">Victoria Place</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">2ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/25</SimpleData>
+		<SimpleData name="GPS_Time">07:21:49pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.643994504142,26.5183112969331</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">07:25:26pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1970/04/25</SimpleData>
+		<SimpleData name="Street">Albacore Drive</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">3.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/25</SimpleData>
+		<SimpleData name="GPS_Time">07:25:28pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6397112422038,26.5230247153446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">07:40:13pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2013/04/25</SimpleData>
+		<SimpleData name="Street">Sunrise Highway</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">0.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/25</SimpleData>
+		<SimpleData name="GPS_Time">07:40:15pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6232266031891,26.5435188668402</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">07:44:00pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1998/04/25</SimpleData>
+		<SimpleData name="Street">Arden Forest Road</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">1.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/25</SimpleData>
+		<SimpleData name="GPS_Time">07:44:04pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6359345555042,26.5358374856282</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">07:46:24pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2006/04/25</SimpleData>
+		<SimpleData name="Street">Arden Forest Road</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">3ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/25</SimpleData>
+		<SimpleData name="GPS_Time">07:46:26pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6347483916535,26.5302628146324</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">07:57:49pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2006/04/25</SimpleData>
+		<SimpleData name="Street">Ganymede Road</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">2.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/25</SimpleData>
+		<SimpleData name="GPS_Time">07:57:50pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6368997514951,26.5275905079002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">08:00:43pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2006/04/25</SimpleData>
+		<SimpleData name="Street">Fenchurch Drive</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">3ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/25</SimpleData>
+		<SimpleData name="GPS_Time">08:00:45pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6397384102859,26.5282298828369</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">08:02:47pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2006/04/25</SimpleData>
+		<SimpleData name="Street">Ganymede Road</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">3ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/25</SimpleData>
+		<SimpleData name="GPS_Time">08:02:48pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6378715281456,26.5293759703731</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">08:05:19pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2006/04/25</SimpleData>
+		<SimpleData name="Street">Ganymede Road</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">3ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/25</SimpleData>
+		<SimpleData name="GPS_Time">08:05:20pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6383238961379,26.5303649667129</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">08:09:49pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2010/04/26</SimpleData>
+		<SimpleData name="Street">Balao Loop</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">1ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/26</SimpleData>
+		<SimpleData name="GPS_Time">08:09:50pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6506464085481,26.5468137245856</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">08:14:58pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2006/04/26</SimpleData>
+		<SimpleData name="Street">Balao Loop</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">2ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/26</SimpleData>
+		<SimpleData name="GPS_Time">08:14:59pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6488580372004,26.5471147897337</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">08:18:32pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2002/04/26</SimpleData>
+		<SimpleData name="Street">Faith Avenue</SimpleData>
+		<SimpleData name="Colour">No Paint</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">2ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/26</SimpleData>
+		<SimpleData name="GPS_Time">08:18:35pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6508358277442,26.5443610769975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">08:23:59pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2002/04/26</SimpleData>
+		<SimpleData name="Street">Faith Avenue</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">2ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/26</SimpleData>
+		<SimpleData name="GPS_Time">08:24:00pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6538473834613,26.5439909139643</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">08:26:31pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2013/04/26</SimpleData>
+		<SimpleData name="Street">Faith Avenue</SimpleData>
+		<SimpleData name="Colour">No Paint</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/26</SimpleData>
+		<SimpleData name="GPS_Time">08:26:32pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6552719893349,26.543032071162</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">08:28:55pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2003/04/26</SimpleData>
+		<SimpleData name="Street">Sergeant Major</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">2ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/26</SimpleData>
+		<SimpleData name="GPS_Time">08:28:56pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6555200483492,26.5463384928868</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">08:31:35pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2008/04/26</SimpleData>
+		<SimpleData name="Street">Loyalist Drive</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">3ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/26</SimpleData>
+		<SimpleData name="GPS_Time">08:31:36pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6570833651236,26.5489590765001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">08:34:29pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2013/04/26</SimpleData>
+		<SimpleData name="Street">Independence Lane</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">2ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/26</SimpleData>
+		<SimpleData name="GPS_Time">08:34:30pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6569538505886,26.5431293624686</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">09:04:15pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2013/04/26</SimpleData>
+		<SimpleData name="Street">Booty Drive</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">1ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/26</SimpleData>
+		<SimpleData name="GPS_Time">09:04:19pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6082579685984,26.5301355706946</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">09:11:44pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2006/04/26</SimpleData>
+		<SimpleData name="Street">Doubloon Drivee</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">2.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/26</SimpleData>
+		<SimpleData name="GPS_Time">09:12:25pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.587888294384,26.5412468775378</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">05:48:27pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2004/04/29</SimpleData>
+		<SimpleData name="Street">Mall Drive</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">2.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/29</SimpleData>
+		<SimpleData name="GPS_Time">05:48:33pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6952509534793,26.5181682266755</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">05:51:48pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2001/04/29</SimpleData>
+		<SimpleData name="Street">Baazar</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">2.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/29</SimpleData>
+		<SimpleData name="GPS_Time">05:51:50pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.696744474027,26.5175539527999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">06:03:59pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1971/04/29</SimpleData>
+		<SimpleData name="Street">Mall Drive</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">2ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/29</SimpleData>
+		<SimpleData name="GPS_Time">06:04:01pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6952168136488,26.514968028036</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">06:07:39pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2001/04/29</SimpleData>
+		<SimpleData name="Street">Mall Drive</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">3.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/29</SimpleData>
+		<SimpleData name="GPS_Time">06:07:41pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6952441684962,26.5000782804925</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">06:12:52pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2013/04/29</SimpleData>
+		<SimpleData name="Street">Drumfish Street</SimpleData>
+		<SimpleData name="Colour">No Paint</SimpleData>
+		<SimpleData name="Number_of_">One</SimpleData>
+		<SimpleData name="Main_Valve">2</SimpleData>
+		<SimpleData name="Height_of_">3ft</SimpleData>
+		<SimpleData name="Style">Standpipe</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/29</SimpleData>
+		<SimpleData name="GPS_Time">06:12:55pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6933838779444,26.5047513564049</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">06:20:37pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2008/04/29</SimpleData>
+		<SimpleData name="Street">Britannia Lane</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">2.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/29</SimpleData>
+		<SimpleData name="GPS_Time">06:20:39pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.685893223672,26.5055564214641</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">06:37:41pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2008/04/29</SimpleData>
+		<SimpleData name="Street">Sunset Highway</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">3ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/29</SimpleData>
+		<SimpleData name="GPS_Time">06:37:43pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6848153810047,26.5133745722856</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">06:39:38pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2008/04/29</SimpleData>
+		<SimpleData name="Street">Sunset Highway</SimpleData>
+		<SimpleData name="Colour">No Paint</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">3ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/29</SimpleData>
+		<SimpleData name="GPS_Time">06:39:40pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6826453593328,26.5133985663253</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">06:43:33pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1971/04/29</SimpleData>
+		<SimpleData name="Street">East Beach Drive</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">2.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/29</SimpleData>
+		<SimpleData name="GPS_Time">06:43:35pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6875936942113,26.5166260835036</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">06:47:47pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1971/04/29</SimpleData>
+		<SimpleData name="Street">Sunrise Highway</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">3ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/29</SimpleData>
+		<SimpleData name="GPS_Time">06:47:49pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6737350505199,26.5165018520506</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">06:52:52pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2013/04/29</SimpleData>
+		<SimpleData name="Street">Beachway Drive</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/29</SimpleData>
+		<SimpleData name="GPS_Time">06:52:53pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6727573503455,26.5061737338522</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">07:02:06pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1971/04/29</SimpleData>
+		<SimpleData name="Street">Coral Road</SimpleData>
+		<SimpleData name="Colour">No Paint</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">1ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/29</SimpleData>
+		<SimpleData name="GPS_Time">07:02:08pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6591388803868,26.5096821439532</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">07:04:30pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1971/04/29</SimpleData>
+		<SimpleData name="Street">Coral Road</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">1ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/29</SimpleData>
+		<SimpleData name="GPS_Time">07:04:32pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6608609829261,26.5113091024578</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">07:06:35pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1971/04/29</SimpleData>
+		<SimpleData name="Street">Coral Road</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">2ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/29</SimpleData>
+		<SimpleData name="GPS_Time">07:06:37pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6624803536451,26.5128241588037</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">07:14:51pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1998/04/29</SimpleData>
+		<SimpleData name="Street">Waterfall Drive</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">3.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/29</SimpleData>
+		<SimpleData name="GPS_Time">07:14:53pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6628618170677,26.5209801177921</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">07:18:01pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2012/04/29</SimpleData>
+		<SimpleData name="Street">Coral Court</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">2.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/29</SimpleData>
+		<SimpleData name="GPS_Time">07:18:03pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6578526480055,26.5215776187721</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">07:21:46pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2012/04/29</SimpleData>
+		<SimpleData name="Street">Waterfall Drive</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">3ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/29</SimpleData>
+		<SimpleData name="GPS_Time">07:21:48pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6575744308267,26.520303415229</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">07:23:25pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1998/04/29</SimpleData>
+		<SimpleData name="Street">King Neptune Drive</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">3.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/29</SimpleData>
+		<SimpleData name="GPS_Time">07:23:27pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6585725765358,26.5194974159171</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">03:55:39pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2010/04/30</SimpleData>
+		<SimpleData name="Street">McKenzie Street</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">1ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/30</SimpleData>
+		<SimpleData name="GPS_Time">03:55:40pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6957059917097,26.5291628383247</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">04:03:35pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2010/04/30</SimpleData>
+		<SimpleData name="Street">W. Mall Drive</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">1ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/30</SimpleData>
+		<SimpleData name="GPS_Time">04:03:37pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6970866375941,26.528562120024</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">04:07:59pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2004/04/30</SimpleData>
+		<SimpleData name="Street">First Caribbean</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">3.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/30</SimpleData>
+		<SimpleData name="GPS_Time">04:08:01pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6947814196235,26.5249740441084</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">04:16:42pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1986/04/30</SimpleData>
+		<SimpleData name="Street">Regent Centre</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">3.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/30</SimpleData>
+		<SimpleData name="GPS_Time">04:16:44pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6944787557899,26.5349050480159</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">04:25:46pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2001/04/30</SimpleData>
+		<SimpleData name="Street">Airport Road</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">2.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/30</SimpleData>
+		<SimpleData name="GPS_Time">04:25:47pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.704463380283,26.5459524171856</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">04:31:07pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1971/04/30</SimpleData>
+		<SimpleData name="Street">Logwood Road</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">2.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/30</SimpleData>
+		<SimpleData name="GPS_Time">04:31:08pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7003277492157,26.5405123297876</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">04:36:55pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2006/04/30</SimpleData>
+		<SimpleData name="Street">Logwood Road</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">3ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/30</SimpleData>
+		<SimpleData name="GPS_Time">04:36:56pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.708029255229,26.5372743322721</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">04:40:08pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2003/04/30</SimpleData>
+		<SimpleData name="Street">Wimpole Drive</SimpleData>
+		<SimpleData name="Colour">Orange</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">3.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/30</SimpleData>
+		<SimpleData name="GPS_Time">04:40:11pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7087536340415,26.5355189553188</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">04:43:41pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2004/04/30</SimpleData>
+		<SimpleData name="Street">Wimpole Street</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">3.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/30</SimpleData>
+		<SimpleData name="GPS_Time">04:43:42pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7067122381596,26.5366474734251</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">04:49:15pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2001/04/30</SimpleData>
+		<SimpleData name="Street">W.Settlers</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">3.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/04/30</SimpleData>
+		<SimpleData name="GPS_Time">04:49:16pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7002730871148,26.5370804754281</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">03:44:10pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1971/05/01</SimpleData>
+		<SimpleData name="Street">E. Atlantic Drive</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">1ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/05/01</SimpleData>
+		<SimpleData name="GPS_Time">03:44:11pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6915311613244,26.5324297255717</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">03:50:13pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2001/05/01</SimpleData>
+		<SimpleData name="Street">Explorers Way</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">2.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/05/01</SimpleData>
+		<SimpleData name="GPS_Time">03:50:14pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6881104434538,26.5348669048536</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">04:03:33pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2013/05/01</SimpleData>
+		<SimpleData name="Street">Atlantic Drive</SimpleData>
+		<SimpleData name="Colour">No Paint</SimpleData>
+		<SimpleData name="Number_of_">One</SimpleData>
+		<SimpleData name="Main_Valve">2</SimpleData>
+		<SimpleData name="Height_of_">2.5ft</SimpleData>
+		<SimpleData name="Style">Standpipe</SimpleData>
+		<SimpleData name="GPS_Date">2013/05/01</SimpleData>
+		<SimpleData name="GPS_Time">04:03:34pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.692736875177,26.5384749370671</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">04:09:25pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2001/05/01</SimpleData>
+		<SimpleData name="Street">Columbus Drive</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">2.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/05/01</SimpleData>
+		<SimpleData name="GPS_Time">04:09:26pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6843375439823,26.531937604736</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">04:13:19pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2001/05/01</SimpleData>
+		<SimpleData name="Street">Grenfell Avenue</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">2.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/05/01</SimpleData>
+		<SimpleData name="GPS_Time">04:13:20pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6814169392837,26.5315997527746</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">04:21:20pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1971/05/01</SimpleData>
+		<SimpleData name="Street">E Atlantic Drive</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">2ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/05/01</SimpleData>
+		<SimpleData name="GPS_Time">04:21:21pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6919625295855,26.5282060647306</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">04:24:14pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1970/05/01</SimpleData>
+		<SimpleData name="Street">E. Atlantic Drive</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">3ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/05/01</SimpleData>
+		<SimpleData name="GPS_Time">04:24:16pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6919865581408,26.5257919239531</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">04:33:06pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1971/05/01</SimpleData>
+		<SimpleData name="Street">Somerville Drive</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">2.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/05/01</SimpleData>
+		<SimpleData name="GPS_Time">04:33:08pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.678820034199,26.5175083732535</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">04:36:14pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2008/05/01</SimpleData>
+		<SimpleData name="Street">Access Road</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">3ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/05/01</SimpleData>
+		<SimpleData name="GPS_Time">04:36:15pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6772927613828,26.5176826343787</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">04:48:48pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2001/05/01</SimpleData>
+		<SimpleData name="Street">Nelson Rood</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">2.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/05/01</SimpleData>
+		<SimpleData name="GPS_Time">04:48:50pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6808240502344,26.525652045662</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">04:55:43pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1997/05/01</SimpleData>
+		<SimpleData name="Street">Breadfruit Road</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">3ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/05/01</SimpleData>
+		<SimpleData name="GPS_Time">04:55:45pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6744232678071,26.5316781140557</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">05:01:35pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1997/05/01</SimpleData>
+		<SimpleData name="Street">Ponce de leon Drive</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">3ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/05/01</SimpleData>
+		<SimpleData name="GPS_Time">05:01:37pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6724353431237,26.5290525684129</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">05:04:35pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2001/05/02</SimpleData>
+		<SimpleData name="Street">Pioneers Way</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">2.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/05/02</SimpleData>
+		<SimpleData name="GPS_Time">05:04:37pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6850243282314,26.5295064435175</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">04:29:11pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2008/05/06</SimpleData>
+		<SimpleData name="Street">Pinchbeck Lane</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">2ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/05/06</SimpleData>
+		<SimpleData name="GPS_Time">04:29:13pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6078339679436,26.5556613301906</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">04:35:55pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2002/05/06</SimpleData>
+		<SimpleData name="Street">Churchill Drive</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">2ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/05/06</SimpleData>
+		<SimpleData name="GPS_Time">04:35:56pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6039894765581,26.5516780113844</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">04:39:13pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2005/05/06</SimpleData>
+		<SimpleData name="Street">Churchill Drive</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">3ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/05/06</SimpleData>
+		<SimpleData name="GPS_Time">04:39:14pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.602149862456,26.5498779555897</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">04:43:22pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2006/05/06</SimpleData>
+		<SimpleData name="Street">Dhurchill Drive</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">3ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/05/06</SimpleData>
+		<SimpleData name="GPS_Time">04:43:24pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6007200014582,26.5479728610483</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">04:47:27pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2008/05/06</SimpleData>
+		<SimpleData name="Street">Churchill Drive</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">3ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/05/06</SimpleData>
+		<SimpleData name="GPS_Time">04:47:29pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6000359201606,26.5453740211864</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">04:51:52pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2008/05/06</SimpleData>
+		<SimpleData name="Street">Goldenhind Drive</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">2.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/05/06</SimpleData>
+		<SimpleData name="GPS_Time">04:52:51pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.5977987153582,26.5471501724367</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">05:02:35pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2008/05/06</SimpleData>
+		<SimpleData name="Street">Churchill Drive</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">3ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/05/06</SimpleData>
+		<SimpleData name="GPS_Time">05:03:06pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.5988468520761,26.5423440162653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">05:09:01pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2008/05/06</SimpleData>
+		<SimpleData name="Street">Grasby Road</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">2.5ftt</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/05/06</SimpleData>
+		<SimpleData name="GPS_Time">05:09:05pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.600475297106,26.5421371662972</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">05:34:00pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1996/05/06</SimpleData>
+		<SimpleData name="Street">Gunport Blvd</SimpleData>
+		<SimpleData name="Colour">No Paint</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">3ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/05/06</SimpleData>
+		<SimpleData name="GPS_Time">05:34:02pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.5823527931569,26.5428751008035</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">05:50:13pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2013/05/06</SimpleData>
+		<SimpleData name="Street">Pearl Lane</SimpleData>
+		<SimpleData name="Colour">No Paint</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">2ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/05/06</SimpleData>
+		<SimpleData name="GPS_Time">05:50:15pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.5876135830527,26.5429858307503</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">05:58:32pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2008/05/06</SimpleData>
+		<SimpleData name="Street">Barnby Drive</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">3ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/05/06</SimpleData>
+		<SimpleData name="GPS_Time">05:58:34pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6024980424854,26.5448523180343</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">06:03:44pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2007/05/06</SimpleData>
+		<SimpleData name="Street">Bennington Avenue</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">2.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/05/06</SimpleData>
+		<SimpleData name="GPS_Time">06:03:45pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6078743442918,26.5509080165965</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">06:07:35pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2007/05/06</SimpleData>
+		<SimpleData name="Street">Gedney Drive</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">3ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/05/06</SimpleData>
+		<SimpleData name="GPS_Time">06:07:37pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.610470301369,26.5512067944487</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">06:12:04pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2007/05/06</SimpleData>
+		<SimpleData name="Street">Bennington Drive</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">3ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/05/06</SimpleData>
+		<SimpleData name="GPS_Time">06:12:05pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6089842262085,26.5513783009674</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">06:23:16pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2001/05/24</SimpleData>
+		<SimpleData name="Street">Pioneers Way</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">3ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/05/24</SimpleData>
+		<SimpleData name="GPS_Time">06:23:20pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7061258565893,26.5279458665235</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">06:25:34pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2001/05/24</SimpleData>
+		<SimpleData name="Street">Pioneers Way</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">3ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/05/24</SimpleData>
+		<SimpleData name="GPS_Time">06:25:35pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7041516555674,26.5285032653619</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">06:35:43pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2013/05/24</SimpleData>
+		<SimpleData name="Street">Sir Jackhayward High</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">One</SimpleData>
+		<SimpleData name="Main_Valve">2</SimpleData>
+		<SimpleData name="Height_of_">4ft</SimpleData>
+		<SimpleData name="Style">Standpipe</SimpleData>
+		<SimpleData name="GPS_Date">2013/05/24</SimpleData>
+		<SimpleData name="GPS_Time">06:35:44pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6666223248326,26.532983108379</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">06:42:17pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2003/05/24</SimpleData>
+		<SimpleData name="Street">Hogplum Road</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">3ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/05/24</SimpleData>
+		<SimpleData name="GPS_Time">06:42:18pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6724824216736,26.5339082803287</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">06:54:26pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2003/05/24</SimpleData>
+		<SimpleData name="Street">Park Royal Drive</SimpleData>
+		<SimpleData name="Colour">Orange</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">3ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/05/24</SimpleData>
+		<SimpleData name="GPS_Time">06:54:28pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6667673409394,26.5226650649989</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">07:02:30pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2013/05/24</SimpleData>
+		<SimpleData name="Street">Bonito Drive</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">2ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/05/24</SimpleData>
+		<SimpleData name="GPS_Time">07:02:32pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6574176055747,26.5127974816641</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">07:18:43pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2013/05/24</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">3ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/05/24</SimpleData>
+		<SimpleData name="GPS_Time">07:18:45pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6891218623393,26.5055154946215</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">07:39:03pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2013/05/24</SimpleData>
+		<SimpleData name="Street">Coral Roadv</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">3ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/05/24</SimpleData>
+		<SimpleData name="GPS_Time">07:39:05pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6525918494055,26.5035009530569</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">07:42:51pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1970/05/24</SimpleData>
+		<SimpleData name="Street">Royal Palm Drive</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">2ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/05/24</SimpleData>
+		<SimpleData name="GPS_Time">07:42:53pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.656010809018,26.5023459923689</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">02:23:50pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2008/05/27</SimpleData>
+		<SimpleData name="Street">Chesapeake Road</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">3ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/05/27</SimpleData>
+		<SimpleData name="GPS_Time">02:23:52pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.5950643110238,26.5455858415195</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">02:27:00pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2013/05/27</SimpleData>
+		<SimpleData name="Street">Gimbel Avenue</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">3ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/05/27</SimpleData>
+		<SimpleData name="GPS_Time">02:27:11pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.5975948004961,26.5461328189824</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">11:26:47am</SimpleData>
+		<SimpleData name="Year_of_Ma">1998/05/29</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">4ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/05/29</SimpleData>
+		<SimpleData name="GPS_Time">11:27:04am</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6991655795683,26.5316113710679</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">06:01:53pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2008/06/14</SimpleData>
+		<SimpleData name="Street">College of the Baham</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.26</SimpleData>
+		<SimpleData name="Height_of_">4.5 ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/06/14</SimpleData>
+		<SimpleData name="GPS_Time">06:01:55pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.5542102788606,26.593864869066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">06:04:20pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2008/06/14</SimpleData>
+		<SimpleData name="Street">College of the Baham</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">3ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/06/14</SimpleData>
+		<SimpleData name="GPS_Time">06:05:20pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.5535080860121,26.5940257017655</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">11:30:30am</SimpleData>
+		<SimpleData name="Year_of_Ma">2013/07/09</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/07/09</SimpleData>
+		<SimpleData name="GPS_Time">11:30:49am</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.5722114637841,26.5525739295171</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">11:41:46am</SimpleData>
+		<SimpleData name="Year_of_Ma">2003/07/09</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/07/09</SimpleData>
+		<SimpleData name="GPS_Time">11:41:49am</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6032469958657,26.5492884530578</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">03:55:34pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2013/07/09</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/07/09</SimpleData>
+		<SimpleData name="GPS_Time">03:55:37pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7381964125548,26.5228941186202</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">04:07:00pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1997/07/10</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/07/09</SimpleData>
+		<SimpleData name="GPS_Time">04:07:04pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6765504184629,26.5218112590657</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">09:31:32am</SimpleData>
+		<SimpleData name="Year_of_Ma">1997/07/22</SimpleData>
+		<SimpleData name="Street">Fortune Bay Point</SimpleData>
+		<SimpleData name="Colour">No Paint</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">0.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/07/22</SimpleData>
+		<SimpleData name="GPS_Time">09:31:34am</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6139515896594,26.5290637647105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">09:43:47am</SimpleData>
+		<SimpleData name="Year_of_Ma">1997/07/22</SimpleData>
+		<SimpleData name="Street">Golden Point Road</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">2.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/07/22</SimpleData>
+		<SimpleData name="GPS_Time">09:43:49am</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6237193747587,26.5256228528036</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">12:13:32pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2001/07/29</SimpleData>
+		<SimpleData name="Street">Coral Reef Boulevard</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">4.5</SimpleData>
+		<SimpleData name="Height_of_">2.5</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/07/29</SimpleData>
+		<SimpleData name="GPS_Time">12:13:34pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6696450142391,26.5277913522867</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">12:12:01pm</SimpleData>
+		<SimpleData name="Year_of_Ma">1967/07/31</SimpleData>
+		<SimpleData name="Street">Peachtree Street</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Height_of_">2.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2013/07/31</SimpleData>
+		<SimpleData name="GPS_Time">12:12:24pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7023325754725,26.53749577254</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Date_">2014/02/05</SimpleData>
+		<SimpleData name="Time">01:22:00pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2014/02/05</SimpleData>
+		<SimpleData name="Street">Queens Hwy</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">3.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.766228193712,26.5154685678039</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Date_">2006/02/05</SimpleData>
+		<SimpleData name="Time">12:39:55pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2006/02/06</SimpleData>
+		<SimpleData name="Street">Lunar Blvd</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">3ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6907520923031,26.4994688939072</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Date_">2014/02/05</SimpleData>
+		<SimpleData name="Time">12:54:03pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2014/02/05</SimpleData>
+		<SimpleData name="Street">Canal Court</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">3.5</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6650791684284,26.5038839214834</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Date_">2014/02/05</SimpleData>
+		<SimpleData name="Time">01:04:27pm</SimpleData>
+		<SimpleData name="Year_of_Ma">2014/02/05</SimpleData>
+		<SimpleData name="Street">Gambier Loop</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">3.5ft</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6708737142212,26.5227578098673</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Date_">2014/02/26</SimpleData>
+		<SimpleData name="Street">Gambier Drive</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6814047377167,26.5221964889667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">11:33:14am</SimpleData>
+		<SimpleData name="Year_of_Ma">2015/07/29</SimpleData>
+		<SimpleData name="Street">Coral Road</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">1.5</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2015/07/29</SimpleData>
+		<SimpleData name="GPS_Time">10:33:20am</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6668197028494,26.5168786313403</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#fire_hydrants">
+		<SimpleData name="Time">11:41:36am</SimpleData>
+		<SimpleData name="Year_of_Ma">2015/07/29</SimpleData>
+		<SimpleData name="Street">Tarreytown</SimpleData>
+		<SimpleData name="Colour">Red</SimpleData>
+		<SimpleData name="Number_of_">Three</SimpleData>
+		<SimpleData name="Main_Valve">5.25</SimpleData>
+		<SimpleData name="Height_of_">2</SimpleData>
+		<SimpleData name="Style">Dry Barrel</SimpleData>
+		<SimpleData name="GPS_Date">2015/07/29</SimpleData>
+		<SimpleData name="GPS_Time">10:43:24am</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.652116296813,26.5159003482133</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

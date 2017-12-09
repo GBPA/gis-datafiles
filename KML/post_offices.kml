@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="post_offices" id="post_offices">
+	<SimpleField name="Location" type="string"></SimpleField>
+	<SimpleField name="Phone" type="string"></SimpleField>
+</Schema>
+<Folder><name>post_offices</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#post_offices">
+		<SimpleData name="Location">Freeport</SimpleData>
+		<SimpleData name="Phone">352-9371</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.695175482827,26.5338525687063</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#post_offices">
+		<SimpleData name="Location">Hunters</SimpleData>
+		<SimpleData name="Phone">353-7007</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7360438098971,26.5006261481903</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#post_offices">
+		<SimpleData name="Location">Eight Mile Rock</SimpleData>
+		<SimpleData name="Phone">348-2770</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.8154498593866,26.5432666223521</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

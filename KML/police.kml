@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="police" id="police">
+	<SimpleField name="Division" type="string"></SimpleField>
+</Schema>
+<Folder><name>police</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#police">
+		<SimpleData name="Division">Central</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7018986832298,26.5326866752638</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#police">
+		<SimpleData name="Division">Headquaters</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6962598325326,26.5369650303356</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#police">
+		<SimpleData name="Division">Lucaya</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6444009119327,26.5110431199898</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

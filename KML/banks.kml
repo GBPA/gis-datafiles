@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="banks" id="banks">
+	<SimpleField name="fid" type="string"></SimpleField>
+	<SimpleField name="X" type="string"></SimpleField>
+	<SimpleField name="Y" type="string"></SimpleField>
+	<SimpleField name="Phone" type="string"></SimpleField>
+</Schema>
+<Folder><name>banks</name>
+  <Placemark>
+	<name>Royal Bank of Canada</name>
+	<ExtendedData><SchemaData schemaUrl="#banks">
+		<SimpleData name="fid">banks.0</SimpleData>
+		<SimpleData name="X">-78.6940708221755</SimpleData>
+		<SimpleData name="Y">26.533629776856</SimpleData>
+		<SimpleData name="Phone">352-8896</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bank of the Bahamas</name>
+	<ExtendedData><SchemaData schemaUrl="#banks">
+		<SimpleData name="fid">banks.1</SimpleData>
+		<SimpleData name="X">-78.6940230338451</SimpleData>
+		<SimpleData name="Y">26.5328623271363</SimpleData>
+		<SimpleData name="Phone">350-2600</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Commonwealth Bank</name>
+	<ExtendedData><SchemaData schemaUrl="#banks">
+		<SimpleData name="fid">banks.2</SimpleData>
+		<SimpleData name="X">-78.6940187560887</SimpleData>
+		<SimpleData name="Y">26.5283402881698</SimpleData>
+		<SimpleData name="Phone">352-8307</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fidelity Bank</name>
+	<ExtendedData><SchemaData schemaUrl="#banks">
+		<SimpleData name="fid">banks.3</SimpleData>
+		<SimpleData name="X">-78.6947779558366</SimpleData>
+		<SimpleData name="Y">26.5219422974999</SimpleData>
+		<SimpleData name="Phone">352-6676</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>First Caribbean International Bank</name>
+	<ExtendedData><SchemaData schemaUrl="#banks">
+		<SimpleData name="fid">banks.4</SimpleData>
+		<SimpleData name="X">-78.6945977022337</SimpleData>
+		<SimpleData name="Y">26.5246440492461</SimpleData>
+		<SimpleData name="Phone">352-6655</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Scotia Bank</name>
+	<ExtendedData><SchemaData schemaUrl="#banks">
+		<SimpleData name="fid">banks.5</SimpleData>
+		<SimpleData name="X">-78.6961108287588</SimpleData>
+		<SimpleData name="Y">26.5346211172746</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

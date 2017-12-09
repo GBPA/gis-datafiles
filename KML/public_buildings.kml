@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="public_buildings" id="public_buildings">
+	<SimpleField name="Id" type="float"></SimpleField>
+	<SimpleField name="Type" type="string"></SimpleField>
+	<SimpleField name="Descript" type="string"></SimpleField>
+	<SimpleField name="BLDTYPE" type="string"></SimpleField>
+</Schema>
+<Folder><name>public_buildings</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#public_buildings">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">Central Police Station</SimpleData>
+		<SimpleData name="BLDTYPE">POLICE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6962850076667,26.5369919782844</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#public_buildings">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">Bahamas Government Office Complex</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6945094561573,26.5254732877195</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#public_buildings">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">Garnet Lavarity Justice Centre</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6953937750938,26.5362163551368</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#public_buildings">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">National Insurance Building</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6947372858803,26.5356502278383</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#public_buildings">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">Rand Memorial Hospital</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6925232324929,26.5323915827771</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#public_buildings">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">Police Training College</SimpleData>
+		<SimpleData name="BLDTYPE">POLICE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7041103401443,26.5288673763471</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#public_buildings">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">Police Canteen</SimpleData>
+		<SimpleData name="BLDTYPE">POLICE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7018762383681,26.5325799967083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#public_buildings">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">Lucaya Police Station</SimpleData>
+		<SimpleData name="BLDTYPE">POLICE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6444075432226,26.5110338385423</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

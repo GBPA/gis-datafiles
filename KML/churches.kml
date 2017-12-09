@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="churches" id="churches">
+	<SimpleField name="Id" type="float"></SimpleField>
+	<SimpleField name="Type" type="string"></SimpleField>
+	<SimpleField name="Descript" type="string"></SimpleField>
+	<SimpleField name="URL" type="string"></SimpleField>
+</Schema>
+<Folder><name>churches</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#churches">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">Christ the King</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6914125227808,26.5308133449872</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#churches">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">Church of God of Prophecy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6694668732658,26.5210205714355</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#churches">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">Central Church of God</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6757539769558,26.5300706711311</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#churches">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">Seventh Day Adventist</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6731657277432,26.5214562374607</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#churches">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">St.Paul's Methodist Church</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6721868369158,26.5174249800053</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#churches">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">Calvary Bible Church</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6531769772922,26.5241076217681</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#churches">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">St.John's Native Baptist Church</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6752145714007,26.5278072285935</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#churches">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">Mary Star of the Sea</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6893581305533,26.5171436681634</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#churches">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">St.John's Jubilee Cathedral</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6656628296946,26.5409691694061</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#churches">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">Zion Baptist Church</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6631664574823,26.5232372074341</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#churches">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">Grand Bahama Family Worship Center</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6988074977692,26.5271493999042</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#churches">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">Our Savior Lutheran Church</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.680545913991,26.5170065152915</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#churches">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">Tabernacle Independant Church</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6858383853113,26.5401684245488</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#churches">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">Church of God Fairfeild</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6498665115027,26.5443997885091</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#churches">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">The Salvation Army Worship Centre</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6991691264096,26.5259658089365</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#churches">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">Calvary Temple</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6864905491266,26.5371258364926</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#churches">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">Church of God Temple</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7026697979454,26.5373217994299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#churches">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">Candlestick Ministries International</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6923518207117,26.5290826117355</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#churches">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">Rev Rudy Roberts International Faith Ministries</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6967851820297,26.5293115356687</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#churches">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">First Providence Baptist Church</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7015510345901,26.5191733729233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#churches">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">Church Of Christ</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6873983290146,26.5139019604464</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#churches">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">First Baptist Church</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6847375764194,26.5325614706318</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#churches">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">Freeport Hebrew Congregation</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6812244275713,26.5170173410496</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#churches">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">Freeport Gospel Chapel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6555408767762,26.5349004145059</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#churches">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">Living Water Assembly of God</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.5901684399603,26.5524243637828</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#churches">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">Lucayan Bible Church</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.5922013981005,26.5523724974809</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#churches">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">Eternal Light Deliverane Center</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6732700433939,26.5263720902479</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#churches">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">Church of Ascension</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6305255702352,26.5243137300815</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#churches">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">Higher Anionted Ministries</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6796236026712,26.5178863362951</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#churches">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">New Cannon Baptist Church</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6395138440481,26.5259404761855</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#churches">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">Sub yeoman wood-Block D-</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6491746913138,26.5339127736723</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#churches">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">Fellowship Union Baptist</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6409411870181,26.5418884793387</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#churches">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">Universal Household of Faith Ministries</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7352464923682,26.5108246359418</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#churches">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">Emmanuel Missionary Baptist Church</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7401393998504,26.5151018367237</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#churches">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">Mount Gilead (union) baptist Church</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.732812929098,26.5177202579095</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#churches">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">Cummings Temple AMEChurch</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6803566552127,26.5402902252878</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#churches">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">Agape House</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7061048607349,26.5393037311695</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#churches">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">Shekinah Christian Ministries International</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6863502119629,26.5319377220716</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#churches">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">Alpha Evangelical Church</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6901884027966,26.5223318793302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#churches">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">Unity in Christ Assembly</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6432045250097,26.5367793080486</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#churches">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">Hudson Estate (track B)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6849536102454,26.5395054854796</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#churches">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">East Section (Tract B)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.689914995567,26.5311999108817</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#churches">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">Life Community Church</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6906183938877,26.50589054916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#churches">
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Descript">Mormon</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6931578215265,26.51558810153</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

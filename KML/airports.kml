@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="airports" id="airports">
+	<SimpleField name="fid" type="string"></SimpleField>
+	<SimpleField name="Type" type="string"></SimpleField>
+</Schema>
+<Folder><name>airports</name>
+  <Placemark>
+	<name>Freeport International</name>
+	<ExtendedData><SchemaData schemaUrl="#airports">
+		<SimpleData name="fid">airports.0</SimpleData>
+		<SimpleData name="Type">International</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7073099983005,26.5500902834774</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Freeport Regional</name>
+	<ExtendedData><SchemaData schemaUrl="#airports">
+		<SimpleData name="fid">airports.1</SimpleData>
+		<SimpleData name="Type">Regional</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7000327863313,26.5483547779903</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
