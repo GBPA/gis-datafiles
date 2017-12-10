@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "police",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Division": "Central" }, "geometry": { "type": "Point", "coordinates": [ -78.701898683229828, 26.53268667526379 ] } },
+{ "type": "Feature", "properties": { "Division": "Headquaters" }, "geometry": { "type": "Point", "coordinates": [ -78.696259832532633, 26.536965030335566 ] } },
+{ "type": "Feature", "properties": { "Division": "Lucaya" }, "geometry": { "type": "Point", "coordinates": [ -78.644400911932721, 26.511043119989804 ] } }
+]
+}

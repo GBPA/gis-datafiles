@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"name": "parks_recreation",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Comment": "C.L. Griffin Community Park", "GPS_Date": "2013\/07\/26", "GPS_Time": "02:14:20pm" }, "geometry": { "type": "Point", "coordinates": [ -78.703017936953572, 26.53167732772593 ] } },
+{ "type": "Feature", "properties": { "Comment": "Neko Grant Community Park", "GPS_Date": "2013\/07\/26", "GPS_Time": "02:25:15pm" }, "geometry": { "type": "Point", "coordinates": [ -78.723947076692184, 26.5226402806551 ] } },
+{ "type": "Feature", "properties": { "Comment": "Adena Medows Communit Park", "GPS_Date": "2013\/07\/26", "GPS_Time": "02:32:20pm" }, "geometry": { "type": "Point", "coordinates": [ -78.736589643688959, 26.513281024196392 ] } },
+{ "type": "Feature", "properties": { "Comment": "Charlie Robins Recreation Facil", "GPS_Date": "2013\/07\/26", "GPS_Time": "02:51:20pm" }, "geometry": { "type": "Point", "coordinates": [ -78.687313150658994, 26.532533099960649 ] } },
+{ "type": "Feature", "properties": { "Comment": "Richard Gaitor Community Park", "GPS_Date": "2013\/07\/26", "GPS_Time": "03:01:35pm" }, "geometry": { "type": "Point", "coordinates": [ -78.672721204378419, 26.534539091412444 ] } },
+{ "type": "Feature", "properties": { "Comment": "Erro Bodie Community Park", "GPS_Date": "2013\/07\/26", "GPS_Time": "03:04:45pm" }, "geometry": { "type": "Point", "coordinates": [ -78.674946176825514, 26.532210346212583 ] } },
+{ "type": "Feature", "properties": { "Comment": "Zenobia Kemp Community Park", "GPS_Date": "2013\/07\/26", "GPS_Time": "03:25:30pm" }, "geometry": { "type": "Point", "coordinates": [ -78.670677095072122, 26.526404859508993 ] } },
+{ "type": "Feature", "properties": { "Comment": "Jim White Field", "GPS_Date": null, "GPS_Time": null }, "geometry": { "type": "Point", "coordinates": [ -78.715476771821514, 26.540584671971892 ] } },
+{ "type": "Feature", "properties": { "Comment": "St. Pauls Track", "GPS_Date": null, "GPS_Time": null }, "geometry": { "type": "Point", "coordinates": [ -78.693181029965388, 26.537043681930516 ] } },
+{ "type": "Feature", "properties": { "Comment": "Mary Star Sport Field", "GPS_Date": null, "GPS_Time": null }, "geometry": { "type": "Point", "coordinates": [ -78.68702873672477, 26.517751948473393 ] } },
+{ "type": "Feature", "properties": { "Comment": "Independence Park", "GPS_Date": null, "GPS_Time": null }, "geometry": { "type": "Point", "coordinates": [ -78.671452994367471, 26.521516786245595 ] } },
+{ "type": "Feature", "properties": { "Comment": "Bishop Micheal Eldon Sport Field", "GPS_Date": null, "GPS_Time": null }, "geometry": { "type": "Point", "coordinates": [ -78.673796614262386, 26.519197257913163 ] } },
+{ "type": "Feature", "properties": { "Comment": "Freeport Sports Field", "GPS_Date": null, "GPS_Time": null }, "geometry": { "type": "Point", "coordinates": [ -78.677071077653025, 26.543458553040214 ] } },
+{ "type": "Feature", "properties": { "Comment": "Cheseapeake Park", "GPS_Date": null, "GPS_Time": null }, "geometry": { "type": "Point", "coordinates": [ -78.60013991827222, 26.554604174188068 ] } },
+{ "type": "Feature", "properties": { "Comment": "Royal Bahamian Estates Park", "GPS_Date": null, "GPS_Time": null }, "geometry": { "type": "Point", "coordinates": [ -78.668619176307146, 26.497335560670777 ] } },
+{ "type": "Feature", "properties": { "Comment": "Coral Gardens Park", "GPS_Date": null, "GPS_Time": null }, "geometry": { "type": "Point", "coordinates": [ -78.666185024137306, 26.516946131745186 ] } },
+{ "type": "Feature", "properties": { "Comment": "Queen's Cove Park", "GPS_Date": null, "GPS_Time": null }, "geometry": { "type": "Point", "coordinates": [ -78.744480268318583, 26.538067540456758 ] } },
+{ "type": "Feature", "properties": { "Comment": "Moon McPhee Park", "GPS_Date": null, "GPS_Time": null }, "geometry": { "type": "Point", "coordinates": [ -78.659031707580723, 26.533899291458226 ] } },
+{ "type": "Feature", "properties": { "Comment": "Rand Nature Center", "GPS_Date": null, "GPS_Time": null }, "geometry": { "type": "Point", "coordinates": [ -78.671843996664649, 26.538268616057238 ] } },
+{ "type": "Feature", "properties": { "Comment": "Garden of the Grooves", "GPS_Date": null, "GPS_Time": null }, "geometry": { "type": "Point", "coordinates": [ -78.57372318116505, 26.553239149163122 ] } }
+]
+}
