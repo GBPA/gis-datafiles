@@ -1,8 +1,7 @@
 {
 "type": "FeatureCollection",
 "name": "medical",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"bbox": [ -78.9743656214745, 26.5113251377728, -78.6636513189, 26.6962268971857 ],                                                 
+"bbox": [ -78.9743656214745, 26.5113251377728, -78.6636513189, 26.6962268971857 ],
 "features": [
 { "type": "Feature", "properties": { "Name": "Rand Memorial Hospital", "Type": "1" }, "bbox": [ -78.69216271506771, 26.53245123420643, -78.69216271506771, 26.53245123420643 ], "geometry": { "type": "Point", "coordinates": [ -78.69216271506771, 26.53245123420643 ] } },
 { "type": "Feature", "properties": { "Name": "Sunrise Medical Center", "Type": "0" }, "bbox": [ -78.687225580737717, 26.516662171548774, -78.687225580737717, 26.516662171548774 ], "geometry": { "type": "Point", "coordinates": [ -78.687225580737717, 26.516662171548774 ] } },

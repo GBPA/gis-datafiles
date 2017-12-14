@@ -1,8 +1,7 @@
 {
 "type": "FeatureCollection",
 "name": "public_buildings",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"bbox": [ -78.7041103401443, 26.5110338385423, -78.6444075432226, 26.5369919782844 ],                                              
+"bbox": [ -78.7041103401443, 26.5110338385423, -78.6444075432226, 26.5369919782844 ],
 "features": [
 { "type": "Feature", "properties": { "Id": 0, "Type": null, "Descript": "Central Police Station", "BLDTYPE": "POLICE" }, "bbox": [ -78.696285007666745, 26.536991978284401, -78.696285007666745, 26.536991978284401 ], "geometry": { "type": "Point", "coordinates": [ -78.696285007666745, 26.536991978284401 ] } },
 { "type": "Feature", "properties": { "Id": 0, "Type": null, "Descript": "Bahamas Government Office Complex", "BLDTYPE": null }, "bbox": [ -78.694509456157334, 26.525473287719528, -78.694509456157334, 26.525473287719528 ], "geometry": { "type": "Point", "coordinates": [ -78.694509456157334, 26.525473287719528 ] } },

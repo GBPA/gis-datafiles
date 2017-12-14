@@ -1,7 +1,6 @@
 {
 "type": "FeatureCollection",
 "name": "post_offices",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "Location": "Freeport", "Phone": "352-9371" }, "geometry": { "type": "Point", "coordinates": [ -78.695175482827011, 26.533852568706347 ] } },
 { "type": "Feature", "properties": { "Location": "Hunters", "Phone": "353-7007" }, "geometry": { "type": "Point", "coordinates": [ -78.736043809897097, 26.500626148190268 ] } },

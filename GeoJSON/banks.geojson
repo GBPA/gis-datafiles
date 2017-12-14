@@ -1,8 +1,7 @@
 {
 "type": "FeatureCollection",
 "name": "banks",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"bbox": [ -78.6961108287588, 26.5219422974999, -78.6940187560887, 26.5346211172746 ],                                              
+"bbox": [ -78.6961108287588, 26.5219422974999, -78.6940187560887, 26.5346211172746 ],
 "features": [
 { "type": "Feature", "properties": { "Name": "Royal Bank of Canada", "Phone": "352-8896" }, "bbox": [ -78.694070822175476, 26.533629776856039, -78.694070822175476, 26.533629776856039 ], "geometry": { "type": "Point", "coordinates": [ -78.694070822175476, 26.533629776856039 ] } },
 { "type": "Feature", "properties": { "Name": "Bank of the Bahamas", "Phone": "350-2600" }, "bbox": [ -78.694023033845099, 26.532862327136279, -78.694023033845099, 26.532862327136279 ], "geometry": { "type": "Point", "coordinates": [ -78.694023033845099, 26.532862327136279 ] } },

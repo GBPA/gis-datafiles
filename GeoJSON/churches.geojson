@@ -1,8 +1,7 @@
 {
 "type": "FeatureCollection",
 "name": "churches",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"bbox": [ -78.7401393998504, 26.50589054916, -78.5901684399603, 26.5524243637828 ],                                                
+"bbox": [ -78.7401393998504, 26.50589054916, -78.5901684399603, 26.5524243637828 ],
 "features": [
 { "type": "Feature", "properties": { "Id": 0, "Type": null, "Descript": "Christ the King", "URL": null }, "bbox": [ -78.69141252278078, 26.530813344987216, -78.69141252278078, 26.530813344987216 ], "geometry": { "type": "Point", "coordinates": [ -78.69141252278078, 26.530813344987216 ] } },
 { "type": "Feature", "properties": { "Id": 0, "Type": null, "Descript": "Church of God of Prophecy", "URL": null }, "bbox": [ -78.669466873265762, 26.521020571435482, -78.669466873265762, 26.521020571435482 ], "geometry": { "type": "Point", "coordinates": [ -78.669466873265762, 26.521020571435482 ] } },
