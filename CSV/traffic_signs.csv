@@ -1,0 +1,1105 @@
+Y,X,OBJECTID,Date,Condition,Sign_Mater,Post_Heigh,Location,Subdivisio,Region,Post_Mater,Time,Comments,Sign_Categ,Sign_Type,Sign_Shape,Colour,Street_Sig,RuleID
+26.5475265826217,-78.6937134343097,1,2014/05/14,Good,Aluminum,6,Roadside,Airport Zone,Freeport,Steel,04:21:56pm,,Regulatory Sign,Keep Left (except),Rectangle,Black & White,Yes,1
+26.5532001360796,-78.6786910004085,2,2014/05/14,Good,Aluminum,6,Roadside,East Airport Zone,Freeport,Steel,04:28:37pm,,Regulatory Sign,Speed Limit,Rectangle,Red,Yes,3
+26.5584329041473,-78.6665118012361,3,2014/05/14,Good,Aluminum,8,Roadside,East Airport Zone,Freeport,Aluminum,04:32:27pm,,Regulatory Sign,Stop,Octogon,Red,Yes,4
+26.5584863606152,-78.6661585514572,4,2014/05/14,Good,Aluminum,6,Roadside,East Airport Zone,Freeport,Steel,04:34:55pm,,Regulatory Sign,Speed Limit,Rectangle,Red,Yes,3
+26.5628981092047,-78.6566381836817,5,2014/05/14,Poor,Aluminum,6,Roadside,Freeport Ridge,Freeport,Aluminum,04:37:58pm,Replace,Regulatory Sign,Stop,Octogon,Red,Yes,4
+26.5653661949392,-78.6487752158881,6,2014/05/14,Good,Aluminum,7,Roadside,Freeport Ridge,Freeport,Steel,04:41:21pm,No Dumping,Informational Sign,,Rectangle,Red,No,0
+26.5725779439997,-78.6227663669471,7,2014/05/14,Poor,Aluminum,6,Roadside,East Airport Zone,Freeport,Aluminum,04:45:52pm,,Regulatory Sign,Speed Limit,Rectangle,Red,Yes,3
+26.5758340206792,-78.6166826382955,8,2014/05/14,Good,Aluminum,7,Roadside,East Airport Zone,Freeport,Steel,04:48:43pm,Detour 2000,Regulatory Sign,,Triangle,Red,Yes,0
+26.5772420929212,-78.6140316450276,9,2014/05/14,Good,Aluminum,6,Roadside,East Airport Zone,Freeport,Aluminum,04:51:28pm,Detour 1000,Regulatory Sign,,Triangle,Red,Yes,0
+26.5782318566952,-78.6121703339295,10,2014/05/14,Good,Aluminum,6,Roadside,East Airport Zone,Freeport,Aluminum,04:53:35pm,,Regulatory Sign,Right Turn Only,Circle,Blue,Yes,2
+26.5719236256319,-78.6233417406023,11,2014/05/14,Poor,Aluminum,6,Roadside,Lincoln Park,Lucaya,Aluminum,04:58:30pm,2 - keep left,Regulatory Sign,Speed Limit,Rectangle,Red,Yes,3
+26.5650069897179,-78.6493809105046,12,2014/05/14,Poor,Aluminum,6,Roadside,Freeport Ridge,Freeport,Aluminum,05:03:58pm,,Regulatory Sign,Stop,Circle,Red,Yes,4
+26.5576732003149,-78.6671679347459,13,2014/05/14,Good,Aluminum,6,Roadside,Fairfield,Freeport,Aluminum,05:07:39pm,,Regulatory Sign,Speed Limit,Rectangle,Red,Yes,3
+26.5533939068807,-78.6773650783228,14,2014/05/14,Poor,Aluminum,6,Roadside,Fairfield,Freeport,Aluminum,05:10:46pm,,Warning Sign,T - Intersection,Diamond,Yellow,Yes,5
+26.5523703947982,-78.6797876779403,15,2014/05/14,Good,Aluminum,6,Roadside,East Airport Zone,Freeport,Steel,05:13:20pm,Aiport Sign,Informational Sign,,Rectangle,Green,Yes,0
+26.5291398557693,-78.6704768506862,16,2014/05/21,Good,Aluminum,6,Roadside,Coral Reef,Freeport,Steel,05:16:24pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5290759563669,-78.6707641981903,17,2014/05/21,Good,Engineering,6,Roadside,Coral Reef,Freeport,Steel,05:17:44pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5263853956791,-78.6688706922554,18,2014/05/21,Good,Engineering,6,Roadside,Coral Reef,Freeport,Steel,05:23:47pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5296169960501,-78.6710160290232,19,2014/05/21,Poor,Aluminum,6,Roadside,Coral Reef,Freeport,Steel,05:26:46pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5294568767557,-78.6716998020744,20,2014/05/21,Good,Aluminum,6,Roadside,Coral Reef,Freeport,Steel,05:28:45pm,No dumping,Costume Sign,,Rectangle,Multi-Colour,No,0
+26.5292833755152,-78.6742348964484,21,2014/05/21,Poor,Aluminum,6,Roadside,Coral Reef,Freeport,Steel,05:33:17pm,Sign faded,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.530758334289,-78.6732500021676,22,2014/05/21,Poor,Aluminum,6,Roadside,Coral Reef,Freeport,,05:35:29pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5301469926904,-78.6728413492013,23,2014/05/21,Poor,Aluminum,5,Roadside,Coral Reef,Freeport,Steel,05:36:52pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.53127904483,-78.6727402580416,24,2014/05/21,Poor,Aluminum,6,Roadside,Coral Reef,Freeport,Steel,05:39:50pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5306547280626,-78.6720694875644,25,2014/05/21,Poor,Aluminum,6,Roadside,Coral Reef,Freeport,Steel,05:41:16pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5311118553849,-78.6713013078877,26,2014/05/21,Poor,Aluminum,5,Roadside,Coral Reef,Freeport,Steel,05:42:28pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5295673643632,-78.6721405884976,27,2014/05/21,Good,Engineering,6,Roadside,Coral Reef,Freeport,Steel,05:45:50pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5301824364387,-78.6726130528569,28,2014/05/21,Poor,Aluminum,6,Roadside,Coral Reef,Freeport,Steel,05:47:52pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.529292732929,-78.6720177975485,29,2014/05/21,Good,Aluminum,6,Roadside,Coral Reef,Freeport,Steel,05:49:28pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.528015463465,-78.6724673145772,30,2014/05/21,Good,Engineering,6,Roadside,Coral Reef,Freeport,Steel,05:51:23pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5264368639868,-78.6716907405587,31,2014/05/21,Good,Engineering,6,Roadside,Coral Reef,Freeport,Steel,05:52:57pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5279527607624,-78.6727500032042,32,2014/05/21,Good,Engineering,6,Roadside,Coral Reef,Freeport,Steel,05:56:53pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5284599735818,-78.6730281934051,33,2014/05/21,Good,Engineering,6,Roadside,Coral Reef,Freeport,Steel,05:58:05pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5283809588307,-78.6733302467646,34,2014/05/21,Good,Aluminum,6,Roadside,Coral Reef,Freeport,Steel,05:59:20pm,,Warning Sign,Speed Bump,Triangle,Red,No,0
+26.5282803718023,-78.6737493061278,35,2014/05/21,Good,Aluminum,6,Roadside,Coral Reef,Freeport,Steel,06:00:45pm,,Warning Sign,Speed Bump,Triangle,Red,No,0
+26.5277994597064,-78.6744432114705,36,2014/05/21,Good,Aluminum,5,Roadside,Coral Reef,Freeport,Steel,06:02:21pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5232091245978,-78.6701152132781,37,2014/05/21,Good,Aluminum,6,Roadside,Armander,Freeport,Steel,06:05:15pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5234625051114,-78.6658458426079,38,2014/05/21,Good,Engineering,6,Roadside,Armander,Freeport,Steel,06:07:31pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.523347971817,-78.6649404267831,39,2014/05/21,Good,Engineering,6,Roadside,Armander,Freeport,Steel,06:08:53pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5218857304257,-78.6671187077627,40,2014/05/21,Good,Engineering,6,Roadside,Armander,Freeport,,06:10:38pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5233367223753,-78.6669091398895,41,2014/05/21,Good,Engineering,6,Roadside,Armander,Freeport,Steel,06:12:13pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5224277438311,-78.6675452140194,42,2014/05/21,Good,Engineering,6,Roadside,Armander,Freeport,Steel,06:14:02pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5233151103249,-78.6680878794883,43,2014/05/21,Good,Engineering,6,Roadside,Armander,Freeport,Steel,06:15:40pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5233339562277,-78.6692727008738,44,2014/05/21,Good,Engineering,6,Roadside,Armander,Freeport,Steel,06:17:13pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5216913361625,-78.6681450342299,45,2014/05/21,Good,Engineering,6,Roadside,Armander,Freeport,Steel,06:18:39pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5212248678736,-78.6686966036383,46,2014/05/21,Good,Aluminum,6,Roadside,Armander,Freeport,Steel,06:19:55pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5209267082372,-78.6685552001102,47,2014/05/21,Good,Aluminum,6,Roadside,Armander,Freeport,Steel,06:21:11pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5203437411738,-78.6693356788582,48,2014/05/21,Poor,Aluminum,6,Roadside,Armander,Freeport,Steel,06:22:48pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5230241807,-78.6701284018628,49,2014/05/21,Good,Aluminum,5,Roadside,Armander,Freeport,Steel,06:24:57pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5226198808841,-78.6709351805058,50,2014/05/21,Good,Aluminum,6,Roadside,Armander,Freeport,Steel,06:26:38pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5469907471179,-78.6999526610197,51,2014/05/15,Poor,Aluminum,6,Roadside,Airport Zone,Freeport,Steel,03:46:21pm,,Regulatory Sign,Stop,Circle,Red,Yes,0
+26.5469265237674,-78.6991427648564,52,2014/05/15,Good,Aluminum,6,Roadside,Airport Zone,Freeport,Steel,03:48:32pm,,Regulatory Sign,Squeeze Filt & Turn,Rectangle,Red,Yes,0
+26.5469600664359,-78.6983665429101,53,2014/05/15,Good,Aluminum,6,Roadside,Airport Zone,Freeport,Steel,03:51:45pm,Relocate Sign,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5468981395261,-78.6980237684743,54,2014/05/15,Poor,Aluminum,6,Roadside,Airport Zone,Freeport,Steel,03:53:21pm,,Informational Sign,Keep Left,Circle,Blue,No,0
+26.5469533715197,-78.6972692038252,55,2014/05/15,Good,Aluminum,6,Roadside,Airport Zone,Freeport,Steel,03:55:55pm,,Regulatory Sign,Yield,Triangle,Red,No,0
+26.5468868351048,-78.6972125071686,56,2014/05/15,Good,Aluminum,6,Median,Airport Zone,Freeport,Steel,03:56:56pm,,Regulatory Sign,Yield,Triangle,Red,No,0
+26.5474964584041,-78.6965920108593,57,2014/05/15,Good,Aluminum,6,Roadside,Airport Zone,Freeport,,04:00:58pm,Galvanized pipe,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5475291083289,-78.6965502144641,58,2014/05/15,Good,Aluminum,3,Roadside,Airport Zone,Freeport,,04:02:23pm,Galvanized pipe,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.547251886623,-78.6951639148245,59,2014/05/15,Good,Aluminum,7,Median,Airport Zone,Freeport,Steel,04:05:53pm,,Regulatory Sign,Speed Limit,Circle,Red,Yes,0
+26.5471745449404,-78.6950063118332,60,2014/05/15,Good,Aluminum,6,Roadside,Airport Zone,Freeport,Steel,04:07:02pm,,Regulatory Sign,Speed Limit,Circle,Red,Yes,0
+26.5472451757415,-78.6941561661513,61,2014/05/15,Good,Aluminum,6,Roadside,Airport Zone,Freeport,Steel,04:08:56pm,,Warning Sign,Roundabout,Triangle,Red,Yes,0
+26.547047705858,-78.6960060228427,62,2014/05/15,Good,Aluminum,6,Roadside,Airport Zone,Freeport,Steel,04:12:15pm,,Regulatory Sign,Yield,Triangle,Red,No,0
+26.5463669122734,-78.6964587950256,63,2014/05/15,Good,Aluminum,6,Roadside,Airport Zone,Freeport,Steel,04:14:19pm,,Regulatory Sign,Yield,Triangle,Red,No,0
+26.5458594664573,-78.6961223324476,64,2014/05/15,Good,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,04:15:57pm,,Regulatory Sign,Speed Limit,Circle,Red,Yes,0
+26.5459028181342,-78.6960187789383,65,2014/05/15,Good,Aluminum,6,Median,Civic Industrial Area,Freeport,Steel,04:16:51pm,,Regulatory Sign,Speed Limit,Circle,Red,Yes,0
+26.5456523487777,-78.6961698607325,66,2014/05/15,Good,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,04:18:05pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5467209036349,-78.7018863249386,67,2014/05/15,Good,Aluminum,5,Median,Airport Zone,Freeport,Steel,04:23:25pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5460772758776,-78.7034942191382,68,2014/05/15,Poor,Aluminum,6,Roadside,Airport Zone,Freeport,Steel,04:25:33pm,Cross Roads,Regulatory Sign,,Rectangle,Black & White,Yes,0
+26.5449865627421,-78.6954021967097,69,2014/05/15,Good,Aluminum,5,Roadside,Central Area,Freeport,Steel,04:32:32pm,,Regulatory Sign,Keep Left (except),Rectangle,Black & White,Yes,0
+26.5447839135053,-78.6952913949021,70,2014/05/15,Good,Aluminum,5,Roadside,Central Area,Freeport,Steel,04:33:48pm,,Regulatory Sign,Speed Limit,Rectangle,Red,Yes,0
+26.5449335551928,-78.6956307979468,71,2014/05/15,Good,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,04:35:57pm,,Regulatory Sign,Squeeze Filt & Turn,Rectangle,Red,Yes,0
+26.5371941430402,-78.6953364323523,72,2014/05/15,Good,Aluminum,6,Roadside,Central Area,Freeport,Steel,04:39:09pm,,Regulatory Sign,Yield,Triangle,Red,No,0
+26.5368007870441,-78.6952371230883,73,2014/05/15,Good,Aluminum,5,Median,Central Area,Freeport,Steel,04:40:27pm,,Regulatory Sign,Yield,Triangle,Red,No,0
+26.5368781291935,-78.6956416324609,74,2014/05/15,Good,Aluminum,6,Roadside,Central Area,Freeport,Steel,04:42:51pm,,Regulatory Sign,Yield,Triangle,Red,No,0
+26.5362279578373,-78.6961850563413,75,2014/05/15,Good,Aluminum,6,Roadside,Central Area,Freeport,Steel,04:45:13pm,,Regulatory Sign,Pedestrian Crossing,Triangle,Red,Yes,0
+26.5360225146892,-78.6966898797023,76,2014/05/15,Good,Aluminum,6,Roadside,Central Area,Freeport,Steel,04:47:11pm,,Regulatory Sign,Pedestrian Crossing,Triangle,Red,Yes,0
+26.5365950732147,-78.6951267206696,77,2014/05/15,Good,Aluminum,5,Roadside,Central Area,Freeport,Steel,04:52:04pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5365829353749,-78.6950408258573,78,2014/05/15,Good,Aluminum,6,Roadside,Central Area,Freeport,Steel,04:52:56pm,,Regulatory Sign,Yield,Triangle,Red,No,0
+26.5363298341229,-78.6946043425601,79,2014/05/15,Good,Aluminum,5,Roadside,Central Area,Freeport,Steel,04:54:31pm,,Warning Sign,Roundabout,Diamond,Yellow,Yes,0
+26.5309508259223,-78.6750314478402,80,2014/05/16,Good,Aluminum,6,Roadside,East Coral,Freeport,Steel,12:23:36pm,,Warning Sign,Speed Bump,Rectangle,Yellow,No,0
+26.5317375897606,-78.6742793298705,81,2014/05/16,Good,Engineering,6,Roadside,East Coral,Freeport,Steel,12:26:06pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.532044291014,-78.6748154706312,82,2014/05/16,Good,Engineering,7,Roadside,East Coral,Freeport,Steel,12:29:38pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5318139705746,-78.6751220228803,83,2014/05/16,Good,Engineering,6,Roadside,East Coral,Freeport,Steel,12:31:39pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5316054773958,-78.6756776228065,84,2014/05/16,Good,Engineering,6,Roadside,East Coral,Freeport,Steel,12:33:15pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5321929778349,-78.6759983001993,85,2014/05/16,Poor,Aluminum,6,Roadside,East Coral,Freeport,Steel,12:35:01pm,Spray paint damage,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5332888991501,-78.6747958962704,86,2014/05/16,Good,Aluminum,5,Roadside,East Coral,Freeport,Steel,12:37:12pm,,Regulatory Sign,Stop,Rectangle,Red,Yes,0
+26.5328854599039,-78.6742143416677,87,2014/05/16,Good,Aluminum,6,Roadside,East Coral,Freeport,Steel,12:39:00pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5323316386024,-78.6744902215252,88,2014/05/16,Good,Aluminum,6,Roadside,East Coral,Freeport,Steel,12:40:29pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5313332359307,-78.674358038899,89,2014/05/16,Good,Aluminum,5,Roadside,East Coral,Freeport,Steel,12:42:23pm,,Warning Sign,Speed Bump,Rectangle,Yellow,No,0
+26.5307032378753,-78.6751948148607,90,2014/05/16,Poor,Aluminum,6,Roadside,East Coral,Freeport,Steel,12:44:14pm,Lane information,Informational Sign,,Rectangle,Black & White,No,0
+26.5326617855611,-78.6732413915057,91,2014/05/16,Poor,Aluminum,7,Roadside,East Coral,Freeport,Steel,12:47:03pm,Colour of sign,Warning Sign,Speed Bump,Rectangle,Red,No,0
+26.5338505685607,-78.6722140702977,92,2014/05/20,Good,Aluminum,6,Roadside,East Coral,Freeport,Aluminum,04:23:32pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5341768546754,-78.6728258467047,93,2014/05/20,Poor,Aluminum,6,Roadside,East Coral,Freeport,Aluminum,04:25:24pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.534111373607,-78.6730795900506,94,2014/05/20,Good,Aluminum,6,Roadside,East Coral,Freeport,Steel,04:27:03pm,,Warning Sign,Speed Bump,Rectangle,Yellow,No,0
+26.533515039925,-78.6735065607167,95,2014/05/20,Good,Engineering,6,Roadside,East Coral,Freeport,Steel,04:30:26pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5342745377392,-78.6751167532156,96,2014/05/20,Good,Engineering,6,Roadside,East Coral,Freeport,Steel,04:32:19pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.535303830619,-78.6750706013411,97,2014/05/20,Good,Engineering,6,Roadside,East Coral,Freeport,Steel,04:33:58pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5352258418204,-78.674508601168,98,2014/05/20,Good,Engineering,6,Roadside,East Coral,Freeport,Steel,04:35:28pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5354457474089,-78.6744035910743,99,2014/05/20,Good,Engineering,6,Roadside,East Coral,Freeport,Steel,04:36:50pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5352479940567,-78.673786980678,100,2014/05/20,Good,Engineering,5,Roadside,East Coral,Freeport,Steel,04:38:14pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.535472395731,-78.6737015766378,101,2014/05/20,Good,Aluminum,6,Roadside,East Coral,Freeport,Steel,04:39:54pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5348750784361,-78.672312641089,102,2014/05/20,Good,Engineering,6,Roadside,East Coral,Freeport,Steel,04:41:31pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5345474251294,-78.6724079183336,103,2014/05/20,Good,Engineering,6,Roadside,East Coral,Freeport,Steel,04:43:15pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5348429659384,-78.6720329821191,104,2014/05/20,Good,Aluminum,6,Roadside,East Coral,Freeport,Steel,04:44:39pm,wrong position,Warning Sign,Speed Bump,Rectangle,Yellow,No,0
+26.5351168096084,-78.6716724733534,105,2014/05/20,Poor,Aluminum,6,Roadside,East Coral,Freeport,Steel,04:47:17pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5349014968063,-78.6716894721929,106,2014/05/20,Poor,Aluminum,6,Roadside,East Coral,Freeport,Steel,04:48:52pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5352343490781,-78.6710549382357,107,2014/05/20,Good,Aluminum,6,Roadside,East Coral,Freeport,Steel,04:51:13pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5349999922019,-78.6708969288285,108,2014/05/20,Poor,Engineering,6,Roadside,East Coral,Freeport,Steel,04:52:54pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5351406333544,-78.670322070448,109,2014/05/20,Poor,Engineering,6,Roadside,East Coral,Freeport,Steel,04:54:52pm,,Informational Sign,Stop,Octogon,Red,Yes,0
+26.5348796460147,-78.6701644091922,110,2014/05/20,Poor,Engineering,6,Roadside,East Coral,Freeport,Steel,04:57:07pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5349282843859,-78.669759772996,111,2014/05/20,Poor,Engineering,6,Roadside,East Coral,Freeport,Steel,04:59:06pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.534637336794,-78.6692936104249,112,2014/05/20,Good,Engineering,5,Roadside,East Coral,Freeport,Steel,05:00:45pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5352592028467,-78.6689529396723,113,2014/05/20,Good,Aluminum,5,Roadside,East Coral,Freeport,Steel,05:02:19pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.535428131026,-78.6688739896409,114,2014/05/20,Poor,Aluminum,6,Roadside,East Coral,Freeport,Steel,05:03:27pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5353486667947,-78.6695131287493,115,2014/05/20,Poor,Aluminum,6,Roadside,East Coral,Freeport,Steel,05:05:08pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5345700216205,-78.6694642754292,116,2014/05/20,Poor,Engineering,6,Roadside,East Coral,Freeport,Steel,05:06:58pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5340917138322,-78.6689340042583,117,2014/05/20,Good,Aluminum,6,Roadside,East Coral,Freeport,Steel,05:08:40pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5333125207255,-78.6689881552399,118,2014/05/20,Poor,Engineering,6,Roadside,East Coral,Freeport,Steel,05:10:15pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5338392429838,-78.6686290160345,119,2014/05/20,Good,Aluminum,5,Roadside,East Coral,Freeport,Steel,05:11:54pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5341393162537,-78.6686501662495,120,2014/05/20,Good,Aluminum,5,Roadside,East Coral,Freeport,Steel,05:13:11pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5349098421166,-78.6680820407834,121,2014/05/20,Good,Aluminum,6,Roadside,East Coral,Freeport,Steel,05:14:52pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5347886713616,-78.6675765239123,122,2014/05/20,Good,Aluminum,6,Roadside,East Coral,Freeport,Steel,05:16:10pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5338030365676,-78.6698554565141,123,2014/05/20,Good,Aluminum,6,Roadside,East Coral,Freeport,Steel,05:21:23pm,,Regulatory Sign,Speed Limit,Circle,Red,No,0
+26.5333976646803,-78.6691548836693,124,2014/05/20,Good,Aluminum,6,Roadside,East Coral,Freeport,Steel,05:23:41pm,,Warning Sign,School Zone,Rectangle,Yellow,No,0
+26.5333228497906,-78.6692279170787,125,2014/05/20,Good,Aluminum,6,Roadside,East Coral,Freeport,Steel,05:24:36pm,,Warning Sign,School Zone,Rectangle,Yellow,No,0
+26.5329719788849,-78.6684542149305,126,2014/05/20,Poor,Aluminum,6,Roadside,East Coral,Freeport,Steel,05:26:43pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5370519370286,-78.6671569680283,127,2014/05/20,Poor,Aluminum,6,Roadside,East Coral,Freeport,Steel,05:29:46pm,,Warning Sign,School Cross Walk,Triangle,Yellow,No,0
+26.5370473074496,-78.6672855269449,128,2014/05/20,Good,Aluminum,6,Roadside,East Coral,Freeport,Steel,05:30:52pm,,Warning Sign,School Zone,Rectangle,Yellow,No,0
+26.5401712914832,-78.6672953128087,129,2014/05/20,Good,Aluminum,6,Roadside,East Coral,Freeport,Steel,05:32:48pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5269451401397,-78.6766866529644,130,2014/05/26,Poor,Aluminum,5,Roadside,Columbus Estate,Freeport,Steel,11:38:39am,,Regulatory Sign,Stop,,Red,Yes,0
+26.526997015843,-78.6758403096967,131,2014/05/26,Good,Aluminum,6,Roadside,Columbus Estate,Freeport,Steel,11:40:35am,,Warning Sign,Rumbles,Rectangle,Yellow,No,0
+26.5275481311515,-78.6751488883628,132,2014/05/26,Good,Aluminum,6,Roadside,Columbus Estate,Freeport,Steel,11:42:35am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5277166484049,-78.6748516803956,133,2014/05/26,Good,Aluminum,6,Roadside,Columbus Estate,Freeport,Steel,11:43:57am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.529124177366,-78.6764117141578,134,2014/05/26,Good,Aluminum,6,Roadside,Columbus Estate,Freeport,Steel,11:46:06am,No Dumping,Informational Sign,,Rectangle,Red,No,0
+26.5297377077702,-78.6768292143539,135,2014/05/26,Good,Engineering,6,Roadside,Columbus Estate,Freeport,Steel,11:48:03am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5296169446035,-78.6771224494504,136,2014/05/26,Poor,Aluminum,5,Roadside,Columbus Estate,Freeport,Steel,11:51:11am,,Regulatory Sign,Speed Limit,Circle,Red,No,0
+26.5292265611486,-78.677904950651,137,2014/05/26,Good,Aluminum,6,Roadside,Columbus Estate,Freeport,Steel,11:53:24am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5290190536939,-78.6777221315162,138,2014/05/26,Good,Aluminum,6,Roadside,Columbus Estate,Freeport,Steel,11:54:28am,,Warning Sign,Speed Bump,Rectangle,Yellow,No,0
+26.5269421906111,-78.6776682643409,139,2014/05/26,Exellent,Engineering,6,Roadside,Columbus Estate,Freeport,Steel,11:57:14am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5285318023799,-78.6778411587037,140,2014/05/26,Good,Aluminum,6,Roadside,Columbus Estate,Freeport,Steel,01:56:03pm,,Regulatory Sign,Stop,,Red,Yes,0
+26.5284535535355,-78.6807363896412,141,2014/05/26,Poor,Aluminum,6,Roadside,Columbus Estate,Freeport,Steel,01:57:50pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.527740552572,-78.6778290101405,142,2014/05/26,Good,Aluminum,5,Roadside,Columbus Estate,Freeport,Steel,02:00:00pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5292174563522,-78.6808896845458,143,2014/05/26,Good,Engineering,6,Roadside,Columbus Estate,Freeport,Steel,02:02:14pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5302159891744,-78.6799770146579,144,2014/05/26,Good,Engineering,6,Roadside,Columbus Estate,Freeport,Steel,02:04:28pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5302100446324,-78.6791524936594,145,2014/05/26,Exellent,Engineering,6,Roadside,Columbus Estate,Freeport,Steel,02:06:04pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5301332121584,-78.6783237386941,146,2014/05/26,Good,Aluminum,6,Roadside,Columbus Estate,Freeport,Steel,02:07:52pm,No Dumping,Informational Sign,,Rectangle,Red,No,0
+26.5300722577017,-78.6807642736999,147,2014/05/26,Good,Aluminum,6,Roadside,Columbus Estate,Freeport,Steel,02:10:01pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5293938380464,-78.680824729616,148,2014/05/26,Exellent,Aluminum,6,Roadside,Columbus Estate,Freeport,Steel,02:13:15pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5293443113427,-78.680583875898,149,2014/05/26,Good,Aluminum,6,Roadside,Columbus Estate,Freeport,Steel,02:14:44pm,,Regulatory Sign,Speed Limit,Circle,Red,No,0
+26.5296579863461,-78.6773111723648,150,2014/05/26,Poor,Aluminum,6,Roadside,Columbus Estate,Freeport,Steel,02:17:21pm,,Regulatory Sign,Right Turn Only,Rectangle,Black & White,No,0
+26.5314236262429,-78.6808759150506,151,2014/05/26,Good,Aluminum,6,Roadside,Columbus Estate,Freeport,Steel,02:11:12pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5221784628581,-78.6720615653083,152,2014/05/27,Poor,Aluminum,5,Roadside,Mayfield Park,Freeport,Steel,12:07:43pm,,Warning Sign,School Cross Walk,Triangle,Yellow,No,0
+26.5217963713344,-78.6745685303482,153,2014/05/27,Good,Aluminum,6,Roadside,Mayfield Park,Freeport,Steel,12:10:20pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5229943560622,-78.6722193729837,154,2014/05/27,Exellent,Engineering,6,Roadside,Mayfield Park,Freeport,Steel,12:12:28pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5224186775907,-78.6716356944507,155,2014/05/27,Good,Engineering,6,Roadside,Mayfield Park,Freeport,Steel,12:13:54pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5225375192158,-78.6713452507767,156,2014/05/27,Exellent,Engineering,6,Roadside,Mayfield Park,Freeport,Steel,12:15:10pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5217814714938,-78.6745442402762,157,2014/05/27,Exellent,Aluminum,6,Roadside,Mayfield Park,Freeport,Steel,12:17:54pm,,Regulatory Sign,School Cross Walk,Triangle,Red,No,0
+26.5217800159727,-78.6753073279871,158,2014/05/27,Good,Aluminum,7,Roadside,Mayfield Park,Freeport,Steel,12:19:51pm,,Regulatory Sign,School Cross Walk,Triangle,Red,No,0
+26.5218748809069,-78.6762648571265,159,2014/05/27,Exellent,Aluminum,6,Roadside,Mayfield Park,Freeport,Steel,12:22:14pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5217720356539,-78.6764813596433,160,2014/05/27,Good,Aluminum,4,Roadside,Mayfield Park,Freeport,Steel,12:23:15pm,,Warning Sign,Stop Ahead,Rectangle,Yellow,No,0
+26.5234677751936,-78.6764014208344,161,2014/05/27,Exellent,Engineering,6,Roadside,Mayfield Park,Freeport,Steel,12:27:30pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5234021436682,-78.6762157217063,162,2014/05/27,Poor,Aluminum,6,Roadside,Mayfield Park,Freeport,Steel,12:28:34pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5245389987363,-78.6764059976095,163,2014/05/27,Exellent,Engineering,6,Roadside,Mayfield Park,Freeport,Steel,12:30:53pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5244544162197,-78.6761797801831,164,2014/05/27,Exellent,Aluminum,5,Roadside,Mayfield Park,Freeport,Steel,12:32:08pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5252037395683,-78.676184938366,165,2014/05/27,Exellent,Engineering,6,Roadside,Mayfield Park,Freeport,Steel,12:36:24pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5252762280103,-78.6764086570191,166,2014/05/27,Exellent,Engineering,6,Roadside,Mayfield Park,Freeport,Steel,12:37:37pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5259197186388,-78.6763704134349,167,2014/05/27,Exellent,Engineering,6,Roadside,Mayfield Park,Freeport,Steel,12:39:26pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5259406318713,-78.6776183592145,168,2014/05/27,Exellent,Engineering,6,Roadside,Mayfield Park,Freeport,Steel,12:40:55pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5248451356756,-78.6777681418461,169,2014/05/27,Poor,Aluminum,6,Roadside,Mayfield Park,Freeport,Steel,12:42:30pm,,Warning Sign,Speed Bump,Rectangle,Yellow,No,0
+26.52459064511,-78.6776681564359,170,2014/05/27,Exellent,Engineering,6,Roadside,Mayfield Park,Freeport,Steel,12:44:01pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5244571825284,-78.6787768004905,171,2014/05/27,Good,Aluminum,6,Roadside,Mayfield Park,Freeport,Steel,12:45:35pm,,Warning Sign,Speed Bump,Diamond,Yellow,No,0
+26.5246082454262,-78.6787427157872,172,2014/05/27,Good,Engineering,6,Roadside,Mayfield Park,Freeport,Steel,12:46:44pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.525941191465,-78.6798260333206,173,2014/05/27,Exellent,Engineering,6,Roadside,Mayfield Park,Freeport,Steel,12:48:48pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5258652620717,-78.680861163758,174,2014/05/27,Exellent,Engineering,5,Roadside,Mayfield Park,Freeport,Steel,12:50:11pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.526578307549,-78.6813956080009,175,2014/05/28,Poor,Aluminum,6,Roadside,Mayfield Park,Freeport,Steel,01:26:09pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5226532702778,-78.6764095817037,176,2014/05/28,Exellent,Engineering,6,Roadside,Mayfield Park,Freeport,Steel,01:29:58pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.522704643514,-78.6787155489617,177,2014/05/28,Good,Engineering,5,Roadside,Mayfield Park,Freeport,Steel,01:31:52pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5226664899142,-78.6805692977549,178,2014/05/28,Good,Aluminum,6,Roadside,Mayfield Park,Freeport,Steel,01:33:39pm,,Warning Sign,Speed Bump,Diamond,Yellow,No,0
+26.5225773796547,-78.6806409528579,179,2014/05/28,Exellent,Engineering,6,Roadside,Mayfield Park,Freeport,Steel,01:34:47pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5220509573076,-78.6810003487101,180,2014/05/28,Exellent,Engineering,6,Roadside,Mayfield Park,Freeport,Steel,01:38:17pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5225893925533,-78.6802679170106,181,2014/05/28,Good,Aluminum,6,Roadside,Mayfield Park,Freeport,Steel,01:41:30pm,,Warning Sign,Speed Bump,Diamond,Yellow,No,0
+26.5111965969219,-78.7348789017776,182,2014/05/28,Good,Aluminum,6,Roadside,Hawksbill,Freeport,Steel,01:57:22pm,No Overtaking,Regulatory Sign,,Circle,Red,No,0
+26.508663008058,-78.733971272821,183,2014/05/28,Good,Aluminum,7,Roadside,Wellington Pinder Heights,Freeport,Steel,01:59:51pm,No Overtaking,Regulatory Sign,,Circle,Red,No,0
+26.5082397027451,-78.7340678157333,184,2014/05/28,Good,Engineering,8,Roadside,Wellington Pinder Heights,Freeport,Steel,02:01:30pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5083167708752,-78.7349803923919,185,2014/05/28,Exellent,Engineering,6,Roadside,Wellington Pinder Heights,Freeport,Steel,02:03:03pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5094066696567,-78.7370536335202,186,2014/05/28,Good,Engineering,6,Roadside,Wellington Pinder Heights,Freeport,Steel,02:05:26pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5093223372373,-78.736468628945,187,2014/05/28,Good,Engineering,6,Roadside,Wellington Pinder Heights,Freeport,Steel,02:06:40pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5083447968799,-78.735729422805,188,2014/05/28,Poor,Engineering,6,Roadside,Wellington Pinder Heights,Freeport,Steel,02:08:02pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.50948703528,-78.7356399043444,189,2014/05/28,Good,Engineering,6,Roadside,Wellington Pinder Heights,Freeport,Steel,02:09:56pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5083174394832,-78.73709332364,190,2014/05/28,Good,Engineering,6,Roadside,Wellington Pinder Heights,Freeport,Steel,02:11:37pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5118908689426,-78.7375367520649,191,2014/06/12,Poor,Aluminum,5,Roadside,Hawksbill,Freeport,Steel,11:18:28am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5129441377373,-78.7376569297958,192,2014/06/12,Good,Aluminum,6,Roadside,Hawksbill,Freeport,Steel,11:21:20am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5131384500633,-78.7350625913321,193,2014/06/12,Exellent,Engineering,5,Roadside,Hawksbill,Freeport,Steel,11:23:08am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5118755554856,-78.7351395370932,194,2014/06/12,Poor,Aluminum,5,Roadside,Hawksbill,Freeport,Steel,11:25:48am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5155376436925,-78.7397110007231,195,2014/06/12,Good,Aluminum,6,Roadside,Hawksbill,Freeport,Steel,11:28:06am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5158219278544,-78.7385204446326,196,2014/06/12,Poor,Aluminum,5,Roadside,Hawksbill,Freeport,Steel,11:30:49am,,Warning Sign,Speed Bump,Rectangle,Multi-Colour,No,0
+26.5157076945152,-78.7384559221203,197,2014/06/12,Good,Aluminum,5,Roadside,Hawksbill,Freeport,Steel,11:32:29am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5158747189038,-78.7369949431328,198,2014/06/12,Good,Engineering,6,Roadside,Hawksbill,Freeport,Steel,11:34:30am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5160285362165,-78.7355173646051,199,2014/06/12,Poor,Aluminum,6,Roadside,Hawksbill,Freeport,Steel,11:35:57am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5160778697312,-78.7340904335157,200,2014/06/12,Poor,Aluminum,6,Roadside,Hawksbill,Freeport,Steel,11:37:54am,,Warning Sign,Speed Bump,Rectangle,Yellow,No,0
+26.516038127236,-78.7340281202576,201,2014/06/12,Exellent,Aluminum,6,Roadside,Hawksbill,Freeport,Steel,11:38:50am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5149166364764,-78.73399520249,202,2014/06/12,Poor,Aluminum,7,Roadside,Hawksbill,Freeport,Steel,11:40:27am,No Dumping,Warning Sign,,Rectangle,Multi-Colour,No,0
+26.5161795128447,-78.7332548852189,203,2014/06/12,Poor,Aluminum,6,Roadside,Hawksbill,Freeport,Steel,11:43:30am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5192019197393,-78.7275815503566,204,2014/06/12,Good,Aluminum,6,Roadside,Regency Pak,Freeport,Steel,04:20:21pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5171377326552,-78.7298950169764,205,2014/06/13,Exellent,Aluminum,6,Roadside,,Freeport,Steel,02:53:43pm,Reduce Speed,Warning Sign,,Rectangle,Red,No,0
+26.5171515614484,-78.7309460088806,206,2014/06/13,Exellent,Aluminum,6,Roadside,,Freeport,Steel,02:56:17pm,,Regulatory Sign,Speed Limit,Circle,Red,No,0
+26.5171847698851,-78.7323405520057,207,2014/06/13,Exellent,Aluminum,6,Median,,Freeport,Steel,02:57:52pm,,Regulartory Sign,Keep Right,Rectangle,Black & White,No,0
+26.5171198076846,-78.7327787680393,208,2014/06/13,Good,Aluminum,6,Roadside,,Freeport,Steel,03:01:05pm,,Regulatory Sign,Yield,Triangle,Red,No,0
+26.517186300737,-78.7328484097252,209,2014/06/13,Good,Aluminum,6,Median,,Freeport,,03:01:55pm,,Informational Sign,Keep Left,Rectangle,Yellow,No,0
+26.5166737814835,-78.733215894192,210,2014/06/13,Good,Aluminum,6,Roadside,Hawksbill,Freeport,Steel,03:04:15pm,,Warning Sign,Roundabout,Circle,Red,No,0
+26.5169956371907,-78.733228012062,211,2014/06/13,Good,Aluminum,6,Roadside,Hawksbill,Freeport,Steel,03:05:47pm,,Regulatory Sign,Yield,Triangle,Red,No,0
+26.5183446880862,-78.7275788500057,212,2014/06/13,Good,Aluminum,6,Roadside,Regency Pak,Freeport,Steel,03:12:14pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5184107481181,-78.7231953556451,213,2014/06/13,Good,Aluminum,6,Roadside,Regency Pak,Freeport,Steel,03:14:21pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5193807494528,-78.7234832104636,214,2014/06/13,Good,Aluminum,6,Roadside,Regency Pak,Freeport,Steel,03:15:35pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5196095871166,-78.7235615867493,215,2014/06/13,Good,Aluminum,6,Roadside,Regency Pak,Freeport,Steel,03:19:20pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5198154127676,-78.723220200807,216,2014/06/13,Good,Aluminum,6,Roadside,Regency Pak,Freeport,Steel,03:21:45pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5226182750812,-78.7239158640487,217,2014/06/13,Good,Aluminum,5,Roadside,Regency Pak,Freeport,Steel,03:23:34pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.523293824533,-78.7169250505071,218,2014/06/16,Exellent,Engineering,5,Roadside,Regency Pak,Freeport,Steel,04:23:04pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5221856711938,-78.7175882221855,219,2014/06/16,Exellent,Engineering,5,Roadside,Regency Pak,Freeport,Steel,04:25:23pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5225963691315,-78.7167226288232,220,2014/06/16,Exellent,Aluminum,6,Median,Regency Pak,Freeport,Steel,04:27:08pm,No dumping,Informational Sign,,Rectangle,Multi-Colour,No,0
+26.5187271423941,-78.717008890972,221,2014/06/16,Exellent,Engineering,5,Roadside,Regency Pak,Freeport,Steel,04:29:42pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5186565045149,-78.7172159465961,222,2014/06/16,Poor,Aluminum,5,Roadside,Regency Pak,Freeport,Steel,04:30:44pm,Road blocked off,Regulatory Sign,Stop,Circle,Red,Yes,0
+26.5192457159388,-78.7177627989603,223,2014/06/16,Exellent,Engineering,5,Roadside,Regency Pak,Freeport,Steel,04:33:06pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.519189292804,-78.7211436146899,224,2014/06/16,Good,Engineering,5,Roadside,Regency Pak,Freeport,Steel,04:35:08pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5183389081088,-78.7211864972107,225,2014/06/16,Exellent,Aluminum,6,Roadside,Regency Pak,Freeport,Steel,04:36:51pm,No dumping,Regulatory Sign,,Rectangle,Multi-Colour,No,0
+26.5194761501263,-78.7213383810222,226,2014/06/16,Exellent,Aluminum,6,Roadside,Regency Pak,Freeport,Steel,04:38:40pm,No dumping,Informational Sign,,Rectangle,Multi-Colour,No,0
+26.5208870769803,-78.7212863734972,227,2014/06/16,Exellent,Engineering,5,Roadside,Regency Pak,Freeport,Steel,04:40:24pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5218637067963,-78.7187448761433,228,2014/06/16,Exellent,Engineering,6,Roadside,Regency Pak,Freeport,Steel,04:42:24pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5215325937858,-78.7229055086098,229,2014/06/16,Exellent,Engineering,5,Roadside,Regency Pak,Freeport,Steel,04:44:15pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5208013008871,-78.722197161054,230,2014/06/16,Exellent,Engineering,5,Roadside,Regency Pak,Freeport,Steel,04:45:37pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.522647701126,-78.7232995807154,231,2014/06/16,Exellent,Engineering,6,Roadside,Regency Pak,Freeport,Steel,04:47:49pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5226483510264,-78.7186907480084,232,2014/06/16,Exellent,Engineering,5,Roadside,Regency Pak,Freeport,Steel,04:50:13pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5210800517723,-78.7185930011144,233,2014/06/16,Exellent,Engineering,5,Roadside,Regency Pak,Freeport,Steel,04:52:07pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5215405392259,-78.7176984760198,234,2014/06/16,Good,Aluminum,6,Roadside,Regency Pak,Freeport,Steel,04:53:49pm,,Warning Sign,Speed Bump,Triangle,Yellow,No,0
+26.5226419419734,-78.7177079819902,235,2014/06/16,Exellent,Engineering,5,Roadside,Regency Pak,Freeport,Steel,04:55:39pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5201659970843,-78.7178182521807,236,2014/06/16,Exellent,Engineering,6,Roadside,Regency Pak,Freeport,Steel,04:57:35pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5200376076391,-78.7211315943486,237,2014/06/16,Good,Engineering,6,Roadside,Regency Pak,Freeport,Steel,04:59:18pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5199040285426,-78.7228926558036,238,2014/06/16,Good,Aluminum,5,Roadside,Regency Pak,Freeport,Steel,05:03:53pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5193087569515,-78.7224639109861,239,2014/06/16,Poor,Aluminum,6,Roadside,Regency Pak,Freeport,Steel,05:05:53pm,,Informational Sign,Keep Left,Circle,Blue,No,0
+26.5173725208625,-78.722249071298,240,2014/06/16,Exellent,Engineering,6,Median,Regency Pak,Freeport,Steel,05:07:58pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5275795238421,-78.7074031446307,241,2014/06/18,Good,Engineering,6,Roadside,Sunset Park,Freeport,Steel,02:57:06pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5277366065023,-78.7073725778875,242,2014/06/18,Good,Aluminum,6,Roadside,Sunset Park,Freeport,Steel,02:58:20pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5273153216578,-78.7081259679936,243,2014/06/18,Good,Engineering,6,Roadside,Sunset Park,Freeport,Steel,03:00:06pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5275014354305,-78.708141190242,244,2014/06/18,Good,Engineering,5,Roadside,Sunset Park,Freeport,Steel,03:01:15pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5271075720509,-78.7089003760832,245,2014/06/18,Poor,Engineering,5,Roadside,Sunset Park,Freeport,Steel,03:03:01pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5272479961643,-78.7088952400405,246,2014/06/18,Good,Aluminum,6,Roadside,Sunset Park,Freeport,,03:04:17pm,,,,,,No,0
+26.5273059225762,-78.7088856730072,247,2014/06/18,Good,Engineering,6,Roadside,Sunset Park,Freeport,Steel,03:05:03pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5269076816547,-78.7096729450799,248,2014/06/18,Good,Engineering,6,Roadside,Sunset Park,Freeport,Steel,03:06:50pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5270892413504,-78.7096550232606,249,2014/06/18,Poor,Engineering,6,Roadside,Sunset Park,Freeport,Steel,03:07:51pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5266997613575,-78.7104109181847,250,2014/06/18,Good,Engineering,6,Roadside,Sunset Park,Freeport,Steel,03:09:49pm,,Regulatory Sign,Stop,Octogon,Red,No,0
+26.526875604335,-78.7103950975172,251,2014/06/18,Exellent,Engineering,6,Roadside,Sunset Park,Freeport,Steel,03:11:13pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5266616112914,-78.7111579853431,252,2014/06/18,Good,Engineering,6,Roadside,Sunset Park,Freeport,Steel,03:13:19pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5265606493122,-78.7120361327306,253,2014/06/18,Poor,Engineering,6,Roadside,Sunset Park,Freeport,Steel,03:14:41pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5265561018795,-78.7128357313209,254,2014/06/18,Poor,Engineering,6,Roadside,Sunset Park,Freeport,Steel,03:16:41pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5265428179808,-78.7136152736187,255,2014/06/18,Good,Engineering,6,Roadside,Sunset Park,Freeport,Steel,03:18:16pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5265623141781,-78.7144072980632,256,2014/06/18,Good,Engineering,6,Roadside,Sunset Park,Freeport,Steel,03:19:37pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5265584813193,-78.7151980886561,257,2014/06/18,Poor,Engineering,6,Roadside,Sunset Park,Freeport,Steel,03:21:18pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.527848046817,-78.7068630111579,258,2014/06/18,Good,Aluminum,6,Roadside,Sunset Park,Freeport,Steel,03:24:07pm,,Regulatory Sign,Speed Limit,Circle,Multi-Colour,No,0
+26.5281700906829,-78.7052979737843,259,2014/06/18,Poor,Aluminum,6,Roadside,Sunset Park,Freeport,Steel,03:25:59pm,,Regulatory Sign,Speed Limit,Circle,Multi-Colour,No,0
+26.5285451675006,-78.7018813681922,260,2014/06/18,Good,Engineering,6,Roadside,Sunset Park,Freeport,Steel,03:27:22pm,,Regulatory Sign,Stop,Octogon,Red,No,0
+26.5289980910101,-78.7027007311006,261,2014/06/18,Exellent,Engineering,6,Roadside,Sunset Park,Freeport,Steel,03:29:49pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5290030179799,-78.7027630707122,262,2014/06/18,Poor,Aluminum,5,Roadside,Sunset Park,Freeport,Steel,03:30:27pm,,Regulatory Sign,Speed Limit,Circle,Multi-Colour,No,0
+26.5301472818886,-78.7020289220342,263,2014/06/18,Good,Aluminum,5,Roadside,Sunset Park,Freeport,Steel,03:32:09pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5309836967888,-78.699327573189,264,2014/06/18,Exellent,Engineering,6,Roadside,Sunset Park,Freeport,Steel,03:33:26pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5318172230221,-78.6993534802549,265,2014/06/18,Poor,Aluminum,6,Roadside,Sunset Park,Freeport,Steel,03:35:01pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5309787900441,-78.7020467836213,266,2014/06/18,Poor,Aluminum,6,Roadside,Sunset Park,Freeport,Steel,03:36:21pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.531739331829,-78.7020652735861,267,2014/06/18,Poor,Aluminum,4,Roadside,Sunset Park,Freeport,Steel,03:37:52pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5324822573638,-78.6997484508176,268,2014/06/18,Exellent,Engineering,6,Roadside,Sunset Park,Freeport,Steel,03:38:56pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5332320946083,-78.6993978494115,269,2014/06/18,Good,Engineering,6,Roadside,Sunset Park,Freeport,Steel,03:41:03pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.532700285336,-78.701175922492,270,2014/06/18,Good,Aluminum,6,Roadside,Sunset Park,Freeport,Steel,03:42:29pm,,Warning Sign,Speed Bump,Diamond,Yellow,No,0
+26.5330969092115,-78.7016978357651,271,2014/06/18,Exellent,Engineering,6,Roadside,Sunset Park,Freeport,Steel,03:43:47pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5334210725204,-78.7010602481648,272,2014/06/18,Good,Aluminum,6,Roadside,Sunset Park,Freeport,Steel,03:45:05pm,,Regulatory Sign,Speed Limit,Circle,Multi-Colour,No,0
+26.533608469987,-78.7001087390329,273,2014/06/18,Good,Aluminum,7,Roadside,Sunset Park,Freeport,Steel,03:46:24pm,,Regulatory Sign,Speed Limit,Circle,Multi-Colour,No,0
+26.5343110755943,-78.7006986946431,274,2014/06/18,Poor,Aluminum,5,Roadside,Sunset Park,Freeport,Steel,03:48:07pm,,Warning Sign,Speed Bump,Diamond,Yellow,No,0
+26.5337498672491,-78.7029038418212,275,2014/06/18,Poor,Aluminum,8,Roadside,Sunset Park,Freeport,Steel,03:49:56pm,,Warning Sign,Speed Bump,Diamond,Yellow,No,0
+26.5328455378503,-78.7033949761963,276,2014/06/18,Good,Engineering,5,Roadside,Sunset Park,Freeport,Steel,03:51:40pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5339099042374,-78.6996234517216,277,2014/06/18,Poor,Aluminum,5,Roadside,Sunset Park,Freeport,Steel,03:53:24pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5337172672932,-78.6995086631044,278,2014/06/18,Exellent,Engineering,7,Roadside,Sunset Park,Freeport,Steel,03:54:40pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.532411269208,-78.7046161948539,279,2014/06/18,Good,Aluminum,6,Roadside,Sunset Park,Freeport,Steel,03:56:45pm,No Dumping,Warning Sign,,Rectangle,Multi-Colour,No,0
+26.5316326079195,-78.7036737279741,280,2014/06/18,Exellent,Engineering,5,Roadside,Sunset Park,Freeport,Steel,04:01:55pm,,Informational Sign,Stop,Octogon,Red,Yes,0
+26.5316112782336,-78.7028806611901,281,2014/06/18,Poor,Engineering,5,Roadside,Sunset Park,Freeport,Steel,04:03:38pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5317466530073,-78.7022437347474,282,2014/06/18,Poor,Aluminum,5,Roadside,Sunset Park,Freeport,Steel,04:05:14pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5316666876765,-78.7022288891084,283,2014/06/18,Poor,Aluminum,5,Roadside,Sunset Park,Freeport,Steel,04:06:09pm,,Informational Sign,,Rectangle,Green,No,0
+26.5294712741544,-78.7018493866578,284,2014/06/18,Good,Aluminum,5,Roadside,Sunset Park,Freeport,Steel,04:08:35pm,,Regulatory Sign,Stop,Octogon,Red,No,0
+26.5302527751174,-78.6990739133781,285,2014/06/18,Good,Aluminum,6,Roadside,Sunset Park,Freeport,Steel,04:10:13pm,,Regulatory Sign,Stop,Octogon,Red,No,0
+26.5302009636138,-78.6989542762777,286,2014/06/18,Poor,Aluminum,6,Roadside,Sunset Park,Freeport,Steel,04:10:58pm,,Informational Sign,,Rectangle,Green,No,0
+26.5304223387753,-78.6989890333739,287,2014/06/18,Exellent,Engineering,5,Roadside,Sunset Park,Freeport,Steel,04:12:05pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5303840702477,-78.6989445498219,288,2014/06/18,Poor,Aluminum,6,Roadside,Sunset Park,Freeport,Steel,04:12:42pm,,Regulatory Sign,Yield,Triangle,Red,No,0
+26.5340915261564,-78.6988058683561,289,2014/06/18,Exellent,Aluminum,6,Roadside,Sunset Park,Freeport,Steel,04:15:33pm,,Regulatory Sign,Pedestrian Crossing,Triangle,Multi-Colour,No,0
+26.5296364962851,-78.7874309925812,290,2014/06/19,Exellent,Aluminum,6,Roadside,,Freeport,Steel,02:42:16pm,Bonded Area Sign,Regulatory Sign,Stop,Octogon,Red,No,0
+26.5343736641116,-78.7828062561558,291,2014/06/19,Poor,Aluminum,6,Roadside,Harbour Area,Freeport,Steel,02:45:43pm,Keep Left,Regulatory Sign,Speed Limit,Rectangle,Multi-Colour,No,0
+26.5342800626804,-78.7825418402555,292,2014/06/19,Poor,Aluminum,6,Roadside,Harbour Area,Freeport,Steel,02:46:49pm,,Regulatory Sign,Yield,Triangle,Red,No,0
+26.5338669248652,-78.7823421159321,293,2014/06/19,Good,Aluminum,5,Roadside,Harbour Area,Freeport,Steel,02:48:16pm,,Regulatory Sign,Yield,Triangle,Red,No,0
+26.5338445781158,-78.7828948164066,294,2014/06/19,Poor,Aluminum,5,Median,Harbour Area,Freeport,Steel,02:49:54pm,,Regulatory Sign,Yield,Triangle,Red,No,0
+26.5339566781978,-78.7828868826876,295,2014/06/19,Poor,Aluminum,6,Median,Harbour Area,Freeport,Steel,02:50:57pm,Merge Ahead,Regulatory Sign,,Rectangle,Black & White,No,0
+26.5336507925965,-78.7812941965277,296,2014/06/19,Poor,Aluminum,4,Roadside,Harbour Area,Freeport,Steel,02:57:30pm,,Regulatory Sign,Yield Ahead,Diamond,Yellow,No,0
+26.5364825804735,-78.7820163472546,297,2014/06/19,Poor,Aluminum,5,Roadside,Harbour Area,Freeport,Steel,02:59:28pm,,Regulatory Sign,Roundabout,Diamond,Yellow,No,0
+26.5430732467498,-78.7811198821315,298,2014/06/19,Good,Aluminum,5,Roadside,Harbour Area,Freeport,Steel,03:01:47pm,,Regulatory Sign,Right Curve Ahead,Diamond,Yellow,No,0
+26.5433897691651,-78.773255360019,299,2014/06/19,Poor,Aluminum,5,Roadside,Harbour Area,Freeport,Steel,03:03:50pm,,Regulatory Sign,Speed Limit,Circle,Multi-Colour,No,0
+26.5430875277161,-78.7721673974043,300,2014/06/19,Good,Aluminum,6,Roadside,Harbour Area,Freeport,Steel,03:05:29pm,,Regulatory Sign,Speed Limit,Rectangle,Multi-Colour,No,0
+26.5429280410339,-78.7704653453522,301,2014/06/19,Good,Aluminum,5,Median,Harbour Area,Freeport,Steel,03:06:57pm,,Regulatory Sign,Keep Left (except),Circle,Blue,No,0
+26.5422387103227,-78.7670191558214,302,2014/06/19,Good,Aluminum,6,Roadside,Harbour Area,Freeport,Steel,03:08:17pm,,Regulatory Sign,Speed Limit,Rectangle,Multi-Colour,No,0
+26.5417401447868,-78.7657190116735,303,2014/06/19,Good,Aluminum,6,Roadside,Harbour Area,Freeport,Steel,03:09:29pm,Keep Left,Regulatory Sign,Speed Limit,Circle,Multi-Colour,No,0
+26.5351804011431,-78.7494480529026,304,2014/06/19,Poor,Aluminum,6,Roadside,Harbour Area,Freeport,Steel,03:12:34pm,,Regulatory Sign,Roundabout,Diamond,Yellow,No,0
+26.5331179812741,-78.7495343511241,305,2014/06/19,Poor,Aluminum,6,Roadside,Harbour Area,Freeport,Steel,03:14:22pm,,Regulatory Sign,Yield,Triangle,Red,No,0
+26.5335109944886,-78.7493255747139,306,2014/06/19,Poor,Aluminum,6,Roadside,Harbour Area,Freeport,Steel,03:15:20pm,,Regulatory Sign,Yield,Triangle,Red,No,0
+26.5336720107912,-78.7489292924038,307,2014/06/19,Poor,Aluminum,6,Roadside,Harbour Area,Freeport,Steel,03:16:38pm,,Regulatory Sign,Yield,Triangle,Red,No,0
+26.526646402678,-78.6986208819341,308,2014/06/20,Exellent,Aluminum,6,Roadside,Central Area West,Freeport,Steel,03:57:51pm,,Regulatory Sign,Yield,Triangle,Red,Yes,0
+26.5266331876753,-78.6990058093657,309,2014/06/20,Exellent,Aluminum,5,Roadside,Central Area West,Freeport,Steel,03:59:30pm,Junction Change,Regulatory Sign,Roundabout,Circle,Red,No,0
+26.5263951180425,-78.6985809070544,310,2014/06/20,Exellent,Aluminum,6,Roadside,Central Area West,Freeport,Steel,04:01:11pm,,Regulatory Sign,Yield,Triangle,Red,No,0
+26.5264023404563,-78.698483476832,311,2014/06/20,Exellent,Aluminum,6,Roadside,Central Area West,Freeport,Steel,04:02:05pm,,Regulatory Sign,Yield,Triangle,Red,No,0
+26.5264681515633,-78.6983393680454,312,2014/06/20,Exellent,Aluminum,6,Roadside,Central Area West,Freeport,Steel,04:02:52pm,,Regulatory Sign,Yield,Triangle,Red,Yes,0
+26.5267469488682,-78.6984104520232,313,2014/06/20,Exellent,Aluminum,6,Roadside,Central Area West,Freeport,Steel,04:03:58pm,,Regulatory Sign,Yield,Triangle,Red,No,0
+26.5266799892596,-78.6984937187614,314,2014/06/20,Exellent,Aluminum,6,Median,Central Area West,Freeport,Steel,04:04:50pm,,Regulatory Sign,Yield,Triangle,Red,No,0
+26.5253038063889,-78.6986737800836,315,2014/06/20,Good,Aluminum,6,Roadside,Central Area West,Freeport,Steel,04:07:23pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5256584122537,-78.6985904446383,316,2014/06/20,Good,Aluminum,6,Roadside,Central Area West,Freeport,Steel,04:08:37pm,Round About,Regulatory Sign,Speed Limit,Circle,Red,No,0
+26.5225171173274,-78.7000307941893,317,2014/06/20,Exellent,Aluminum,6,Roadside,Central Area West,Freeport,Steel,04:12:35pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5226116960595,-78.7013203985142,318,2014/06/20,Good,Aluminum,6,Roadside,Central Area West,Freeport,Steel,04:14:21pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5226740118012,-78.6986558716831,319,2014/06/20,Exellent,Aluminum,6,Roadside,Central Area West,Freeport,Steel,04:16:06pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5242172467802,-78.698380168504,320,2014/06/20,Good,Aluminum,6,Roadside,Central Area West,Freeport,Steel,04:18:09pm,,Warning Sign,Pedestrian Crossing,Diamond,Yellow,No,0
+26.5235931756624,-78.6983735500405,321,2014/06/20,Good,Aluminum,6,Roadside,Central Area West,Freeport,Steel,04:19:45pm,,Warning Sign,Squeeze Filt & Turn,Rectangle,Red,No,0
+26.5234145745014,-78.6985693241512,322,2014/06/20,Exellent,Aluminum,6,Roadside,Central Area West,Freeport,Steel,04:20:41pm,Junction change,Regulatory Sign,School Zone,Rectangle,Black & White,No,0
+26.5254183472682,-78.6575747110268,323,2014/06/23,Exellent,3M,6,Roadside,Lucayan Knoll,Lucaya,Steel,06:51:16pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5247011090129,-78.6569992524923,324,2014/06/23,Poor,Aluminum,6,Roadside,Lucayan Knoll,Lucaya,Steel,06:53:02pm,,Regulatory Sign,Stop,Circle,Red,Yes,0
+26.5228115437431,-78.6537738795448,325,2014/06/23,Exellent,Engineering,6,Roadside,Lucayan Knoll,Lucaya,Steel,06:55:18pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5227692193072,-78.6539745203707,326,2014/06/23,Exellent,Engineering,6,Roadside,Lucayan Knoll,Lucaya,Steel,06:56:19pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5233878436096,-78.6532042282639,327,2014/06/23,Exellent,Engineering,7,Roadside,Lucayan Knoll,Lucaya,Steel,06:59:11pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5210076103983,-78.6517105688529,328,2014/06/23,Exellent,Aluminum,4,Roadside,Lucayan Knoll,Lucaya,Steel,07:01:26pm,remove,Regulatory Sign,Stop,Circle,Red,No,0
+26.520886765472,-78.6512931521538,329,2014/06/23,Good,Aluminum,6,Roadside,Lucayan Knoll,Lucaya,Steel,07:03:07pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5215661934395,-78.6508229107442,330,2014/06/23,Good,Engineering,6,Roadside,Lucayan Knoll,Lucaya,Steel,07:04:30pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5186533760617,-78.6513944251018,331,2014/06/23,Good,Engineering,6,Roadside,Lucayan Knoll,Lucaya,Steel,07:06:47pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5228924330741,-78.6570955846302,332,2014/06/23,Good,Aluminum,6,Roadside,Lucayan Knoll,Lucaya,Steel,07:10:13pm,,Warning Sign,Speed Bump,Rectangle,Yellow,No,0
+26.5222791431888,-78.6573790918677,333,2014/06/23,Good,Aluminum,6,Roadside,Lucayan Knoll,Lucaya,Steel,07:11:36pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5179058831247,-78.6510379244433,334,2014/06/23,Good,Aluminum,6,Roadside,Windsor Park,Freeport,Steel,07:14:31pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5177209633542,-78.6513904203398,335,2014/06/23,Exellent,Engineering,6,Roadside,Windsor Park,Freeport,Steel,07:16:06pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5160699321176,-78.6546197144524,336,2014/06/23,Good,Aluminum,6,Roadside,Windsor Park,Freeport,Steel,07:18:44pm,,Warning Sign,Right Curve Ahead,Diamond,Yellow,No,0
+26.5161794339618,-78.6568758394857,337,2014/06/23,Exellent,Engineering,5,Roadside,Windsor Park,Freeport,Steel,07:20:52pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.515897597398,-78.6575226543098,338,2014/06/23,Poor,Aluminum,6,Roadside,Windsor Park,Freeport,Steel,07:22:27pm,,Warning Sign,Speed Bump,Rectangle,Yellow,No,0
+26.5172416931924,-78.6623484935887,339,2014/06/23,Good,Engineering,6,Roadside,Bahama Reef,Freeport,Steel,07:25:26pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5089558309672,-78.6583504055048,340,2014/06/23,Good,Aluminum,5,Roadside,Bahama Reef,Freeport,Steel,07:30:33pm,,Regulatory Sign,Stop,Octogon,Red,No,0
+26.509171665122,-78.6579699995099,341,2014/06/23,Good,Aluminum,6,Roadside,Bahama Reef,Freeport,Steel,07:32:39pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5112073179427,-78.6556942336345,342,2014/06/23,Good,Aluminum,6,Roadside,Bahama Reef,Freeport,Steel,07:35:29pm,,Warning Sign,Right Curve Ahead,Triangle,Red,No,0
+26.5120787639545,-78.6552958477364,343,2014/06/23,Poor,Aluminum,6,Roadside,Bahama Reef,Freeport,Steel,07:38:50pm,,Regulatory Sign,Stop,Circle,Red,Yes,0
+26.5125976849195,-78.6559795792475,344,2014/06/23,Good,Aluminum,6,Roadside,Bahama Reef,Freeport,Steel,07:40:35pm,,Warning Sign,Right Curve Ahead,Triangle,Red,No,0
+26.5135647375715,-78.6559414919923,345,2014/06/23,Exellent,Aluminum,6,Roadside,Bahama Reef,Freeport,Steel,07:43:28pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5149199497455,-78.6561690976508,346,2014/06/23,Exellent,Aluminum,6,Roadside,Bahama Reef,Freeport,Steel,07:45:08pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5132237119112,-78.656482057707,347,2014/06/23,Good,Aluminum,6,Roadside,Bahama Reef,Freeport,Steel,07:47:33pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5167350108491,-78.6511017649499,348,2014/06/23,Good,Aluminum,6,Roadside,Bahama Reef,Freeport,Steel,07:50:37pm,speed bump,Regulatory Sign,Speed Limit,Circle,Red,No,0
+26.5171079732662,-78.6504908894441,349,2014/06/23,Good,Aluminum,5,Roadside,Bahama Reef,Freeport,Steel,07:53:26pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5172563648455,-78.6726245049716,350,2014/06/24,Good,Aluminum,6,Roadside,Exotica,Freeport,Steel,09:08:39am,,Warning Sign,School Cross Walk,Triangle,Red,No,0
+26.5176527187944,-78.6726207968211,351,2014/06/24,Exellent,Aluminum,6,Roadside,Exotica,Freeport,Steel,09:11:25am,,Warning Sign,School Cross Walk,Triangle,Red,No,0
+26.5177397388345,-78.6725272772318,352,2014/06/24,Exellent,Aluminum,6,Roadside,Exotica,Freeport,Steel,09:12:27am,,Warning Sign,School Cross Walk,Triangle,Red,No,0
+26.5158319735416,-78.6809960835345,353,2014/06/24,Good,Aluminum,6,Median,Britannia,Freeport,Steel,03:12:28pm,Lane Closed,Informational Sign,,Rectangle,Black & White,No,0
+26.5159459713988,-78.6811037900895,354,2014/06/24,Good,Aluminum,6,Roadside,Britannia,Freeport,Steel,03:13:45pm,,Guide Sign,Left Turn Only,Circle,Blue,No,0
+26.5158231613242,-78.6812109597912,355,2014/06/24,Good,Aluminum,6,Roadside,Britannia,Freeport,Steel,03:15:01pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5145855730495,-78.6806467243047,356,2014/06/24,Good,Aluminum,6,Roadside,Britannia,Freeport,Steel,03:17:39pm,No dumping,Informational Sign,,Rectangle,Red,No,0
+26.5135422512884,-78.6807330466901,357,2014/06/24,Good,Aluminum,6,Roadside,Britannia,Freeport,Steel,03:19:22pm,,Regulatory Sign,Stop,Octogon,Red,No,0
+26.5135364414788,-78.680836876042,358,2014/06/24,Poor,Aluminum,6,Roadside,Britannia,Freeport,Steel,03:20:00pm,,Regulatory Sign,Stop,Octogon,Red,No,0
+26.5134815676854,-78.68118713705,359,2014/06/24,Exellent,Engineering,6,Roadside,Britannia,Freeport,Steel,03:21:01pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5133942898431,-78.6865309769811,360,2014/06/24,Poor,Aluminum,6,Roadside,Britannia,Freeport,Steel,03:24:22pm,,Warning Sign,School Zone,Rectangle,Yellow,No,0
+26.5134947387501,-78.6865347985696,361,2014/06/24,Poor,Aluminum,6,Roadside,Britannia,Freeport,Steel,03:25:14pm,Pedestrain Crossing,Warning Sign,School Zone,Rectangle,Yellow,No,0
+26.5133696740758,-78.6875362958177,362,2014/06/24,Good,Engineering,7,Roadside,Britannia,Freeport,Steel,03:26:57pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.515012004569,-78.6875120272708,363,2014/06/24,Exellent,Engineering,6,Roadside,Britannia,Freeport,Steel,03:28:47pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5157234721215,-78.6816198964834,364,2014/06/24,Good,Aluminum,6,Roadside,Britannia,Freeport,Steel,03:31:05pm,No dumping,Informational Sign,,Rectangle,Red,No,0
+26.5164429640874,-78.6810292505605,365,2014/06/24,Good,Aluminum,6,Roadside,Britannia,Freeport,Steel,03:33:08pm,No right turn,Regulatory Sign,No Entry,Rectangle,Red,No,0
+26.5164163980529,-78.6811110420166,366,2014/06/24,Exellent,Engineering,6,Roadside,Britannia,Freeport,Steel,03:34:49pm,Left turn,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5164916315261,-78.6811318854527,367,2014/06/24,Good,Aluminum,6,Roadside,Britannia,Freeport,Steel,03:35:50pm,,Regulatory Sign,No Entry,Rectangle,Red,No,0
+26.5198044626386,-78.6777471174169,368,2014/06/26,Good,Engineering,6,Roadside,Westchester,Freeport,Steel,03:43:34pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5207669546393,-78.6777151256452,369,2014/06/26,Poor,Aluminum,6,Roadside,Westchester,Freeport,Steel,03:45:27pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5216146553187,-78.6778357898849,370,2014/06/26,Poor,Engineering,6,Roadside,Westchester,Freeport,Steel,03:46:50pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.521652235608,-78.6739678296999,371,2014/06/26,Poor,Aluminum,6,Roadside,Exotica,Freeport,Steel,03:48:49pm,,Warning Sign,School Cross Walk,Triangle,Yellow,No,0
+26.5195164814933,-78.6726220587254,372,2014/06/26,Exellent,Aluminum,6,Roadside,Exotica,Freeport,Steel,03:51:07pm,,Warning Sign,School Cross Walk,Triangle,Red,No,0
+26.5196756413546,-78.6725194791141,373,2014/06/26,Exellent,Aluminum,6,Roadside,Exotica,Freeport,Steel,03:52:13pm,Stop for pedestrian,Warning Sign,School Cross Walk,Triangle,Red,No,0
+26.5195111677679,-78.6724875674656,374,2014/06/26,Poor,Aluminum,6,Roadside,Exotica,Freeport,Steel,03:53:20pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5196202799407,-78.6722486721612,375,2014/06/26,Exellent,Aluminum,6,Roadside,Exotica,Freeport,Steel,03:54:14pm,,Warning Sign,School Cross Walk,Triangle,Red,No,0
+26.519549982167,-78.6718610949552,376,2014/06/26,Exellent,Aluminum,6,Roadside,Exotica,Freeport,Steel,03:55:31pm,,Warning Sign,School Cross Walk,Triangle,Red,No,0
+26.5195625661778,-78.6708736644016,377,2014/06/26,Exellent,Aluminum,6,Roadside,Suncoral Park,Freeport,Steel,03:58:30pm,,Warning Sign,School Cross Walk,,Red,No,0
+26.5198511792302,-78.6701130409845,378,2014/06/26,Exellent,Aluminum,6,Roadside,Suncoral Park,Freeport,Steel,04:00:01pm,Speed bump,Warning Sign,School Cross Walk,Triangle,Yellow,No,0
+26.5202113813933,-78.6696774436836,379,2014/06/26,Good,Engineering,6,Roadside,Suncoral Park,Freeport,Steel,04:01:54pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5220739219092,-78.6720048783128,380,2014/06/26,Poor,Aluminum,6,Roadside,Suncoral Park,Freeport,Steel,04:04:17pm,,Warning Sign,School Zone,Rectangle,Yellow,No,0
+26.5219614567649,-78.6723912809906,381,2014/06/26,Good,Aluminum,6,Roadside,Suncoral Park,Freeport,Steel,04:05:35pm,,Warning Sign,School Cross Walk,Triangle,Red,No,0
+26.5217900681821,-78.6728730930238,382,2014/06/26,Exellent,Engineering,5,Roadside,Exotica,Freeport,Steel,04:07:01pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5014265357835,-78.6577828415981,383,2014/06/26,Poor,Aluminum,6,Roadside,Bahama Reef,Freeport,Steel,04:18:24pm,,Regulatory Sign,Stop,Circle,Red,No,0
+26.5013666576733,-78.657601142591,384,2014/06/26,Poor,Aluminum,6,Roadside,Bahama Reef,Freeport,Steel,04:19:33pm,,Warning Sign,Speed Bump,Rectangle,Red,No,0
+26.5021103433782,-78.656100758343,385,2014/06/26,Exellent,Engineering,6,Roadside,Lucayan Beach West,Freeport,Steel,04:21:42pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5011491043209,-78.6553729165211,386,2014/06/26,Exellent,Engineering,6,Roadside,Lucayan Beach West,Freeport,Steel,04:23:15pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5028581222066,-78.6532864153468,387,2014/06/26,Poor,Aluminum,6,Roadside,Lucayan Beach West,Freeport,Steel,04:25:01pm,,Warning Sign,Speed Bump,Diamond,Yellow,No,0
+26.5030831399444,-78.6528813521997,388,2014/06/26,Poor,Aluminum,6,Roadside,Lucayan Beach West,Freeport,Steel,04:26:27pm,,Warning Sign,Speed Bump,Diamond,Yellow,No,0
+26.5033978885995,-78.6526864101629,389,2014/06/26,Exellent,Engineering,6,Roadside,Lucayan Beach West,Freeport,Steel,04:27:51pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5042292030263,-78.6535057933694,390,2014/06/26,Poor,Aluminum,5,Roadside,Lucayan Beach West,Freeport,Steel,04:29:11pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5044793739463,-78.6539035884785,391,2014/06/26,Good,Aluminum,6,Roadside,Bahama Reef,Freeport,Steel,04:30:34pm,,Regulatory Sign,Stop,Octogon,Red,No,0
+26.5093286021517,-78.6520898785283,392,2014/06/27,Good,Aluminum,6,Roadside,Bahama Reef,Freeport,Steel,03:11:03pm,No dumping,Warning Sign,,Rectangle,Red,No,0
+26.5057067683144,-78.6548597870072,393,2014/06/27,Good,Aluminum,5,Roadside,Bahama Reef,Freeport,Steel,03:13:36pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5055970881515,-78.6550341453895,394,2014/06/27,Good,Engineering,5,Roadside,Bahama Reef,Freeport,Steel,03:15:29pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5065935931067,-78.6561058829583,395,2014/06/27,Exellent,Aluminum,5,Roadside,Bahama Reef,Freeport,Steel,03:17:24pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5067630900633,-78.6577754411982,396,2014/06/27,Exellent,Aluminum,5,Roadside,Bahama Reef,Freeport,Steel,03:19:26pm,Dangerous curve,Warning Sign,Speed Bump,Rectangle,Yellow,No,0
+26.5071939738301,-78.6585649295514,397,2014/06/27,Good,Aluminum,6,Roadside,Bahama Reef,Freeport,Steel,03:21:26pm,No dumping,Warning Sign,,Rectangle,Black & White,No,0
+26.5067380161672,-78.657975085593,398,2014/06/27,Poor,Aluminum,6,Roadside,Bahama Reef,Freeport,Steel,03:23:05pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.50553284449,-78.6586212521787,399,2014/06/27,Good,Aluminum,5,Roadside,Bahama Reef,Freeport,Steel,03:25:41pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5035829490223,-78.6601138017683,400,2014/06/27,Poor,Aluminum,5,Roadside,Bahama Reef,Freeport,Steel,03:28:11pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5038887463787,-78.6604212619077,401,2014/06/27,Exellent,Engineering,6,Roadside,Bahama Reef,Freeport,Steel,03:32:39pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5038417458471,-78.6589558213401,402,2014/06/27,Poor,Engineering,6,Roadside,Bahama Reef,Freeport,Steel,03:34:17pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5057719101357,-78.6584600186294,403,2014/06/27,Poor,Aluminum,6,Roadside,Bahama Reef,Freeport,Steel,03:35:54pm,Dangerous curve,Warning Sign,Speed Bump,Rectangle,Yellow,No,0
+26.5075135516859,-78.6570846683821,404,2014/06/27,Poor,Engineering,6,Roadside,Bahama Reef,Freeport,Steel,03:37:52pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5044707181533,-78.6535584209749,405,2014/06/27,Poor,Aluminum,6,Roadside,Bahama Reef,Freeport,Steel,03:39:39pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.504892115229,-78.6529147015431,406,2014/06/27,Good,Aluminum,5,Roadside,Bahama Reef,Freeport,Steel,03:41:30pm,Keep left,Informational Sign,,Rectangle,Black & White,No,0
+26.5048717382965,-78.6527045671964,407,2014/06/27,Exellent,Engineering,5,Roadside,Lucayan Beach,Freeport,Steel,03:43:05pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5054814189276,-78.6519256510944,408,2014/06/27,Good,Aluminum,5,Roadside,Lucayan Beach,Freeport,Steel,03:45:35pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5061794980562,-78.6512031573559,409,2014/06/27,Exellent,Engineering,6,Roadside,Lucayan Beach,Freeport,Steel,03:47:45pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5068106988854,-78.6504211312934,410,2014/06/27,Exellent,Engineering,6,Roadside,Lucayan Beach,Freeport,Steel,03:49:29pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5073542119095,-78.6496126699087,411,2014/06/27,Exellent,Engineering,5,Roadside,Lucayan Beach,Freeport,Steel,03:51:18pm,,Regulatory Sign,Stop,Octogon,Red,No,0
+26.5079115196072,-78.6487694054539,412,2014/06/27,Exellent,Engineering,6,Roadside,Lucayan Beach,Freeport,Steel,03:53:00pm,,Regulatory Sign,Stop,Octogon,Red,No,0
+26.5085007240298,-78.6479373121989,413,2014/06/27,Exellent,Engineering,5,Roadside,Bahama Reef,Freeport,Steel,03:54:55pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5085186201688,-78.6479431866424,414,2014/06/30,Exellent,Engineering,5,Roadside,Lucayan Beach,Freeport,Steel,03:57:44pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5090936168481,-78.6471203118462,415,2014/06/30,Exellent,Engineering,6,Roadside,Lucayan Beach,Freeport,Steel,03:59:41pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5090658732244,-78.646974381089,416,2014/06/30,Poor,Aluminum,4,Roadside,Lucayan Beach,Freeport,Steel,04:00:34pm,Children,Regulatory Sign,Speed Limit,Circle,Black & White,No,0
+26.5104095884659,-78.6472024301538,417,2014/06/30,Poor,Aluminum,6,Roadside,Bahama Reef,Freeport,Steel,04:03:10pm,,Regulatory Sign,Stop,Circle,Red,No,0
+26.5098738588944,-78.6464796945949,418,2014/06/30,Poor,Aluminum,6,Roadside,Bahama Reef,Freeport,Steel,04:04:22pm,,Regulatory Sign,Stop,Circle,Red,Yes,0
+26.5098866933985,-78.6463450077038,419,2014/06/30,Good,Aluminum,6,Roadside,Bahama Reef,Freeport,Steel,04:05:15pm,No parking,Warning Sign,,Rectangle,Black & White,No,0
+26.5100935140238,-78.646037323959,420,2014/06/30,Good,Aluminum,6,Roadside,Bahama Reef,Freeport,Steel,04:07:27pm,No parkinng,Warning Sign,,Rectangle,Multi-Colour,No,0
+26.5099638117191,-78.6459905963912,421,2014/06/30,Exellent,Engineering,4,Roadside,Lucayan Beach,Freeport,Steel,04:09:00pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5101559675139,-78.6458256912079,422,2014/06/30,Poor,Aluminum,6,Roadside,Lucayan Beach,Freeport,Steel,04:10:09pm,Keep left,Regulatory Sign,Speed Limit,Circle,Red,No,0
+26.5101828883566,-78.6458211267657,423,2014/06/30,Exellent,Aluminum,6,Roadside,Lucayan Beach,Freeport,Steel,04:11:22pm,No parking,Warning Sign,,Rectangle,Multi-Colour,No,0
+26.5105069906043,-78.6454793943784,424,2014/06/30,Good,Aluminum,5,Roadside,Lucayan Beach,Freeport,Steel,04:13:15pm,Stop here,Warning Sign,Pedestrian Crossing,Rectangle,Red,No,0
+26.5105806163082,-78.6454256876704,425,2014/06/30,Exellent,Aluminum,6,Roadside,Lucayan Beach,Freeport,Steel,04:14:40pm,No parking,Warning Sign,,Rectangle,Multi-Colour,No,0
+26.5106283105415,-78.6452475330257,426,2014/06/30,Exellent,Engineering,6,Roadside,Lucayan Beach,,,04:15:50pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5105382038354,-78.6451566187987,427,2014/06/30,Exellent,Aluminum,6,Roadside,Lucayan Beach,Freeport,Steel,04:16:50pm,No parking,Warning Sign,,Rectangle,Multi-Colour,No,0
+26.5106370224543,-78.6451406707285,428,2014/06/30,Good,Aluminum,6,Roadside,Lucayan Beach,Freeport,Steel,04:17:49pm,No dumping,Warning Sign,,Rectangle,Red,No,0
+26.5107971858228,-78.6452472433544,429,2014/06/30,Exellent,Aluminum,6,Roadside,Lucayan Beach,Freeport,Steel,04:19:13pm,No parking,Warning Sign,,Rectangle,Multi-Colour,No,0
+26.5107920203786,-78.6454089135389,430,2014/06/30,Good,Aluminum,6,Roadside,Bahama Reef,Freeport,Steel,04:20:24pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5105287479647,-78.6456048260935,431,2014/06/30,Good,Aluminum,6,Roadside,Bahama Reef,Freeport,Steel,04:21:30pm,Stop here,Warning Sign,Pedestrian Crossing,Rectangle,Red,No,0
+26.5103204406104,-78.6458344187013,432,2014/06/30,Exellent,Aluminum,6,Roadside,Bahama Reef,Freeport,Steel,04:23:28pm,No parking,Warning Sign,,Rectangle,Multi-Colour,No,0
+26.5083622095359,-78.6595512558224,433,2014/06/30,Exellent,Aluminum,6,Median,Silver Point,Freeport,Steel,04:28:47pm,Keep left,Informational Sign,,Rectangle,Black & White,No,0
+26.5056278437458,-78.6627604581039,434,2014/06/30,Poor,Aluminum,6,Roadside,Silver Cove,Freeport,Steel,04:33:08pm,,Regulatory Sign,Stop,Circle,Red,No,0
+26.5047480697466,-78.664061191952,435,2014/06/30,Exellent,Aluminum,5,Roadside,Silver Cove,Freeport,Steel,04:36:08pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5040520379592,-78.6651279606492,436,2014/06/30,Exellent,Aluminum,6,Roadside,Silver Cove,Freeport,Steel,04:38:50pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5027857124823,-78.6669620494971,437,2014/06/30,Good,Aluminum,6,Roadside,Silver Cove,Freeport,Steel,04:42:37pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5024690367238,-78.6675273293893,438,2014/06/30,Good,Aluminum,6,Roadside,Silver Cove,Freeport,Steel,04:45:30pm,Dangerous Curve,Warning Sign,,Circle,Red,No,0
+26.5019502595662,-78.6682111850548,439,2014/06/30,Poor,Aluminum,6,Roadside,Silver Cove,Freeport,Steel,04:47:58pm,,Regulatory Sign,Stop,Octogon,Red,No,0
+26.5014552233619,-78.6696418490925,440,2014/06/30,Poor,Aluminum,6,Roadside,Silver Cove,Freeport,Steel,04:49:23pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5012978706042,-78.6710304575682,441,2014/06/30,Good,Aluminum,6,Roadside,Silver Cove,Freeport,Steel,04:50:47pm,Keep left,Warning Sign,,Rectangle,Black & White,No,0
+26.5010650313349,-78.671583771222,442,2014/06/30,Poor,Aluminum,6,Roadside,Silver Cove,Freeport,Steel,04:52:17pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.4984095329476,-78.6689755530986,443,2014/06/30,Good,Wood,5,Roadside,Silver Cove,Freeport,Steel,04:54:42pm,,Warning Sign,Speed Bump,Rectangle,Red,No,0
+26.4985164668411,-78.6686660531856,444,2014/06/30,Good,Aluminum,6,Roadside,Silver Cove,Freeport,Steel,04:56:04pm,,Warning Sign,Yield,Diamond,Yellow,No,0
+26.4987448293301,-78.6677068980155,445,2014/06/30,Good,Wood,6,Roadside,Silver Cove,Freeport,Steel,04:59:12pm,,Warning Sign,Speed Bump,Rectangle,Red,No,0
+26.4986389376737,-78.6679968279028,446,2014/06/30,Good,Aluminum,6,Roadside,Silver Cove,Freeport,Steel,05:00:30pm,,Warning Sign,Pedestrian Crossing,Diamond,Yellow,No,0
+26.4971966188553,-78.6689022836716,447,2014/06/30,Good,Aluminum,6,Roadside,Silver Cove,Freeport,Steel,05:03:02pm,Bonded Area,Warning Sign,,Rectangle,Red,No,0
+26.5134155252313,-78.7677447001546,448,2014/07/02,Exellent,Engineering,6,Roadside,Heavy Industrial Area,Freeport,Steel,02:51:26pm,bonded area,Regulatory Sign,Stop,Octogon,Red,No,0
+26.5163413805192,-78.7670561664815,449,2014/07/02,Poor,Aluminum,6,Roadside,Heavy Industrial Area,Freeport,Steel,02:57:34pm,keep left,Informational Sign,,Rectangle,Black & White,No,0
+26.5156840412962,-78.7661178939297,450,2014/07/02,Exellent,Engineering,6,Roadside,Heavy Industrial Area,Freeport,Steel,03:00:38pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5175264052592,-78.7607612179548,451,2014/07/02,Exellent,Aluminum,6,Roadside,Heavy Industrial Area,Freeport,Steel,03:04:02pm,keep left,Informational Sign,,Rectangle,Black & White,No,0
+26.5178364937612,-78.7602390574897,452,2014/07/02,Exellent,Engineering,6,Roadside,Heavy Industrial Area,Freeport,Steel,03:06:21pm,,Regulatory Sign,Stop,Octogon,Red,No,0
+26.5193900950488,-78.7534641104619,453,2014/07/02,Poor,Aluminum,6,Roadside,Heavy Industrial Area,Freeport,Steel,03:09:36pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5198682361378,-78.7527828317191,454,2014/07/02,Poor,Aluminum,6,Roadside,Heavy Industrial Area,Freeport,Steel,03:11:19pm,,Regulatory Sign,Speed Limit,Circle,Red,No,0
+26.5211883014469,-78.7505128991696,455,2014/07/02,Poor,Aluminum,6,Roadside,Heavy Industrial Area,Freeport,Steel,03:13:36pm,,Regulatory Sign,Speed Limit,Circle,Red,No,0
+26.5212349197447,-78.7502496816307,456,2014/07/02,Poor,Aluminum,6,Roadside,Heavy Industrial Area,Freeport,Steel,03:14:42pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.515690961966,-78.7484069279981,457,2014/07/02,Exellent,Engineering,6,Roadside,Heavy Industrial Area,Freeport,Steel,03:16:58pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.4996463031535,-78.6953040704004,458,2014/07/02,Poor,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,03:33:42pm,,Regulatory Sign,Stop,Octogon,Red,No,0
+26.4996182475819,-78.6910728491143,459,2014/07/02,Poor,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,03:36:44pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5002231363405,-78.6912572486074,460,2014/07/02,Poor,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,03:38:47pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5001105274837,-78.6952263241015,461,2014/07/02,Exellent,Engineering,5,Roadside,Caravel Beach,Freeport,Steel,03:41:19pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.50312648239,-78.6952586431435,462,2014/07/02,Exellent,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,03:43:32pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5030815767805,-78.6944210171103,463,2014/07/02,Exellent,Aluminum,5,Roadside,Caravel Beach,Freeport,Steel,03:45:11pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5002331313605,-78.694322771855,464,2014/07/02,Exellent,Aluminum,5,Roadside,Caravel Beach,Freeport,Steel,03:47:32pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5002240497362,-78.6934109767177,465,2014/07/02,Good,Engineering,5,Roadside,Caravel Beach,Freeport,Steel,03:49:22pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5016589190117,-78.6933506744107,466,2014/07/02,Exellent,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,03:51:20pm,,Regulatory Sign,Stop,,Red,Yes,0
+26.5016000116513,-78.6925813326954,467,2014/07/02,Exellent,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,03:53:43pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5002244793449,-78.6924704781922,468,2014/07/02,Exellent,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,03:55:18pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5009603626075,-78.6912437110496,469,2014/07/02,Exellent,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,03:57:23pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.500896760896,-78.6924495720811,470,2014/07/02,Poor,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,03:59:05pm,,Regulatory Sign,Stop,Octogon,Red,No,0
+26.5017625483782,-78.6912417730423,471,2014/07/02,Exellent,Aluminum,5,Roadside,Caravel Beach,Freeport,Steel,04:01:39pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5024033519274,-78.6933781289189,472,2014/07/02,Exellent,Engineering,6,Roadside,Caravel Beach,Freeport,Steel,04:04:09pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5024692411516,-78.6912255730442,473,2014/07/02,Exellent,Aluminum,5,Roadside,Caravel Beach,Freeport,Steel,04:05:54pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5032321354873,-78.691239798413,474,2014/07/02,Exellent,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,04:07:37pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5031342565556,-78.6933483260354,475,2014/07/02,Exellent,Aluminum,5,Roadside,Caravel Beach,Freeport,Steel,04:09:26pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5032266127166,-78.6935606060673,476,2014/07/02,Exellent,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,04:10:43pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5031353906639,-78.6952497007088,477,2014/07/02,Exellent,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,04:12:24pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5039745509119,-78.6952274626106,478,2014/07/07,Exellent,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,11:27:27am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5040381567094,-78.6941631652122,479,2014/07/07,Poor,Aluminum,4,Roadside,Caravel Beach,Freeport,Steel,11:29:44am,Wrong Sign,Warning Sign,Yield Ahead,Diamond,Yellow,No,0
+26.5040428480298,-78.6935784813136,480,2014/07/07,Good,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,11:32:34am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5039732361576,-78.6933645297142,481,2014/07/07,Exellent,Aluminum,5,Roadside,Caravel Beach,Freeport,Steel,11:33:54am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5040587420806,-78.6912544717417,482,2014/07/07,Exellent,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,11:35:45am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5048750379111,-78.6912428953137,483,2014/07/07,Exellent,Engineering,6,Roadside,Caravel Beach,Freeport,Steel,11:37:39am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5047831620928,-78.6933620358161,484,2014/07/07,Exellent,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,11:39:27am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.504874140753,-78.6935421460818,485,2014/07/07,Exellent,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,11:40:24am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5047905680753,-78.6952346681243,486,2014/07/07,Exellent,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,11:42:28am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5049407493125,-78.6943061255646,487,2014/07/07,Exellent,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,11:44:16am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5077666030804,-78.6944023426332,488,2014/07/07,Exellent,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,11:46:15am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5078082449727,-78.6952453108625,489,2014/07/07,Good,Aluminum,5,Roadside,Caravel Beach,Freeport,Steel,11:47:48am,,Regulatory Sign,Stop,,Red,Yes,0
+26.5077632561665,-78.6935010411103,490,2014/07/07,Poor,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,11:49:39am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5062613157355,-78.6933317887635,491,2014/07/07,Exellent,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,11:51:11am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5063592154037,-78.6924741635889,492,2014/07/07,Poor,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,11:52:41am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5070354057488,-78.6924233498288,493,2014/07/07,Poor,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,11:54:05am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5077721730381,-78.6925891600666,494,2014/07/07,Exellent,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,11:55:33am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5063154089405,-78.6912250573783,495,2014/07/07,Exellent,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,12:05:31pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5056146896643,-78.6912191040249,496,2014/07/07,Exellent,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,12:07:08pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5055329044836,-78.6933261852827,497,2014/07/07,Exellent,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,12:08:50pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5087079096255,-78.6912917861633,498,2014/07/07,Good,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,12:11:46pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5087544031727,-78.6931680276646,499,2014/07/07,Exellent,Engineering,6,Roadside,Caravel Beach,Freeport,Steel,12:13:25pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5095437436844,-78.691881916644,500,2014/07/07,Exellent,Aluminum,5,Roadside,Caravel Beach,Freeport,Steel,12:15:07pm,Brush clear away,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5099993461562,-78.6922439043774,501,2014/07/07,Exellent,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,12:17:26pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5098307403833,-78.6923577089839,502,2014/07/07,Good,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,12:18:27pm,,Warning Sign,Speed Bump,Diamond,Yellow,No,0
+26.5094690927433,-78.693171450307,503,2014/07/07,Good,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,12:21:18pm,,Warning Sign,Stop Ahead,Rectangle,Black & White,No,0
+26.5089938554789,-78.6937692485141,504,2014/07/07,Exellent,Aluminum,5,Roadside,Caravel Beach,Freeport,Steel,12:23:02pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5088625444604,-78.6948947836936,505,2014/07/07,Good,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,12:24:36pm,,Warning Sign,Speed Bump,Diamond,Yellow,No,0
+26.5087668087946,-78.6952376282469,506,2014/07/07,Good,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,12:25:59pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5339126926561,-78.7202419745525,507,2014/07/07,Good,Engineering,5,Roadside,Civic Industrial Area,Freeport,Steel,06:52:29pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5332276313421,-78.7195249750541,508,2014/07/07,Exellent,Engineering,6,Roadside,Civic Industrial Area,Freeport,Steel,06:54:22pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5340749814674,-78.7182232560386,509,2014/07/07,Poor,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,06:55:49pm,,Warning Sign,Stop Ahead,Rectangle,Black & White,No,0
+26.5344418357186,-78.7175134570143,510,2014/07/07,Poor,Aluminum,5,Roadside,Civic Industrial Area,Freeport,Steel,06:57:09pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5351938141065,-78.7179507745438,511,2014/07/07,Exellent,Engineering,6,Roadside,Civic Industrial Area,Freeport,Steel,06:58:22pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5344485004005,-78.7172819266114,512,2014/07/07,Poor,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,07:01:40pm,,Regulatory Sign,Stop,Circle,Red,Yes,0
+26.5354976187787,-78.714944951999,513,2014/07/07,Exellent,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,07:03:38pm,Blind Entrance,Warning Sign,,Rectangle,Multi-Colour,No,0
+26.5110787857426,-78.6951793533268,514,2014/07/08,Exellent,Engineering,6,Roadside,Caravel Beach,Freeport,Steel,12:21:34pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5111009869298,-78.6943541120148,515,2014/07/08,Good,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,12:23:54pm,Cross Road,Warning Sign,,Diamond,Yellow,No,0
+26.5114043926714,-78.6933257695818,516,2014/07/08,Good,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,12:26:49pm,,Warning Sign,Speed Bump,Rectangle,Yellow,No,0
+26.5114290293156,-78.6931719568124,517,2014/07/08,Exellent,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,12:28:06pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5100485957341,-78.6919752713935,518,2014/07/08,Exellent,Engineering,6,Roadside,Caravel Beach,Freeport,Steel,12:29:56pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5111186087226,-78.6903990942903,519,2014/07/08,Exellent,Engineering,6,Roadside,Caravel Beach,Freeport,Steel,12:31:37pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5114540659298,-78.6905719372311,520,2014/07/08,Exellent,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,12:32:56pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5116293970007,-78.6908498665844,521,2014/07/08,Exellent,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,12:34:04pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5113868197136,-78.691733045911,522,2014/07/08,Poor,Aluminum,5,Roadside,Caravel Beach,Freeport,Steel,12:36:21pm,,Regulatory Sign,Stop,Circle,Red,Yes,0
+26.5125362686474,-78.6918159830346,523,2014/07/08,Exellent,Engineering,6,Roadside,Caravel Beach,Freeport,Steel,12:38:08pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5125705834499,-78.6926018059866,524,2014/07/08,Exellent,Engineering,6,Roadside,Caravel Beach,Freeport,Steel,12:39:34pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5125338383335,-78.6908715376743,525,2014/07/08,Good,Aluminum,5,Roadside,Caravel Beach,Freeport,Steel,12:41:22pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5125243865169,-78.6898039141117,526,2014/07/08,Poor,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,12:43:30pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5127007015117,-78.6897206863843,527,2014/07/08,Exellent,Aluminum,5,Roadside,Caravel Beach,Freeport,Steel,12:44:41pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5133483351934,-78.6897595556845,528,2014/07/08,Exellent,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,12:45:59pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5133993590029,-78.6888315326785,529,2014/07/08,Exellent,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,12:47:47pm,,Warning Sign,Rumbles,Rectangle,Yellow,No,0
+26.5133604046573,-78.6887201345711,530,2014/07/08,Exellent,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,12:49:19pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5134793876318,-78.6877893584865,531,2014/07/08,Exellent,Engineering,6,Roadside,Caravel Beach,Freeport,Steel,12:52:09pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5134606385124,-78.691579649932,532,2014/07/08,Exellent,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,12:54:40pm,,Warning Sign,Rumbles,Rectangle,Yellow,No,0
+26.5133808931424,-78.6925765278648,533,2014/07/08,Good,Engineering,5,Roadside,Caravel Beach,Freeport,Steel,12:56:55pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5079814448691,-78.691048833674,534,2014/07/08,Poor,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,12:59:49pm,School Zone,Warning Sign,Pedestrian Crossing,Triangle,Yellow,No,0
+26.5072024998943,-78.6911672417161,535,2014/07/08,Poor,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,01:02:24pm,School Zone,Warning Sign,Pedestrian Crossing,Triangle,Yellow,No,0
+26.5071201738017,-78.6912356261039,536,2014/07/08,Exellent,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,01:03:50pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.4999351188111,-78.6953931705423,537,2014/07/08,Exellent,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,01:07:37pm,,Regulatory Sign,Speed Limit,Rectangle,Red,No,0
+26.5094372375026,-78.6954044256838,538,2014/07/08,Good,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,01:10:36pm,Dual Lane,Warning Sign,,Circle,Yellow,No,0
+26.511321457943,-78.6954233615382,539,2014/07/08,Exellent,Aluminum,6,Median,Caravel Beach,Freeport,Steel,01:12:58pm,,Informational Sign,Keep Left (except),Rectangle,Black & White,No,0
+26.5123549233069,-78.6952978436366,540,2014/07/08,Poor,Aluminum,6,Roadside,Caravel Beach,Freeport,Steel,01:15:26pm,Cross Roads,Warning Sign,,Rectangle,Black & White,No,0
+26.5180894667175,-78.7329638849654,541,2014/07/08,Exellent,Aluminum,6,Roadside,,Freeport,Steel,01:24:52pm,Roundabout,Regulatory Sign,Speed Limit,Circle,Red,No,0
+26.5195041439496,-78.7330211276202,542,2014/07/08,Exellent,Aluminum,6,Roadside,,Freeport,Steel,01:27:06pm,Reduce Speed Ahead,Warning Sign,,Rectangle,Red,No,0
+26.5330381274432,-78.7472206851914,543,2014/07/08,Good,Aluminum,6,Roadside,,Freeport,Steel,01:32:13pm,,Informational Sign,Yield Ahead,Diamond,Yellow,No,0
+26.5332100992339,-78.7445123679291,544,2014/07/08,Poor,Aluminum,6,Roadside,,Freeport,Steel,01:34:01pm,,Regulatory Sign,Speed Limit,Circle,Red,No,0
+26.5255243098836,-78.7393983455603,545,2014/07/08,Poor,Aluminum,6,Roadside,,Freeport,Steel,01:36:46pm,,Informational Sign,Right Turn Only,Rectangle,Black & White,No,0
+26.5372519756189,-78.7141934903172,546,2014/07/11,Exellent,Engineering,6,Roadside,Civic Industrial Area,Freeport,Steel,03:47:59pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5357648000276,-78.7130142756822,547,2014/07/11,Good,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,03:51:17pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5374379224313,-78.7096125373192,548,2014/07/11,Exellent,Engineering,6,Roadside,Civic Industrial Area,Freeport,Steel,03:53:17pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5376869066363,-78.7095359102179,549,2014/07/11,Exellent,Engineering,6,Roadside,Civic Industrial Area,Freeport,Steel,03:55:06pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5384671656629,-78.707703300574,550,2014/07/11,Exellent,Engineering,6,Roadside,Civic Industrial Area,Freeport,Steel,03:56:35pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5378403521561,-78.7071667283863,551,2014/07/11,Exellent,Engineering,6,Roadside,Civic Industrial Area,Freeport,Steel,03:58:07pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5375949225122,-78.7071854688735,552,2014/07/11,Poor,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,03:59:10pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5368015270414,-78.7070010635558,553,2014/07/11,Good,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,04:00:54pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5359245072759,-78.708859216487,554,2014/07/11,Poor,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,04:02:28pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5372069501782,-78.7085149289081,555,2014/07/11,Good,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,04:04:39pm,,Regulatory Sign,Speed Limit,Circle,Red,No,0
+26.5368041970677,-78.709188502712,556,2014/07/11,Exellent,Engineering,6,Roadside,Civic Industrial Area,Freeport,Steel,04:06:30pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5383444039309,-78.7097004403851,557,2014/07/11,Good,Engineering,6,Roadside,Civic Industrial Area,Freeport,Steel,04:09:12pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5392549471252,-78.7104819932089,558,2014/07/11,Exellent,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,04:10:45pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5379954451063,-78.7067046002253,559,2014/07/11,Good,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,04:13:27pm,School Zone,Warning Sign,Speed Bump,Triangle,Black & White,No,0
+26.5384048079096,-78.7059135780921,560,2014/07/11,Poor,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,04:15:40pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5381601792977,-78.7059337894535,561,2014/07/11,Exellent,Engineering,6,Roadside,Civic Industrial Area,Freeport,Steel,04:16:52pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5407899577168,-78.7073058626039,562,2014/07/11,Exellent,Engineering,6,Roadside,Civic Industrial Area,Freeport,Steel,04:19:03pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.54016987735,-78.7067525601366,563,2014/07/11,Poor,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,04:20:39pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5406199560215,-78.7055213958841,564,2014/07/11,Exellent,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,04:22:30pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5389657404984,-78.7045136521395,565,2014/07/11,Exellent,Engineering,6,Roadside,Civic Industrial Area,Freeport,Steel,04:24:58pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5387263223704,-78.7045154947407,566,2014/07/11,Poor,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,04:25:55pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5386595785647,-78.704354495337,567,2014/07/11,Good,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,04:27:08pm,School Crossing,Warning Sign,School Zone,Rectangle,Yellow,No,0
+26.5395582475897,-78.7031026098759,568,2014/07/11,Exellent,Engineering,6,Roadside,Civic Industrial Area,Freeport,Steel,04:30:30pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5395305469608,-78.7028029988892,569,2014/07/11,Good,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,04:31:50pm,School Zone,Warning Sign,Speed Bump,Triangle,Black & White,No,0
+26.5393376817385,-78.7031278114599,570,2014/07/11,Exellent,Engineering,6,Roadside,Civic Industrial Area,Freeport,Steel,04:33:53pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5371181099325,-78.700600538173,571,2014/07/15,Good,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,10:51:53am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5372351389131,-78.7000183490226,572,2014/07/15,Good,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,10:53:54am,,Warning Sign,School Cross Walk,Triangle,Yellow,No,0
+26.5383055829969,-78.7026116224869,573,2014/07/15,Good,Engineering,6,Roadside,Civic Industrial Area,Freeport,Steel,10:57:09am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.536719142487,-78.7020638993356,574,2014/07/15,Exellent,Engineering,6,Roadside,Civic Industrial Area,Freeport,Steel,10:58:45am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5364468382201,-78.7025731192623,575,2014/07/15,Poor,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,11:00:15am,Cross Walk,Warning Sign,School Zone,Rectangle,Yellow,No,0
+26.5364559829507,-78.7034094539554,576,2014/07/15,Exellent,Engineering,7,Roadside,Civic Industrial Area,Freeport,Steel,11:02:26am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5365953503541,-78.7035874857386,577,2014/07/15,Poor,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,11:03:33am,Cross Walk,Warning Sign,School Zone,Rectangle,Yellow,No,0
+26.5367526811001,-78.7036545527566,578,2014/07/15,Good,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,11:04:34am,,Warning Sign,Speed Bump,Rectangle,Yellow,No,0
+26.5359561259979,-78.7050704392822,579,2014/07/15,Poor,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,11:06:58am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5361647649284,-78.7050062114544,580,2014/07/15,Good,Engineering,6,Roadside,Civic Industrial Area,Freeport,Steel,11:08:18am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5362867965689,-78.7051599278658,581,2014/07/15,Poor,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,11:10:18am,Cross Walk,Warning Sign,School Zone,Rectangle,Yellow,No,0
+26.5365060156873,-78.7052401961414,582,2014/07/15,Good,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,11:11:25am,,Warning Sign,Speed Bump,Rectangle,Yellow,No,0
+26.5368169336722,-78.7011240243812,583,2014/07/15,Exellent,Engineering,7,Roadside,Civic Industrial Area,Freeport,Steel,11:15:10am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.541207732041,-78.7040775085299,584,2014/07/15,Poor,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,11:30:17am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5418654269462,-78.7025226527482,585,2014/07/15,Poor,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,11:31:57am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5401940845748,-78.7015472448123,586,2014/07/15,Poor,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,11:33:30am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5404464982846,-78.7008325500645,587,2014/07/15,Good,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,11:34:44am,,Regulatory Sign,Stop,Octogon,Red,No,0
+26.5423267602822,-78.7018055204065,588,2014/07/15,Exellent,Engineering,5,Roadside,Civic Industrial Area,Freeport,Steel,11:36:41am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5439358820394,-78.7003330490246,589,2014/07/15,Good,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,11:39:03am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5432848297562,-78.7032697680353,590,2014/07/15,Good,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,11:44:14am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5428180396248,-78.7031533814717,591,2014/07/15,Exellent,Engineering,6,Roadside,Civic Industrial Area,Freeport,Steel,11:45:46am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.54314754266,-78.7034056917503,592,2014/07/15,Good,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,11:47:58am,Airport,Guide Sign,,Rectangle,Green,No,0
+26.5445650396077,-78.7084239242954,593,2014/07/15,Good,Engineering,6,Roadside,Civic Industrial Area,Freeport,Steel,11:56:01am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5448373297545,-78.7084585383989,594,2014/07/15,Poor,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,11:57:28am,,Regulatory Sign,Stop,Circle,Red,No,0
+26.5172139723565,-78.683354428605,595,2014/07/15,Good,Aluminum,6,Roadside,Sunrise Park,Freeport,Steel,03:39:29pm,,Warning Sign,One-Way,Rectangle,Multi-Colour,No,0
+26.5173225520704,-78.6835724531547,596,2014/07/15,Good,Aluminum,6,Roadside,Sunrise Park,Freeport,Steel,03:41:27pm,,Warning Sign,Speed Bump,Rectangle,Red,No,0
+26.5176173436484,-78.6836293413132,597,2014/07/15,Exellent,Aluminum,6,Roadside,Sunrise Park,Freeport,Steel,03:42:51pm,,Warning Sign,Pedestrian Crossing,Triangle,Red,No,0
+26.5180746041084,-78.6836122466185,598,2014/07/15,Exellent,Engineering,6,Roadside,Sunrise Park,Freeport,Steel,03:44:34pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5181367464521,-78.6837202143123,599,2014/07/15,Good,Aluminum,6,Roadside,Sunrise Park,Freeport,Steel,03:45:58pm,,Warning Sign,Speed Bump,Rectangle,Yellow,No,0
+26.5182595993568,-78.6863825703777,600,2014/07/15,Exellent,Engineering,6,Roadside,Sunrise Park,Freeport,Steel,03:47:55pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5189669764036,-78.6863295066917,601,2014/07/15,Exellent,Engineering,6,Roadside,Sunrise Park,Freeport,Steel,03:49:16pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.519051552853,-78.6859676378898,602,2014/07/15,Good,Aluminum,6,Roadside,Sunrise Park,Freeport,Steel,03:50:16pm,,Warning Sign,Speed Bump,Rectangle,Yellow,No,0
+26.519048736664,-78.6832627451562,603,2014/07/15,Exellent,Engineering,6,Roadside,Sunrise Park,Freeport,Steel,03:51:55pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5182068704916,-78.6832528854869,604,2014/07/15,Exellent,Engineering,5,Roadside,Sunrise Park,Freeport,Steel,03:53:12pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5189941134028,-78.6833014461124,605,2014/07/15,Good,Aluminum,6,Roadside,Sunrise Park,Freeport,Steel,03:54:59pm,,Warning Sign,Speed Bump,Rectangle,Yellow,No,0
+26.5198540473839,-78.6829524313788,606,2014/07/15,Exellent,Engineering,5,Roadside,Sunrise Park,Freeport,Steel,03:58:09pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5198905652449,-78.6860747449746,607,2014/07/15,Exellent,Engineering,6,Roadside,Sunrise Park,Freeport,Steel,04:00:11pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5218963143431,-78.6811983695871,608,2014/07/15,Exellent,Engineering,6,Roadside,Sunrise Park,Freeport,Steel,04:02:57pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5216417582754,-78.6789670228647,609,2014/07/15,Exellent,Engineering,5,Roadside,Sunrise Park,Freeport,Steel,04:04:34pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5208962769626,-78.6790540703501,610,2014/07/15,Exellent,Engineering,5,Roadside,Sunrise Park,Freeport,Steel,04:06:04pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5168802655261,-78.6832720739026,611,2014/07/15,Exellent,Engineering,6,Roadside,Sunrise Park,Freeport,Steel,04:09:19pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5175782527483,-78.6830038524407,612,2014/07/15,Exellent,Engineering,6,Roadside,Sunrise Park,Freeport,Steel,04:11:49pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.517636132413,-78.6790336581376,613,2014/07/15,Exellent,Engineering,6,Roadside,Sunrise Park,Freeport,Steel,04:14:53pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5168351324533,-78.6788718117471,614,2014/07/15,Poor,Engineering,6,Roadside,Sunrise Park,Freeport,Steel,04:16:20pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5167870224866,-78.6772938324243,615,2014/07/15,Good,Engineering,6,Roadside,Exotica,Freeport,Steel,04:18:47pm,,Regulatory Sign,Stop,Octogon,Red,No,0
+26.5212707943837,-78.6972442982084,616,2014/07/17,Good,Aluminum,6,Roadside,Central Area,Freeport,Steel,03:49:23pm,,,,,,No,0
+26.5212624666966,-78.6972373386712,617,2014/07/17,Good,Aluminum,6,Roadside,Central Area,Freeport,Steel,03:49:48pm,Roundabout,Warning Sign,Yield Ahead,Diamond,Yellow,No,0
+26.5213481819235,-78.6975168993699,618,2014/07/17,Good,Aluminum,6,Roadside,Central Area,Freeport,Steel,03:51:49pm,,Regulatory Sign,Speed Limit,Circle,Red,No,0
+26.521440052439,-78.6974887898537,619,2014/07/17,Good,Aluminum,6,Median,Central Area,Freeport,Steel,03:53:04pm,,Regulatory Sign,Speed Limit,Circle,Red,No,0
+26.5214645830784,-78.6978903672392,620,2014/07/17,Good,Aluminum,6,Roadside,Central Area,Freeport,Steel,03:55:00pm,,Warning Sign,Yield,Triangle,Red,No,0
+26.521554564971,-78.6978570157897,621,2014/07/17,Good,Aluminum,6,Median,Central Area,Freeport,Steel,03:56:29pm,,Warning Sign,Yield,Triangle,Red,No,0
+26.5220597186761,-78.698286292729,622,2014/07/17,Poor,Aluminum,6,Roadside,Central Area,Freeport,Steel,03:58:13pm,,Warning Sign,Yield,Triangle,Red,No,0
+26.5216107404498,-78.6985634842493,623,2014/07/17,Poor,Aluminum,6,Roadside,Central Area,Freeport,Steel,03:59:52pm,,Warning Sign,Yield,Triangle,Red,No,0
+26.5215312022109,-78.6986584625213,624,2014/07/17,Poor,Aluminum,6,Median,Central Area,Freeport,Steel,04:01:22pm,,Warning Sign,Yield,Triangle,Red,No,0
+26.5217586641931,-78.6985570070185,625,2014/07/17,Poor,Aluminum,6,Median,Central Area,Freeport,Steel,04:03:40pm,Guide,Informational Sign,,Rectangle,Blue,No,0
+26.5180183295095,-78.7008471821356,626,2014/07/17,Poor,Aluminum,6,Roadside,Central Area,Freeport,Steel,04:06:59pm,,Warning Sign,Pedestrian Crossing,Diamond,Yellow,No,0
+26.5170732736325,-78.70087899898,627,2014/07/17,Poor,Aluminum,6,Roadside,Central Area,Freeport,Steel,04:08:26pm,Guide,Informational Sign,,Rectangle,Yellow,No,0
+26.5170756836099,-78.7023913976759,628,2014/07/17,Good,Aluminum,6,Roadside,,Freeport,Steel,04:10:56pm,Golf Cart Crossing,Warning Sign,,Triangle,Red,No,0
+26.5171910125074,-78.7024110466203,629,2014/07/17,Poor,Aluminum,6,Roadside,,Freeport,Steel,04:13:08pm,Left Turn Ahead,Regulatory Sign,Speed Limit,Circle,Red,No,0
+26.5170912299269,-78.7064558323861,630,2014/07/17,Poor,Aluminum,6,Roadside,,Freeport,Steel,04:16:20pm,Crossroads,Informational Sign,Keep Left (except),Rectangle,Black & White,No,0
+26.5164271975538,-78.7411349442642,631,2014/07/17,Good,Aluminum,6,Roadside,,Freeport,Steel,04:22:41pm,,Regulatory Sign,Speed Limit,Rectangle,Red,No,0
+26.5154507150779,-78.7485820560109,632,2014/07/17,Good,Aluminum,6,Roadside,,Freeport,Steel,04:25:15pm,Curve,Regulatory Sign,Speed Limit,Circle,Red,No,0
+26.5153124837886,-78.7496629504847,633,2014/07/17,Exellent,Aluminum,6,Roadside,,Freeport,Steel,04:27:08pm,Dangerous Curve,Warning Sign,,Circle,Red,No,0
+26.5185789637511,-78.7531485611136,634,2014/07/17,Poor,Aluminum,6,Roadside,,Freeport,Steel,04:29:41pm,,Regulatory Sign,Speed Limit,Rectangle,Red,No,0
+26.516767305547,-78.7526181947379,635,2014/07/17,Exellent,Aluminum,6,Roadside,,Freeport,Steel,04:31:14pm,Curve,Regulatory Sign,Speed Limit,Circle,Red,No,0
+26.5156129037831,-78.7515517031613,636,2014/07/17,Exellent,Aluminum,6,Roadside,,Freeport,Steel,04:33:05pm,,Informational Sign,Keep Left (except),Rectangle,Black & White,No,0
+26.5153897069477,-78.7499446419677,637,2014/07/18,Good,Engineering,5,Roadside,Heavy Industrial Area,Freeport,Steel,12:28:16pm,,Regulatory Sign,Stop,Octogon,Red,No,0
+26.5156712365334,-78.7475985998128,638,2014/07/18,Good,Aluminum,6,Roadside,Heavy Industrial Area,Freeport,Steel,12:30:40pm,Keep Left,Regulatory Sign,Speed Limit,Rectangle,Red,No,0
+26.5170943426249,-78.7365932384724,639,2014/07/18,Exellent,Aluminum,6,Roadside,Heavy Industrial Area,Freeport,Steel,12:33:19pm,,Warning Sign,,Rectangle,Red,No,0
+26.5172445847995,-78.7341130456902,640,2014/07/18,Good,Aluminum,6,Roadside,Heavy Industrial Area,Freeport,Steel,12:35:12pm,Roundabout,Regulatory Sign,Speed Limit,Circle,Red,No,0
+26.5172639464302,-78.7333909191623,641,2014/07/18,Good,Aluminum,6,Roadside,Heavy Industrial Area,Freeport,Steel,12:36:48pm,,Warning Sign,Yield,Triangle,Red,No,0
+26.5173600402825,-78.7329650814105,642,2014/07/18,Exellent,Aluminum,6,Roadside,Heavy Industrial Area,Freeport,Steel,12:38:27pm,,Warning Sign,Yield,Triangle,Red,Yes,0
+26.5172426416086,-78.731596063474,643,2014/07/18,Good,Aluminum,6,Roadside,Heavy Industrial Area,Freeport,Steel,12:40:34pm,Keep Left,Regulatory Sign,Speed Limit,Rectangle,Red,No,0
+26.5172218978111,-78.7214438671589,644,2014/07/18,Good,Aluminum,6,Roadside,Heavy Industrial Area,Freeport,Steel,12:43:26pm,,Regulatory Sign,Speed Limit,Rectangle,Red,No,0
+26.5171827501943,-78.7031364887405,645,2014/07/18,Good,Aluminum,6,Roadside,Heavy Industrial Area,Freeport,Steel,12:46:37pm,Golf Cart Crossing,Warning Sign,,Triangle,Red,No,0
+26.5171931338755,-78.7024140480007,646,2014/07/18,Poor,Aluminum,6,Roadside,Heavy Industrial Area,Freeport,Steel,12:48:35pm,Slow turn ahead,Regulatory Sign,Speed Limit,Circle,Red,No,0
+26.5172080196596,-78.7016504960192,647,2014/07/18,Good,Aluminum,6,Roadside,,Freeport,Steel,12:50:22pm,,Warning Sign,Left Turn Only,Diamond,Yellow,No,0
+26.5207913318656,-78.6939711319179,648,2014/07/21,Good,Aluminum,6,Roadside,,Freeport,Steel,03:10:46pm,Roundabout,Regulatory Sign,Speed Limit,Circle,Red,No,0
+26.5208397757176,-78.6940726574602,649,2014/07/21,Good,Aluminum,6,Median,,Freeport,Steel,03:12:48pm,Roundabout,Regulatory Sign,Speed Limit,Circle,Red,No,0
+26.5203972996963,-78.6943897511248,650,2014/07/21,Good,Aluminum,6,Median,,Freeport,Steel,03:14:13pm,,Warning Sign,Yield,Triangle,Red,No,0
+26.5203382663033,-78.6942833091107,651,2014/07/21,Poor,Aluminum,6,Roadside,,Freeport,Steel,03:15:26pm,,Warning Sign,Yield,Triangle,Red,No,0
+26.5185576992599,-78.6952905208431,652,2014/07/21,Poor,Aluminum,6,Roadside,,Freeport,Steel,03:17:37pm,,Warning Sign,Pedestrian Crossing,Diamond,Yellow,No,0
+26.5179956770106,-78.6953082164291,653,2014/07/21,Good,Aluminum,6,Roadside,,Freeport,Steel,03:19:19pm,,Regulatory Sign,Speed Limit,Circle,Red,No,0
+26.5180068685461,-78.6954048494383,654,2014/07/21,Good,Aluminum,6,Roadside,,Freeport,Steel,03:20:04pm,Roundabout,Regulatory Sign,Speed Limit,Circle,Red,No,0
+26.5174444651889,-78.6953181879736,655,2014/07/21,Exellent,Aluminum,6,Roadside,,Freeport,Steel,03:22:17pm,,Warning Sign,Yield,Triangle,Red,No,0
+26.5172172719416,-78.6915644375762,656,2014/07/21,Good,Aluminum,6,Roadside,,Freeport,Steel,03:24:26pm,Drive in left lane except when overtaking,Regulatory Sign,Speed Limit,Rectangle,Red,No,0
+26.5172196796791,-78.6908462506586,657,2014/07/21,Poor,Aluminum,6,Roadside,,Freeport,Steel,03:27:07pm,,Warning Sign,School Zone,Rectangle,Yellow,No,0
+26.5171901705573,-78.6903281121409,658,2014/07/21,Exellent,Aluminum,6,Roadside,,Freeport,Steel,03:28:21pm,School Zone,Warning Sign,School Cross Walk,Triangle,Red,No,0
+26.5161202112386,-78.6882168629866,659,2014/07/21,Poor,Aluminum,6,Roadside,,Freeport,Steel,03:31:09pm,,Warning Sign,Pedestrian Crossing,Diamond,Yellow,No,0
+26.5167316071729,-78.6837701375618,660,2014/07/21,Good,Aluminum,6,Roadside,,Freeport,Steel,03:33:26pm,,Warning Sign,Pedestrian Crossing,Triangle,Red,No,0
+26.5167489087833,-78.6829775825893,661,2014/07/21,Good,Aluminum,6,Roadside,,Freeport,Steel,03:35:27pm,Stop for pedestrians,Warning Sign,Pedestrian Crossing,Triangle,Red,No,0
+26.5166039357268,-78.6829155783158,662,2014/07/21,Exellent,Aluminum,6,Median,,Freeport,Steel,03:37:18pm,Stop for Pedestrians,Warning Sign,Pedestrian Crossing,Triangle,Red,No,0
+26.5166387744219,-78.6829726385597,663,2014/07/21,Good,Aluminum,6,Median,,Freeport,Steel,03:38:26pm,Stop for Pedestrians,Warning Sign,Pedestrian Crossing,Triangle,Red,No,0
+26.5166292947838,-78.6831118575504,664,2014/07/21,Good,Aluminum,6,Median,,Freeport,Steel,03:39:45pm,Crossroad,Warning Sign,,Diamond,Yellow,No,0
+26.5167435821672,-78.6814350826926,665,2014/07/21,Exellent,Aluminum,6,Roadside,,Freeport,Steel,03:42:36pm,,Warning Sign,Pedestrian Crossing,Triangle,Red,No,0
+26.5167750893861,-78.6809657058509,666,2014/07/21,Good,Aluminum,6,Roadside,,Freeport,Steel,03:44:21pm,,Warning Sign,No Entry,Rectangle,Red,No,0
+26.5167236486205,-78.6807519515868,667,2014/07/21,Good,Aluminum,6,Roadside,,Freeport,Steel,03:45:24pm,No Right Turn,Regulatory Sign,Stop,Octogon,Red,No,0
+26.516776140456,-78.6804650597,668,2014/07/21,Good,Aluminum,6,Roadside,,Freeport,Steel,03:46:29pm,No Right Turn,Warning Sign,,Circle,Red,No,0
+26.5166106730049,-78.6761628651737,669,2014/07/21,Good,Aluminum,6,Roadside,,Freeport,Steel,03:49:46pm,,Warning Sign,Horse Crossing,Diamond,Yellow,No,0
+26.5165224798106,-78.676174709951,670,2014/07/21,Good,Aluminum,6,Median,,Freeport,Steel,03:50:41pm,,Warning Sign,Horse Crossing,Rectangle,Yellow,No,0
+26.5174390402314,-78.6713015223919,671,2014/07/21,Poor,Aluminum,6,Roadside,,Freeport,Steel,03:52:48pm,Drive in left lane except when overtaking,Regulatory Sign,Speed Limit,Rectangle,Red,No,0
+26.5177839692926,-78.6704468775515,672,2014/07/21,Poor,Aluminum,6,Median,,Freeport,Steel,03:55:48pm,,Informational Sign,Keep Left (except),Circle,Blue,No,0
+26.518772742697,-78.668879185161,673,2014/07/21,Poor,Aluminum,6,Roadside,,Freeport,Steel,03:57:57pm,,Warning Sign,Pedestrian Crossing,Triangle,Yellow,No,0
+26.518793088047,-78.6688309539644,674,2014/07/21,Exellent,Engineering,6,Roadside,,Freeport,Steel,03:59:03pm,,Regulatory Sign,Stop,Octogon,Red,No,0
+26.5194726229602,-78.6691256666709,675,2014/07/21,Poor,Aluminum,6,Roadside,,Freeport,Steel,04:00:44pm,School Zone,Warning Sign,Pedestrian Crossing,Diamond,Yellow,No,0
+26.5199965647344,-78.6695134076715,676,2014/07/21,Exellent,Aluminum,6,Roadside,,Freeport,Steel,04:02:41pm,Stop for Pedestrians,Warning Sign,Pedestrian Crossing,Triangle,Red,No,0
+26.5206991877226,-78.6699655623916,677,2014/07/21,Good,Aluminum,6,Roadside,,Freeport,Steel,04:04:59pm,School Zone,Regulatory Sign,Speed Limit,Circle,Red,No,0
+26.5220139052007,-78.6708751753875,678,2014/07/21,Poor,Aluminum,6,Roadside,,Freeport,Steel,04:08:11pm,,Warning Sign,Pedestrian Crossing,Triangle,Yellow,No,0
+26.5223963031281,-78.6711372892974,679,2014/07/21,Exellent,Aluminum,6,Roadside,,Freeport,Steel,04:09:31pm,Stop for Pedestrians,Warning Sign,Pedestrian Crossing,Triangle,Red,No,0
+26.5181370999339,-78.6521154906073,680,2014/07/22,Poor,Aluminum,5,Roadside,Windsor Park,Freeport,Steel,07:06:55pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5175708510098,-78.655857573213,681,2014/07/22,Exellent,Engineering,6,Roadside,Windsor Park,Freeport,Steel,07:09:06pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5176889184269,-78.6560098831611,682,2014/07/22,Exellent,Engineering,5,Roadside,Windsor Park,Freeport,Steel,07:10:00pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5190839082324,-78.6547615473145,683,2014/07/22,Poor,Aluminum,5,Roadside,Windsor Park,Freeport,Steel,07:12:32pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5195573987305,-78.6555341182985,684,2014/07/22,Exellent,Engineering,6,Roadside,Windsor Park,Freeport,Steel,07:14:34pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5191342682569,-78.6566323093927,685,2014/07/22,Exellent,Engineering,6,Roadside,Windsor Park,Freeport,Steel,07:15:52pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5189090755231,-78.6566398816577,686,2014/07/22,Poor,Aluminum,6,Roadside,Windsor Park,Freeport,Steel,07:17:29pm,Curve,Regulatory Sign,Speed Limit,Circle,Red,No,0
+26.5176596611355,-78.6567455606012,687,2014/07/22,Good,Aluminum,5,Roadside,Windsor Park,Freeport,Steel,07:18:57pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5186734594837,-78.6581628533011,688,2014/07/22,Exellent,Engineering,6,Roadside,Windsor Park,Freeport,Steel,07:25:11pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5168552023888,-78.6592749321638,689,2014/07/22,Good,Aluminum,6,Roadside,Windsor Park,Freeport,Steel,07:26:58pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5166709551183,-78.6591696686984,690,2014/07/22,Poor,Aluminum,5,Roadside,Windsor Park,Freeport,Steel,07:27:53pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5162207823607,-78.6597447558493,691,2014/07/22,Exellent,Engineering,6,Roadside,Windsor Park,Freeport,Steel,07:29:25pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5169928745096,-78.6570395412764,692,2014/07/22,Exellent,Engineering,6,Roadside,Windsor Park,Freeport,Steel,07:31:37pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.519131491814,-78.6568902823478,693,2014/07/22,Exellent,Engineering,6,Roadside,Windsor Park,Freeport,Steel,07:33:21pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5173938090677,-78.6609953955704,694,2014/07/22,Exellent,Engineering,6,Roadside,Windsor Park,Freeport,Steel,07:37:15pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5194708561028,-78.6586120667084,695,2014/07/22,Good,Aluminum,6,Roadside,Windsor Park,Freeport,Steel,07:39:06pm,,Warning Sign,Speed Bump,Diamond,Yellow,No,0
+26.5202960163264,-78.6578036599395,696,2014/07/22,Exellent,Engineering,6,Roadside,Windsor Park,Freeport,Steel,07:41:05pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.518556699104,-78.652996932809,697,2014/07/22,Exellent,Engineering,6,Roadside,Windsor Park,Freeport,Steel,07:44:14pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.519993546221,-78.6553881343962,698,2014/07/22,Exellent,Engineering,5,Roadside,Windsor Park,Freeport,Steel,07:46:40pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5285882197357,-78.6751491180695,699,2014/07/23,Good,Aluminum,6,Roadside,,Freeport,Steel,02:22:13pm,,Warning Sign,School Zone,Rectangle,Yellow,No,0
+26.5279277475134,-78.6747152991998,700,2014/07/23,Exellent,Aluminum,6,Roadside,,Freeport,Steel,02:24:07pm,Stop for pedestrians,Warning Sign,Pedestrian Crossing,Triangle,Red,No,0
+26.5274501041623,-78.6743783559502,701,2014/07/23,Good,Aluminum,6,Roadside,,Freeport,Steel,02:26:10pm,School Zone,Regulatory Sign,Speed Limit,Circle,Red,No,0
+26.5231565404078,-78.6714112480978,702,2014/07/23,Poor,Aluminum,6,Roadside,,Freeport,Steel,02:28:08pm,,Warning Sign,Pedestrian Crossing,Diamond,Yellow,No,0
+26.5231157921786,-78.6715246738668,703,2014/07/23,Poor,Aluminum,6,Median,,Freeport,Steel,02:28:58pm,,Warning Sign,Pedestrian Crossing,Diamond,Yellow,No,0
+26.5227709835675,-78.6711330729674,704,2014/07/23,Exellent,Aluminum,6,Roadside,,Freeport,Steel,02:30:15pm,Stop for Pedestrians,Warning Sign,Pedestrian Crossing,Triangle,Red,No,0
+26.521143351857,-78.6699915529865,705,2014/07/23,Exellent,Aluminum,6,Roadside,,Freeport,Steel,02:33:17pm,Left lane Right lane,Informational Sign,,Rectangle,Black & White,No,0
+26.519877953828,-78.6691327743282,706,2014/07/23,Exellent,Aluminum,6,Roadside,,Freeport,Steel,02:35:58pm,Left Lane Right Lane,Informational Sign,,Rectangle,Black & White,No,0
+26.5193059859051,-78.6687498681086,707,2014/07/23,Exellent,Aluminum,6,Roadside,,Freeport,Steel,02:37:55pm,Left Lane Right Lane,Informational Sign,,Rectangle,Black & White,No,0
+26.519174892924,-78.668179373705,708,2014/07/23,Good,Aluminum,6,Median,,Freeport,Steel,02:39:57pm,,Warning Sign,School Zone,Rectangle,Yellow,No,0
+26.5194849999718,-78.6676478863175,709,2014/07/23,Exellent,Aluminum,6,Median,,Freeport,Steel,02:41:23pm,Except when overtaking,Informational Sign,Keep Left (except),Rectangle,Black & White,No,0
+26.5190208530691,-78.6680499197259,710,2014/07/23,Poor,Engineering,6,Roadside,,Freeport,Steel,02:43:57pm,,Warning Sign,Pedestrian Crossing,Triangle,Yellow,No,0
+26.5167398034123,-78.6720894609669,711,2014/07/23,Poor,Aluminum,6,Roadside,,Freeport,Steel,02:46:40pm,School Zone,Warning Sign,Pedestrian Crossing,Triangle,Yellow,No,0
+26.5165098079101,-78.6727179211883,712,2014/07/23,Poor,Aluminum,6,Roadside,,Freeport,Steel,02:48:35pm,Drive in Left Lane except when overtaking,Warning Sign,Pedestrian Crossing,Triangle,Yellow,No,0
+26.516543688459,-78.6742240297219,713,2014/07/23,Good,Aluminum,6,Roadside,,Freeport,Steel,02:50:45pm,,Warning Sign,Horse Crossing,Diamond,Yellow,No,0
+26.5166164627457,-78.6742244137143,714,2014/07/23,Good,Aluminum,6,Roadside,,Freeport,Steel,02:52:38pm,,Warning Sign,Horse Crossing,Rectangle,Yellow,No,0
+26.5165219837583,-78.6805469682855,715,2014/07/23,Poor,Aluminum,6,Roadside,,Freeport,Steel,02:57:05pm,,Warning Sign,Pedestrian Crossing,Diamond,Yellow,No,0
+26.5166160131357,-78.6794703546606,716,2014/07/23,Poor,Aluminum,6,Roadside,,Freeport,Steel,02:59:14pm,Crossroads,Warning Sign,,Diamond,Yellow,No,0
+26.5165276569514,-78.6814498260782,717,2014/07/23,Good,Aluminum,6,Roadside,,Freeport,Steel,03:01:32pm,Drive in Left Lane except when overtaking,Regulatory Sign,Speed Limit,Rectangle,Red,No,0
+26.5165229667073,-78.6829096955775,718,2014/07/23,Exellent,Aluminum,6,Roadside,,Freeport,Steel,03:03:34pm,Stop for Pedestrians,Warning Sign,Pedestrian Crossing,Triangle,Red,No,0
+26.515908156171,-78.6869873920366,719,2014/07/23,Exellent,Aluminum,6,Roadside,,Freeport,Steel,03:06:12pm,School Zone,Warning Sign,Pedestrian Crossing,Triangle,Red,No,0
+26.5169864436661,-78.6903958578597,720,2014/07/23,Good,Aluminum,6,Roadside,,Freeport,Aluminum,03:08:01pm,,Warning Sign,School Zone,Rectangle,Yellow,No,0
+26.5170121861443,-78.6933464881927,721,2014/07/23,Good,Aluminum,6,Roadside,,Freeport,Steel,03:10:11pm,Squeeze Filter in Turn,Regulatory Sign,Speed Limit,Circle,Red,No,0
+26.5170969214517,-78.6935352494392,722,2014/07/23,Good,Aluminum,6,Median,,Freeport,Steel,03:11:34pm,Keep Left,Regulatory Sign,Speed Limit,Circle,Red,No,0
+26.5169913393623,-78.6940003117459,723,2014/07/23,Poor,Aluminum,6,Roadside,,Freeport,Steel,03:12:55pm,,Warning Sign,Pedestrian Crossing,Diamond,Yellow,No,0
+26.5169693274144,-78.6948681478221,724,2014/07/23,Poor,Aluminum,6,Roadside,,Freeport,Steel,03:15:07pm,,Warning Sign,Yield,Triangle,Red,No,0
+26.5165683232321,-78.6956043803391,725,2014/07/23,Good,Aluminum,6,Roadside,,Freeport,Steel,03:16:58pm,,Regulatory Sign,Yield,Triangle,Red,No,0
+26.5171888808723,-78.6959089022414,726,2014/07/23,Poor,Aluminum,6,Roadside,,Freeport,Steel,03:19:39pm,,Warning Sign,Yield,Triangle,Red,No,0
+26.5174633678997,-78.695568052265,727,2014/07/23,Good,Aluminum,6,Roadside,,Freeport,Steel,03:20:56pm,,Warning Sign,Pedestrian Crossing,Diamond,Yellow,No,0
+26.5195513354938,-78.6953321139325,728,2014/07/23,Exellent,Aluminum,6,Roadside,,Freeport,Steel,03:23:09pm,Roundabout,Regulatory Sign,Speed Limit,Circle,Red,No,0
+26.5195196813342,-78.6952492869943,729,2014/07/23,Exellent,Aluminum,6,Median,,Freeport,Steel,03:24:11pm,Roundabout,Regulatory Sign,Speed Limit,Circle,Red,No,0
+26.5199103425803,-78.6950553619461,730,2014/07/23,Good,Aluminum,6,Median,,Freeport,Steel,03:25:37pm,West Sunrise HWY Left,Warning Sign,Yield,Triangle,Red,No,0
+26.5199470747452,-78.695127616335,731,2014/07/23,Exellent,Aluminum,6,Roadside,,Freeport,Steel,03:27:12pm,,Warning Sign,Yield,Triangle,Red,No,0
+26.5203564571617,-78.6950366411176,732,2014/07/23,Poor,Aluminum,6,Median,Central Area,Freeport,Steel,03:29:33pm,,Warning Sign,Yield,Triangle,Red,No,0
+26.5204156364573,-78.6949926684809,733,2014/07/23,Poor,Aluminum,6,Roadside,Central Area,Freeport,Steel,03:30:23pm,,Warning Sign,Yield,Triangle,Red,Yes,0
+26.5210179568879,-78.6961540942233,734,2014/07/23,Exellent,Aluminum,6,Roadside,Central Area,Freeport,Steel,03:32:23pm,,Warning Sign,Roundabout,Triangle,Red,No,0
+26.5209135589874,-78.6959635594411,735,2014/07/23,Poor,Aluminum,6,Roadside,Central Area,Freeport,Steel,03:33:13pm,Yield Ahead,Regulatory Sign,Speed Limit,Circle,Red,No,0
+26.5208308344167,-78.6959966869282,736,2014/07/23,Good,Aluminum,6,Roadside,Central Area,Freeport,Steel,03:35:08pm,,Regulatory Sign,Speed Limit,Circle,Red,No,0
+26.5212976053068,-78.6939713292338,737,2014/07/23,Exellent,Aluminum,6,Roadside,,Freeport,Steel,03:36:51pm,Drive in Left Lane except when overtaking,Regulatory Sign,Speed Limit,Rectangle,Red,No,0
+26.5272130785473,-78.693426293211,738,2014/07/23,Good,Aluminum,6,Roadside,Central Area,Freeport,Steel,03:39:48pm,,Informational Sign,Keep Left (except),Circle,Blue,No,0
+26.5270321584647,-78.6934368578544,739,2014/07/23,Good,Aluminum,6,Median,Central Area,Freeport,Steel,03:40:56pm,,Regulatory Sign,Speed Limit,Rectangle,Red,No,0
+26.5293530852732,-78.6937025266347,740,2014/07/23,Good,Aluminum,6,Roadside,Central Area,Freeport,Steel,03:43:18pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5293609167881,-78.6934522249072,741,2014/07/23,Good,Aluminum,6,Median,Central Area,Freeport,Steel,03:44:25pm,,Guide Sign,Keep Left (except),Circle,Blue,No,0
+26.5292287804228,-78.6934283993286,742,2014/07/23,Good,Aluminum,6,Median,Central Area,Freeport,Steel,03:45:20pm,,Guide Sign,Keep Left (except),Circle,Blue,No,0
+26.5322440272189,-78.6936530746509,743,2014/07/23,Exellent,Aluminum,6,Median,Central Area,Freeport,Steel,03:48:53pm,,Guide Sign,Keep Left (except),Circle,Blue,No,0
+26.5322484317204,-78.693512071288,744,2014/07/23,Exellent,Aluminum,6,Roadside,Central Area,Freeport,Steel,03:49:53pm,,Warning Sign,Pedestrian Crossing,Diamond,Yellow,No,0
+26.5325941158033,-78.6936417462375,745,2014/07/23,Exellent,Aluminum,6,Median,Central Area,Freeport,Steel,03:51:05pm,,Guide Sign,Keep Left (except),Circle,Blue,No,0
+26.5339447290869,-78.6935673817907,746,2014/07/23,Good,Aluminum,6,Roadside,Central Area,Freeport,Steel,03:53:38pm,,Warning Sign,Pedestrian Crossing,Diamond,Yellow,No,0
+26.5340829496784,-78.6934119245184,747,2014/07/23,Exellent,Aluminum,6,Median,Central Area,Freeport,Steel,03:54:37pm,,Guide Sign,Keep Left (except),Circle,Blue,No,0
+26.5344396543485,-78.6933116758158,748,2014/07/23,Exellent,Aluminum,6,Roadside,,Freeport,Steel,03:58:52pm,,Warning Sign,Pedestrian Crossing,Diamond,Yellow,No,0
+26.534104540983,-78.694461723339,749,2014/07/23,Good,Aluminum,6,Roadside,Central Area,Freeport,Steel,04:01:22pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.534145355965,-78.6946722325255,750,2014/07/23,Good,Aluminum,6,Roadside,Central Area,Freeport,Steel,04:03:25pm,,Warning Sign,Pedestrian Crossing,Triangle,Red,No,0
+26.5336273539643,-78.6945369375659,751,2014/07/23,Poor,Aluminum,6,Roadside,Central Area,Freeport,Steel,04:04:43pm,,Regulatory Sign,Stop,Octogon,Red,No,0
+26.5335528530515,-78.6945588274786,752,2014/07/23,Poor,Aluminum,6,Roadside,Central Area,Freeport,Steel,04:05:24pm,,Regulatory Sign,Stop,Octogon,Red,No,0
+26.5328377076061,-78.6943961421952,753,2014/07/23,Poor,Aluminum,6,Roadside,Central Area,Freeport,Steel,04:07:01pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5326879221366,-78.6943811619813,754,2014/07/23,Exellent,Aluminum,6,Median,Central Area,Freeport,Steel,04:08:10pm,,Guide Sign,Keep Left (except),Circle,Blue,No,0
+26.5326906486904,-78.6945191849827,755,2014/07/23,Good,Aluminum,6,Median,Central Area,Freeport,Steel,04:09:17pm,,Informational Sign,Keep Left (except),Rectangle,Yellow,No,0
+26.5325679775358,-78.6944862040408,756,2014/07/23,Poor,Aluminum,6,Roadside,Central Area,Freeport,Steel,04:10:37pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5315675053583,-78.693671973123,757,2014/07/23,Good,Aluminum,6,Roadside,Central Area,Freeport,Steel,04:16:15pm,,Regulatory Sign,Stop,Octogon,Red,No,0
+26.531598118118,-78.6936578545332,758,2014/07/23,Good,Aluminum,6,Roadside,Central Area,Freeport,Steel,04:16:55pm,,Warning Sign,Pedestrian Crossing,Diamond,Yellow,No,0
+26.5311923990147,-78.6938395059183,759,2014/07/23,Good,Aluminum,6,Roadside,Central Area,Freeport,Steel,04:18:17pm,,Regulatory Sign,Stop,Octogon,Red,No,0
+26.5311756321982,-78.6936278773385,760,2014/07/23,Good,Aluminum,6,Roadside,Central Area,Freeport,Steel,04:19:01pm,,Regulatory Sign,Stop,Octogon,Red,No,0
+26.5311803603014,-78.6939385245116,761,2014/07/23,Good,Aluminum,6,Median,Central Area,Freeport,Steel,04:23:22pm,,Regulatory Sign,Stop,Octogon,Red,No,0
+26.5310956145624,-78.6938401110906,762,2014/07/23,Good,Aluminum,6,Median,Central Area,Freeport,Steel,04:25:01pm,,Informational Sign,One-Way,Rectangle,Yellow,No,0
+26.5306806353407,-78.69382423876,763,2014/07/23,Good,Aluminum,6,Roadside,Central Area,Freeport,Steel,04:27:27pm,,Informational Sign,One-Way,Rectangle,Yellow,No,0
+26.530611518025,-78.6943418007416,764,2014/07/23,Good,Aluminum,6,Roadside,Central Area,Freeport,Steel,04:30:04pm,,Regulatory Sign,Stop,Octogon,Red,No,0
+26.5306502559878,-78.6943424167834,765,2014/07/23,Exellent,Aluminum,6,Roadside,Central Area,Freeport,Steel,04:30:39pm,,Regulatory Sign,Stop,Octogon,Red,No,0
+26.5306668131244,-78.6933095753358,766,2014/07/23,Good,Aluminum,6,Roadside,,Freeport,Steel,04:33:02pm,,Warning Sign,Pedestrian Crossing,Diamond,Yellow,No,0
+26.5204425892618,-78.6609335386636,767,2014/07/31,Exellent,Engineering,6,Roadside,Seahorse Village,Freeport,Steel,12:16:29pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.52032489435,-78.6577807047816,768,2014/08/06,Exellent,Engineering,6,Roadside,Seahorse Village,Freeport,Steel,11:39:00am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.521159690427,-78.6588802510514,769,2014/08/06,Poor,Aluminum,6,Roadside,Seahorse Village,Freeport,Steel,11:41:40am,,Warning Sign,Speed Bump,Rectangle,Yellow,No,0
+26.5212609827375,-78.6591113744789,770,2014/08/06,Poor,Aluminum,6,Roadside,Seahorse Village,Freeport,Steel,11:43:38am,,Informational Sign,Speed Limit,Circle,Multi-Colour,No,0
+26.5212110785803,-78.6633179691331,771,2014/08/06,Good,Engineering,6,Roadside,Seahorse Village,Freeport,Steel,11:46:45am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5201977077346,-78.6647582594878,772,2014/08/06,Exellent,Engineering,5,Roadside,Seahorse Village,Freeport,Steel,11:48:52am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5189722871653,-78.6620027145059,773,2014/08/06,Exellent,Engineering,6,Roadside,Seahorse Village,Freeport,Steel,11:51:26am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5206549322865,-78.6639433027621,774,2014/08/06,Exellent,Engineering,6,Roadside,Seahorse Village,Freeport,Steel,11:53:39am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5189701645739,-78.6607132431667,775,2014/08/06,Exellent,Engineering,5,Roadside,Seahorse Village,Freeport,Steel,11:56:45am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.519657653586,-78.659843562125,776,2014/08/06,Exellent,Engineering,6,Roadside,Seahorse Village,Freeport,Steel,11:59:01am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5210159776856,-78.6582391083014,777,2014/08/06,Good,Aluminum,5,Roadside,Seahorse Village,Freeport,Steel,12:01:59pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5217457134536,-78.6579266886879,778,2014/08/06,Good,Aluminum,6,Roadside,Seahorse Village,Freeport,Steel,12:03:35pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5174085903626,-78.6609831724327,779,2014/08/06,Exellent,Engineering,6,Roadside,Seahorse Village,Freeport,Steel,12:08:00pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5178286544587,-78.6617009982342,780,2014/08/06,Exellent,Engineering,7,Roadside,Seahorse Village,Freeport,Steel,12:09:45pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5391597294175,-78.6852598086215,781,2014/08/06,Exellent,Engineering,6,Roadside,East Section,Freeport,Steel,12:18:49pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.53814723001,-78.6884274086896,782,2014/08/06,Exellent,Engineering,6,Roadside,East Section,Freeport,Steel,12:21:09pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.538205279768,-78.688621510308,783,2014/08/06,Exellent,Engineering,6,Roadside,East Section,Freeport,Steel,12:22:37pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5381163154242,-78.6925327553914,784,2014/08/06,Good,Engineering,5,Roadside,East Section,Freeport,Steel,12:26:21pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5372847512933,-78.6922788754526,785,2014/08/06,Exellent,Engineering,6,Roadside,East Section,Freeport,Steel,12:28:08pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5371567572237,-78.6923262136264,786,2014/08/06,Poor,Aluminum,6,Roadside,East Section,Freeport,Steel,12:29:10pm,,Warning Sign,Pedestrian Crossing,Diamond,Yellow,No,0
+26.5373743074693,-78.6916635739996,787,2014/08/06,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,12:30:59pm,,Warning Sign,Pedestrian Crossing,Diamond,Yellow,No,0
+26.5372832473646,-78.691049477107,788,2014/08/06,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,12:32:35pm,,Warning Sign,Pedestrian Crossing,Diamond,Yellow,No,0
+26.5372935323035,-78.689354009173,789,2014/08/06,Poor,Aluminum,6,Roadside,East Section,Freeport,Steel,12:34:31pm,,Warning Sign,Pedestrian Crossing,Triangle,Yellow,No,0
+26.537396590237,-78.688593323241,790,2014/08/06,Poor,Aluminum,6,Roadside,East Section,Freeport,Steel,12:36:59pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.537309630637,-78.6884104029337,791,2014/08/06,Exellent,Engineering,6,Roadside,East Section,Freeport,Steel,12:38:35pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5376193995789,-78.6871730459959,792,2014/08/06,Good,Engineering,6,Roadside,East Section,Freeport,Steel,12:40:25pm,,Regulatory Sign,Stop,,Red,Yes,0
+26.5375493505071,-78.6870401620317,793,2014/08/06,Poor,Aluminum,6,Roadside,East Section,Freeport,Steel,12:41:42pm,School Zone,Warning Sign,Pedestrian Crossing,Triangle,Yellow,No,0
+26.5380380554965,-78.6857768318969,794,2014/08/06,Good,Engineering,6,Roadside,East Section,Freeport,Steel,12:43:51pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5382589762711,-78.6853102732616,795,2014/08/06,Exellent,Engineering,6,Roadside,East Section,Freeport,Steel,12:45:39pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5373154764024,-78.6852735096427,796,2014/08/06,Exellent,Engineering,5,Roadside,East Section,Freeport,Steel,12:47:28pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5372180352066,-78.6856716462407,797,2014/08/06,Poor,Aluminum,6,Roadside,East Section,Freeport,Steel,12:48:48pm,,Regulatory Sign,Stop,Circle,Multi-Colour,Yes,0
+26.5368296468959,-78.6870641860693,798,2014/08/06,Exellent,Engineering,6,Roadside,East Section,Freeport,Steel,12:50:31pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5368808798321,-78.6871582895292,799,2014/08/06,Poor,Aluminum,6,Roadside,East Section,Freeport,Steel,12:51:39pm,,Informational Sign,School Zone,Rectangle,Yellow,No,0
+26.5363053005095,-78.6884127892191,800,2014/08/06,Exellent,Engineering,6,Roadside,East Section,Freeport,Steel,12:53:35pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5364015771888,-78.6886107879066,801,2014/08/06,Exellent,Engineering,6,Roadside,East Section,Freeport,Steel,12:54:58pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5362860356435,-78.6888618693439,802,2014/08/06,Poor,Aluminum,6,Roadside,East Section,Freeport,Steel,12:56:05pm,School Zone,Warning Sign,Pedestrian Crossing,Triangle,Yellow,No,0
+26.5364127289554,-78.6894329861756,803,2014/08/06,Exellent,Engineering,6,Roadside,East Section,Freeport,Steel,12:57:57pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5365723389853,-78.691472543876,804,2014/08/08,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,03:37:04pm,,Warning Sign,Pedestrian Crossing,Triangle,Yellow,No,0
+26.5372659013167,-78.6914714956985,805,2014/08/08,Good,Aluminum,6,Roadside,Seahorse Village,Freeport,Steel,03:38:46pm,No Entry,Regulatory Sign,Stop,Octogon,Red,No,0
+26.53727505245,-78.6913726769779,806,2014/08/08,Poor,Aluminum,6,Roadside,Seahorse Village,Freeport,Steel,03:40:02pm,No Entry,Regulatory Sign,Stop,Octogon,Red,No,0
+26.5363887284703,-78.6920704689091,807,2014/08/08,Poor,Aluminum,6,Roadside,East Section,Freeport,Steel,03:42:13pm,School Zone,Warning Sign,Pedestrian Crossing,Triangle,Yellow,No,0
+26.5362969359109,-78.6922804418745,808,2014/08/08,Good,Engineering,6,Roadside,East Section,Freeport,Steel,03:43:40pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5354467843387,-78.692292056599,809,2014/08/08,Exellent,Engineering,6,Roadside,East Section,Freeport,Steel,03:45:30pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5355566359515,-78.6886455252346,810,2014/08/08,Exellent,Steel,5,Roadside,East Section,Freeport,Steel,03:47:45pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5354715231604,-78.6884490950212,811,2014/08/08,Exellent,Engineering,6,Roadside,East Section,Freeport,Steel,03:49:16pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5364927940632,-78.6853428596977,812,2014/08/08,Exellent,Aluminum,6,Roadside,East Section,Freeport,Steel,03:51:20pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5382716818775,-78.6851735899972,813,2014/08/08,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,03:53:07pm,School Zone,Informational Sign,Speed Limit,Rectangle,Yellow,No,0
+26.5398688876243,-78.6852930696487,814,2014/08/08,Good,Engineering,6,Roadside,East Section,Freeport,Steel,03:57:34pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5388931138785,-78.6886077140458,815,2014/08/08,Exellent,Aluminum,6,Roadside,East Section,Freeport,Steel,04:00:17pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5376180289487,-78.6885927945282,816,2014/08/08,Poor,Aluminum,6,Roadside,East Section,Freeport,Steel,04:01:59pm,,Warning Sign,Speed Bump,Diamond,Yellow,No,0
+26.5347535213636,-78.6884654233523,817,2014/08/08,Good,Engineering,6,Roadside,East Section,Freeport,Steel,04:04:10pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5345699544636,-78.6921419399783,818,2014/08/08,Good,Engineering,6,Roadside,East Section,Freeport,Steel,04:06:42pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5359652830544,-78.6924972720078,819,2014/08/08,Poor,Aluminum,6,Roadside,East Section,Freeport,Steel,04:08:26pm,School Zone,Warning Sign,Pedestrian Crossing,Diamond,Yellow,No,0
+26.5371532639578,-78.6923293477527,820,2014/08/08,Poor,Aluminum,6,Roadside,East Section,Freeport,Steel,04:10:20pm,,Warning Sign,Pedestrian Crossing,Diamond,Yellow,No,0
+26.538936876323,-78.6930182909567,821,2014/08/08,Exellent,Engineering,6,Roadside,East Section,Freeport,Steel,04:12:13pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5404226934202,-78.6790444482664,822,2014/08/08,,Aluminum,5,Roadside,East Section,Freeport,Steel,04:16:02pm,No Parking,Warning Sign,,Rectangle,Multi-Colour,No,0
+26.5404396006285,-78.67902513323,823,2014/08/08,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,04:18:25pm,Airport,Guide Sign,,Rectangle,Green,No,0
+26.5405080794622,-78.6788536329932,824,2014/08/08,,Aluminum,4,Roadside,East Section,Freeport,Steel,04:20:12pm,No Parking,Warning Sign,,Rectangle,Multi-Colour,No,0
+26.5404560059338,-78.6788370625166,825,2014/08/08,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,04:23:03pm,,Warning Sign,Yield,Triangle,Multi-Colour,Yes,0
+26.5410443134455,-78.6790422594139,826,2014/08/08,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,04:25:37pm,,Informational Sign,Speed Limit,Circle,Multi-Colour,No,0
+26.5410225880368,-78.6789156543379,827,2014/08/08,Poor,Aluminum,6,Roadside,East Section,Freeport,Steel,04:27:00pm,,Informational Sign,Speed Limit,Circle,Multi-Colour,No,0
+26.5420772466748,-78.6789025117052,828,2014/08/08,Exellent,Aluminum,6,Roadside,East Section,Freeport,Steel,04:28:50pm,,Warning Sign,Roundabout,Triangle,Multi-Colour,No,0
+26.5467653801978,-78.6788845985422,829,2014/08/08,Good,Aluminum,5,Roadside,,Freeport,Steel,04:31:01pm,Keep Left,Informational Sign,,Rectangle,Black & White,No,0
+26.5515046660978,-78.6791118448452,830,2014/08/08,Good,Aluminum,6,Roadside,,Freeport,Steel,04:34:07pm,Junction,Informational Sign,Stop Ahead,Diamond,Multi-Colour,No,0
+26.5350629637175,-78.6868173880143,831,2014/08/11,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,02:33:53pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5331446026247,-78.6860207974437,832,2014/08/11,Exellent,Engineering,6,Roadside,East Section,Freeport,Steel,02:35:36pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5332744387311,-78.685433492394,833,2014/08/11,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,02:37:09pm,,Warning Sign,Pedestrian Crossing,Triangle,Yellow,No,0
+26.5333592127955,-78.6847870822926,834,2014/08/11,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,02:38:52pm,School Zone,Warning Sign,Pedestrian Crossing,Triangle,Yellow,No,0
+26.5334151267212,-78.6845990138185,835,2014/08/11,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,02:40:08pm,,Warning Sign,Speed Bump,Rectangle,Yellow,No,0
+26.5335189603761,-78.6845548320717,836,2014/08/11,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,02:41:39pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5356634405281,-78.6853330374248,837,2014/08/11,Good,Engineering,6,Roadside,East Section,Freeport,Steel,02:43:27pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.535291697342,-78.6859194983508,838,2014/08/11,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,02:44:56pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5333844672406,-78.6851008322918,839,2014/08/11,Exellent,Engineering,6,Roadside,East Section,Freeport,Steel,02:46:35pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5328662678474,-78.6868524306378,840,2014/08/11,Exellent,Engineering,6,Roadside,East Section,Freeport,Steel,02:48:09pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5327683528924,-78.6870778408347,841,2014/08/11,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,02:49:12pm,School Zone,Warning Sign,Speed Bump,Rectangle,Yellow,No,0
+26.5347804360366,-78.6876529385297,842,2014/08/11,Good,Engineering,6,Roadside,East Section,Freeport,Steel,02:51:27pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5345228216882,-78.6885479258349,843,2014/08/11,Exellent,Engineering,6,Roadside,East Section,Freeport,Steel,02:52:59pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5325080791301,-78.6873480365092,844,2014/08/11,Exellent,Engineering,6,Roadside,East Section,Freeport,Steel,02:55:01pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.532503205771,-78.6877568337329,845,2014/08/11,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,02:56:18pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5345350328589,-78.6893708037956,846,2014/08/11,Poor,Aluminum,6,Roadside,East Section,Freeport,Steel,02:58:41pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5326640311061,-78.6888075139959,847,2014/08/11,Exellent,Engineering,6,Roadside,East Section,Freeport,Steel,03:00:17pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5326050208324,-78.6880013498323,848,2014/08/11,Good,Engineering,6,Roadside,East Section,Freeport,Steel,03:01:39pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5326314922571,-78.6896958869427,849,2014/08/11,Exellent,Engineering,6,Roadside,East Section,Freeport,Steel,03:03:30pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5345544603448,-78.6903169817771,850,2014/08/11,Exellent,Engineering,6,Roadside,East Section,Freeport,Steel,03:05:14pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5345576365353,-78.6912636885411,851,2014/08/11,Exellent,Engineering,6,Roadside,East Section,Freeport,Steel,03:06:46pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5326382888243,-78.690616912925,852,2014/08/11,Good,Engineering,5,Roadside,East Section,Freeport,Steel,03:08:52pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.532453874837,-78.690225905512,853,2014/08/11,Good,Engineering,7,Roadside,East Section,Freeport,Steel,03:10:12pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5305254156492,-78.6906563862367,854,2014/08/11,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,03:11:50pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5305295071811,-78.6893045103773,855,2014/08/11,Exellent,Engineering,6,Roadside,East Section,Freeport,Steel,03:13:31pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5324822272787,-78.6888602513459,856,2014/08/11,Good,Engineering,6,Roadside,East Section,Freeport,Steel,03:15:23pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5305075748527,-78.6884316206249,857,2014/08/11,Exellent,Engineering,6,Roadside,East Section,Freeport,Steel,03:17:26pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.53029094144,-78.6875589276039,858,2014/08/11,Exellent,Engineering,6,Roadside,East Section,Freeport,Steel,03:19:03pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5303803796008,-78.6876143421746,859,2014/08/11,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,03:20:02pm,,Warning Sign,Speed Bump,Rectangle,Yellow,No,0
+26.5322105372075,-78.6869767428265,860,2014/08/11,Exellent,Engineering,7,Roadside,East Section,Freeport,Steel,03:22:13pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.532243755341,-78.6864453773656,861,2014/08/11,Poor,Aluminum,6,Roadside,East Section,Freeport,Steel,03:23:29pm,,Warning Sign,Speed Bump,Rectangle,Yellow,No,0
+26.5319662408994,-78.6860915487027,862,2014/08/11,Poor,Engineering,6,Roadside,East Section,Freeport,Steel,03:25:34pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5316623405879,-78.6861029743033,863,2014/08/11,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,03:26:42pm,,Warning Sign,Speed Bump,Diamond,Yellow,No,0
+26.530323827697,-78.6866792162837,864,2014/08/11,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,03:28:37pm,,Warning Sign,Speed Bump,Diamond,Yellow,Yes,0
+26.5299363761275,-78.6867340109301,865,2014/08/11,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,03:30:03pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5297385402063,-78.6858620403437,866,2014/08/11,Poor,Aluminum,6,Roadside,East Section,Freeport,Steel,03:31:31pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5317409314714,-78.685241005368,867,2014/08/11,Good,Engineering,6,Roadside,East Section,Freeport,Steel,03:33:13pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5320023022361,-78.6859269321486,868,2014/08/11,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,03:34:46pm,,Warning Sign,Speed Bump,Diamond,Yellow,No,0
+26.5316732321373,-78.6845172658128,869,2014/08/11,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,03:36:31pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5315962586984,-78.684607772041,870,2014/08/11,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,03:37:37pm,,Warning Sign,Speed Bump,Rectangle,Yellow,No,0
+26.5295604492136,-78.6851058314375,871,2014/08/11,Exellent,Engineering,6,Roadside,East Section,Freeport,Steel,03:39:34pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5333872201868,-78.684346609041,872,2014/08/11,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,03:41:57pm,,Warning Sign,Pedestrian Crossing,Triangle,Yellow,No,0
+26.5352234232752,-78.685092230946,873,2014/08/11,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,03:43:30pm,,Warning Sign,Pedestrian Crossing,Diamond,Red,No,0
+26.5360282792875,-78.6851581720805,874,2014/08/11,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,03:44:58pm,,Warning Sign,Pedestrian Crossing,Diamond,Yellow,No,0
+26.5398924470872,-78.6853290386595,875,2014/08/11,Poor,Aluminum,6,Roadside,East Section,Freeport,Steel,03:47:42pm,School Zone,Warning Sign,Pedestrian Crossing,Triangle,Yellow,No,0
+26.5392875239351,-78.6875285561799,876,2014/08/11,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,03:49:41pm,,Warning Sign,Pedestrian Crossing,Triangle,Yellow,No,0
+26.5392587424945,-78.6880006220647,877,2014/08/11,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,03:50:59pm,,Warning Sign,Pedestrian Crossing,Triangle,Yellow,No,0
+26.5389999727628,-78.6940893753652,878,2014/08/11,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,03:53:59pm,,Informational Sign,End School Zone,Rectangle,Yellow,No,0
+26.5391219499317,-78.6940583326934,879,2014/08/11,Poor,Aluminum,6,Roadside,East Section,Freeport,Steel,03:55:02pm,School Zone,Warning Sign,Pedestrian Crossing,Triangle,Yellow,No,0
+26.5215499103837,-78.6634944887152,880,2014/08/13,Good,Aluminum,6,Roadside,Seahorse Village,Freeport,Steel,11:16:52am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5219951072095,-78.6576486354499,881,2014/08/13,Exellent,Engineering,6,Roadside,Seahorse Village,Freeport,Steel,11:20:40am,,Regulatory Sign,Stop,Octogon,Red,No,0
+26.5273759320815,-78.685363893801,882,2014/08/13,Poor,Aluminum,6,Roadside,East Section,Freeport,Steel,03:43:08pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5281579648955,-78.6884363865787,883,2014/08/13,Good,Engineering,6,Roadside,East Section,Freeport,Steel,03:45:29pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5288932753074,-78.688402441157,884,2014/08/13,Good,Engineering,6,Roadside,East Section,Freeport,Steel,03:47:18pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5287068343521,-78.6875421390624,885,2014/08/13,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,03:48:38pm,,Warning Sign,Speed Bump,Rectangle,Yellow,No,0
+26.5280606119939,-78.685394183948,886,2014/08/13,Exellent,Engineering,6,Roadside,East Section,Freeport,Steel,03:50:19pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5287342887148,-78.6853920637817,887,2014/08/13,Good,Engineering,6,Roadside,East Section,Freeport,Steel,03:51:37pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5295475556785,-78.6884104296216,888,2014/08/13,Poor,Aluminum,6,Roadside,East Section,Freeport,Steel,03:53:26pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5302861474397,-78.6886138150461,889,2014/08/13,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,03:55:04pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.526686663947,-78.6885070425272,890,2014/08/13,Exellent,Engineering,6,Roadside,East Section,Freeport,Steel,03:57:47pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5266867232322,-78.6852363345277,891,2014/08/13,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,03:59:49pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5292586039476,-78.6853298022601,892,2014/08/13,Good,Engineering,6,Roadside,East Section,Freeport,Steel,04:01:48pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5282571040783,-78.6851799642397,893,2014/08/13,Exellent,Engineering,6,Roadside,East Section,Freeport,Steel,04:03:30pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.528273980295,-78.684485358544,894,2014/08/13,Good,Engineering,6,Roadside,East Section,Freeport,Steel,04:05:20pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5284133781689,-78.6835335813792,895,2014/08/13,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,04:06:48pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5266449044481,-78.683433858871,896,2014/08/13,Exellent,Engineering,6,Roadside,East Section,Freeport,Steel,04:08:05pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5284089278572,-78.6826537842582,897,2014/08/13,Poor,Aluminum,6,Roadside,East Section,Freeport,Steel,04:10:48pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5285410461933,-78.6818047402799,898,2014/08/13,Poor,Aluminum,6,Roadside,East Section,Freeport,Steel,04:12:07pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5273190596299,-78.6817564661545,899,2014/08/13,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,04:13:47pm,,Warning Sign,Speed Bump,Rectangle,Yellow,No,0
+26.5268519001643,-78.6814665644789,900,2014/08/13,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,04:15:18pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5288423828092,-78.6816612691785,901,2014/08/13,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,04:17:18pm,,School Sign,Speed Bump,Rectangle,Yellow,No,0
+26.5292949817497,-78.6817922681747,902,2014/08/13,Poor,Aluminum,6,Roadside,East Section,Freeport,Steel,04:18:33pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5134131247735,-78.7677226338087,903,2014/08/27,Good,Aluminum,4,Roadside,Pinders Point,Freeport,Steel,11:31:09am,,Regulatory Sign,Bonded,Rectangle,Multi-Colour,No,0
+26.5295965761826,-78.7874537711558,904,2014/08/27,Good,Aluminum,4,Roadside,Eight Mile Rock,Freeport,Steel,11:47:42am,,Regulatory Sign,Bonded,Rectangle,Multi-Colour,No,0
+26.5011459535291,-78.7212877800798,905,2014/08/27,Good,Aluminum,6,Roadside,Mack Town,Freeport,Steel,12:44:58pm,,Regulatory Sign,Bonded,Rectangle,Multi-Colour,No,0
+26.500574530839,-78.7357951179984,906,2014/08/27,Good,Aluminum,6,Roadside,Hunters,Freeport,,12:55:32pm,No Sign,Regulatory Sign,Bonded,Rectangle,Multi-Colour,No,0
+26.5044078729628,-78.7428232283817,907,2014/08/27,Good,Aluminum,4,Roadside,Lewis Yard,Freeport,Steel,01:00:32pm,,Regulatory Sign,Bonded,Rectangle,Multi-Colour,No,0
+26.4971846628183,-78.6688846608833,908,2014/08/27,Good,Aluminum,6,Roadside,Williams Town,Freeport,Steel,01:27:25pm,,Regulatory Sign,Bonded,Rectangle,Multi-Colour,No,0
+26.5346670417835,-78.59783861894,909,2014/08/27,Good,Aluminum,5,Roadside,Mather Town,Lucaya,Steel,01:40:55pm,,Regulatory Sign,Bonded,Rectangle,Multi-Colour,No,0
+26.5315359330768,-78.5993010869505,910,2014/08/27,Good,Aluminum,4,Roadside,Mather Town,Lucaya,Steel,01:44:36pm,,Regulatory Sign,Bonded,Rectangle,Multi-Colour,No,0
+26.5366205442694,-78.5906525251272,911,2014/08/27,Good,Aluminum,6,Roadside,,Lucaya,Steel,01:51:52pm,No Sign,Regulatory Sign,Bonded,Rectangle,Multi-Colour,No,0
+26.5235340775095,-78.6153938468025,912,2014/08/27,Good,Aluminum,6,Roadside,Smiths Point,Lucaya,Steel,02:05:22pm,Sign Down,Regulatory Sign,Bonded,Rectangle,Multi-Colour,No,0
+26.5216427138379,-78.6200631717947,913,2014/08/27,Good,Aluminum,6,Roadside,Smiths Point,Lucaya,Steel,02:09:40pm,,Regulatory Sign,Bonded,Rectangle,Multi-Colour,No,0
+26.6103550449607,-78.3668732609859,914,2014/08/27,Good,Aluminum,6,Roadside,Freetown,Lucaya,Steel,02:43:17pm,No Sign,Regulatory Sign,Bonded,Rectangle,Multi-Colour,No,0
+26.52645088503,-78.6873053570124,915,2014/08/29,Exellent,Engineering,6,Roadside,East Section,Freeport,Steel,04:09:54pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5255777555785,-78.6871611619012,916,2014/08/29,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,04:11:34pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5264344013542,-78.6858880555506,917,2014/08/29,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,04:13:34pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5264371527575,-78.6846761636144,918,2014/08/29,Poor,Aluminum,6,Roadside,East Section,Freeport,Steel,04:14:57pm,Spray Paint,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5256096448966,-78.684550611833,919,2014/08/29,Poor,Aluminum,5,Roadside,East Section,Freeport,Steel,04:16:29pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5246307373649,-78.6826091505005,920,2014/08/29,Exellent,Aluminum,6,Roadside,East Section,Freeport,Steel,04:18:17pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.524595115176,-78.6818133251162,921,2014/08/29,Exellent,Engineering,6,Roadside,East Section,Freeport,Steel,04:19:22pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.523497442242,-78.6818259993572,922,2014/08/29,Poor,Aluminum,6,Roadside,East Section,Freeport,Steel,04:21:21pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5233669292145,-78.6827161825152,923,2014/08/29,Exellent,Aluminum,5,Roadside,East Section,Freeport,Steel,04:36:58pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5229183868906,-78.685183784862,924,2014/08/29,Exellent,Aluminum,5,Roadside,East Section,Freeport,Steel,04:38:48pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5218660540053,-78.6858744945627,925,2014/08/29,Exellent,Aluminum,6,Roadside,East Section,Freeport,Steel,04:40:13pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5229261885691,-78.6851756577794,926,2014/09/01,Exellent,Aluminum,6,Roadside,East Section,Freeport,Steel,04:10:17pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5218678419237,-78.6858631606076,927,2014/09/01,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,04:11:44pm,,Regulatory Sign,Stop,Rectangle,Red,Yes,0
+26.5220385358896,-78.6870122752053,928,2014/09/01,Good,Aluminum,5,Roadside,East Section,Freeport,Steel,04:13:15pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5225171774403,-78.688754089525,929,2014/09/01,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,04:15:23pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5222347158351,-78.687804999735,930,2014/09/01,Poor,Aluminum,5,Roadside,East Section,Freeport,Steel,04:16:51pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5221788683748,-78.6877341419062,931,2014/09/01,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,04:17:36pm,,Warning Sign,Speed Bump,Rectangle,Yellow,No,0
+26.5238874016213,-78.6901588734865,932,2014/09/01,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,04:19:52pm,,Warning Sign,Speed Bump,Triangle,Multi-Colour,No,0
+26.5245328306727,-78.6901110769419,933,2014/09/01,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,04:22:47pm,,Warning Sign,Speed Bump,Triangle,Multi-Colour,No,0
+26.5240377122297,-78.6897157346803,934,2014/09/01,Exellent,Engineering,6,Roadside,East Section,Freeport,,04:24:37pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5164561121337,-78.687665477673,935,2014/11/06,Poor,Aluminum,6,Roadside,East Section,Freeport,Steel,11:00:56am,Pedestrian,Warning Sign,School Zone,Rectangle,Yellow,No,0
+26.5179999265973,-78.6875800374439,936,2014/11/06,Poor,Aluminum,6,Roadside,East Section,Freeport,Steel,11:05:33am,Pedestrian,Warning Sign,School Zone,Rectangle,Yellow,No,0
+26.5181247461946,-78.6875306837215,937,2014/11/06,Exellent,Engineering,6,Roadside,East Section,Freeport,Steel,11:07:09am,Street sign poor,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5181358007064,-78.6878553106202,938,2014/11/06,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,11:09:09am,,Warning Sign,Speed Bump,Triangle,Multi-Colour,No,0
+26.5182129850676,-78.6877246625036,939,2014/11/06,Exellent,Engineering,5,Roadside,East Section,Freeport,Steel,11:10:20am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5182226862184,-78.6873284292056,940,2014/11/06,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,11:12:24am,,Warning Sign,Speed Bump,Rectangle,Yellow,No,0
+26.5216940123624,-78.6866425871432,941,2014/11/06,Exellent,Engineering,6,Roadside,East Section,Freeport,Aluminum,11:15:17am,,Route Sign,Stop,Octogon,Red,Yes,0
+26.5217425387199,-78.6866885961077,942,2014/11/06,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,11:16:22am,,Warning Sign,Speed Bump,Diamond,Yellow,No,0
+26.5225169731753,-78.6899331313,943,2014/11/06,Good,Engineering,6,Roadside,East Section,Freeport,Steel,11:20:15am,,Regulatory Sign,Stop,,Red,Yes,0
+26.5216174479724,-78.6899399779739,944,2014/11/06,Good,Aluminum,5,Roadside,East Section,Freeport,Steel,11:22:23am,,Warning Sign,Speed Bump,Rectangle,Yellow,No,0
+26.5189482490041,-78.69053898898,945,2014/11/06,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,11:25:36am,,Warning Sign,Speed Bump,Diamond,Yellow,No,0
+26.518246702486,-78.6905318129721,946,2014/11/06,Exellent,Aluminum,6,Roadside,East Section,Freeport,Steel,11:31:55am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5182408375752,-78.6915244879932,947,2014/11/06,Exellent,Aluminum,6,Roadside,East Section,Freeport,Steel,11:34:31am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5192398524738,-78.6914857906063,948,2014/11/06,Exellent,Aluminum,6,Roadside,East Section,Freeport,Steel,11:36:19am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5192401849575,-78.6914872626473,949,2014/11/06,Exellent,Aluminum,6,Roadside,East Section,Freeport,Steel,11:37:29am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5192687468334,-78.6924288590633,950,2014/11/06,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,11:39:45am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5193584217646,-78.6904876106836,951,2014/11/06,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,11:41:39am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5201635161916,-78.6903772798849,952,2014/11/06,Poor,Aluminum,6,Roadside,East Section,Freeport,Steel,11:43:59am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5200661478308,-78.6922908080419,953,2014/11/06,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,11:46:04am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5208817665502,-78.6922879294165,954,2014/11/06,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,11:47:50am,,Warning Sign,Rumbles,Diamond,Yellow,No,0
+26.5208853018289,-78.6921643518881,955,2014/11/06,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,11:49:11am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.520956864474,-78.6901935254117,956,2014/11/06,Exellent,Aluminum,6,Roadside,East Section,Freeport,Steel,11:50:52am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5217930993332,-78.6900385359144,957,2014/11/06,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,11:54:35am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.521719781304,-78.6903969604356,958,2014/11/06,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,11:55:50am,,Warning Sign,Speed Bump,Rectangle,Yellow,No,0
+26.5217817563426,-78.6917066422083,959,2014/11/06,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,11:57:36am,,Warning Sign,Speed Bump,Rectangle,Yellow,No,0
+26.5217015002084,-78.691992148229,960,2014/11/06,Good,Engineering,6,Roadside,East Section,Freeport,Aluminum,11:59:03am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.522540472186,-78.6932283296034,961,2014/11/06,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,12:02:52pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5314178157196,-78.683575971696,962,2014/12/10,Exellent,Engineering,8,Roadside,East Section,Freeport,Steel,10:05:04am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5316239320746,-78.6814664379192,963,2014/12/10,Exellent,Engineering,5,Roadside,East Section,Freeport,Steel,10:08:02am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5325605129886,-78.6816157226323,964,2014/12/10,Good,Engineering,6,Roadside,East Section,Freeport,Steel,10:12:09am,,Regulatory Sign,Stop,Octogon,Red,No,0
+26.5333921606363,-78.6815591361091,965,2014/12/10,Exellent,Engineering,6,Roadside,East Section,Freeport,Steel,10:14:52am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5338288511733,-78.6785944000774,966,2014/12/10,Exellent,Engineering,6,Roadside,Hudson Estate,Freeport,Steel,10:18:42am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5366775820968,-78.6789568837069,967,2014/12/10,Good,Aluminum,6,Roadside,,Freeport,Steel,10:21:07am,Airport,Guide Sign,,Rectangle,Green,No,0
+26.5364995718961,-78.6790240554724,968,2014/12/10,Exellent,Engineering,6,Roadside,Hudson Estates,Freeport,Steel,10:22:33am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5381151660144,-78.6789507906418,969,2014/12/10,Good,Aluminum,5,Roadside,,Freeport,Steel,10:25:16am,,Warning Sign,Roundabout,Triangle,Multi-Colour,No,0
+26.5385548116066,-78.678941536466,970,2014/12/10,Poor,Aluminum,6,Roadside,,Freeport,Steel,10:27:18am,Vandalized,Regulatory Sign,Speed Limit,Circle,Multi-Colour,No,0
+26.5385626794391,-78.6788407664102,971,2014/12/10,Poor,Aluminum,6,Roadside,,Freeport,Steel,10:28:28am,,Regulatory Sign,Speed Limit,Circle,Multi-Colour,No,0
+26.5397478655401,-78.6789699057781,972,2014/12/10,Good,Aluminum,6,Roadside,,Freeport,Steel,10:30:14am,,Warning Sign,Yield,Triangle,Multi-Colour,No,0
+26.540396399292,-78.6763245605008,973,2014/12/10,Poor,Aluminum,6,Roadside,Fairfield,Freeport,Steel,10:32:53am,,Warning Sign,School Zone,Rectangle,Yellow,No,0
+26.5403989680358,-78.6736335663492,974,2014/12/10,Good,Aluminum,6,Roadside,Fairfield,Freeport,Steel,10:34:43am,,Warning Sign,School Cross Walk,Triangle,Yellow,No,0
+26.5403645513857,-78.6658516719517,975,2014/12/10,Good,Aluminum,6,Roadside,Fairfield,Freeport,Steel,10:37:08am,Speed Limit,Warning Sign,School Zone,Rectangle,Yellow,No,0
+26.54024571271,-78.6658480191038,976,2014/12/10,Good,Aluminum,6,Roadside,,,,10:38:16am,School Zone,Warning Sign,School Cross Walk,Triangle,Yellow,No,0
+26.5402905313768,-78.6687727468583,977,2014/12/10,Good,Aluminum,5,Roadside,Fairfield,Freeport,Steel,10:40:22am,,Informational Sign,Keep Left (except),Rectangle,Black & White,No,0
+26.5402770149487,-78.6717036585962,978,2014/12/10,Good,Aluminum,6,Roadside,Fairfield,Freeport,Steel,10:42:15am,,Warning Sign,School Cross Walk,Triangle,Yellow,No,0
+26.5402907214585,-78.6763203234829,979,2014/12/10,Good,Aluminum,6,Roadside,Fairfield,Freeport,Steel,10:44:15am,Vandalized,Warning Sign,Roundabout,Triangle,Multi-Colour,No,0
+26.5402682584314,-78.6765312463266,980,2014/12/10,Good,Aluminum,6,Roadside,Fairfield,Freeport,Steel,10:45:25am,,Warning Sign,End School Zone,Rectangle,Yellow,No,0
+26.5401119075591,-78.6776953023394,981,2014/12/10,Poor,Aluminum,6,Roadside,Fairfield,Freeport,Steel,10:46:51am,,Regulatory Sign,Speed Limit,Circle,Multi-Colour,No,0
+26.5399719522866,-78.6784687840226,982,2014/12/10,Good,Aluminum,6,Roadside,Fairfield,Freeport,Steel,10:48:33am,,Regulatory Sign,Yield,Triangle,Multi-Colour,Yes,0
+26.5314885781218,-78.6771985373749,983,2014/12/10,Exellent,Engineering,6,Roadside,East Coral,Freeport,Steel,10:52:02am,,Regulatory Sign,Stop,Octogon,Red,No,0
+26.5303147616391,-78.676596300319,984,2014/12/10,Good,Aluminum,6,Roadside,,Freeport,Steel,10:54:54am,,Warning Sign,Squeeze Filt & Turn,Rectangle,Multi-Colour,No,0
+26.5302916264118,-78.6764541179181,985,2014/12/10,Good,Aluminum,6,Roadside,,Freeport,Steel,10:56:04am,Dual Lane Ends,Warning Sign,,Triangle,Multi-Colour,No,0
+26.5284620204501,-78.6753323316654,986,2014/12/10,Good,Aluminum,6,Roadside,,Freeport,Steel,11:01:16am,,Warning Sign,End School Zone,Rectangle,Yellow,No,0
+26.5288399507873,-78.6755929185192,987,2014/12/10,Good,Aluminum,6,Roadside,,Freeport,Steel,11:02:47am,Right Lane,Informational Sign,,Rectangle,Black & White,No,0
+26.5433292152122,-78.6967797394517,988,2014/12/12,Good,Engineering,6,Roadside,Civic Industrial Area,Freeport,Steel,12:14:03pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5427059191318,-78.6985540116528,989,2014/12/12,Exellent,Engineering,6,Roadside,Civic Industrial Area,Freeport,Steel,12:15:50pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.542292048427,-78.6965557710737,990,2014/12/12,Exellent,Aluminum,5,Roadside,Civic Industrial Area,Freeport,Steel,12:17:40pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5450469067673,-78.6971379228634,991,2014/12/12,Exellent,Engineering,6,Roadside,Civic Industrial Area,Freeport,Steel,12:19:54pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5449848173781,-78.6974144272778,992,2014/12/12,Poor,Aluminum,5,Roadside,Civic Industrial Area,Freeport,Steel,12:21:27pm,,Regulatory Sign,Speed Limit,Circle,Multi-Colour,No,0
+26.544427286876,-78.6985666220941,993,2014/12/12,Exellent,Engineering,6,Roadside,Civic Industrial Area,Freeport,Steel,12:23:43pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5432783041602,-78.6990493780148,994,2014/12/12,Exellent,Engineering,5,Roadside,Civic Industrial Area,Freeport,Steel,12:27:00pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5428408011272,-78.700145206542,995,2014/12/12,Good,Aluminum,5,Roadside,Civic Industrial Area,Freeport,Steel,12:30:13pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5422853050653,-78.7015554464534,996,2014/12/12,Poor,Aluminum,5,Roadside,Civic Industrial Area,Freeport,Steel,12:31:56pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.540394598431,-78.7006045313619,997,2014/12/12,Exellent,Engineering,5,Roadside,Civic Industrial Area,Freeport,Steel,12:34:25pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5410207371204,-78.6965348067976,998,2014/12/12,Poor,Aluminum,5,Roadside,Civic Industrial Area,Freeport,Steel,12:37:48pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5379487457265,-78.6978498436981,999,2014/12/12,Good,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,12:43:38pm,Speed Limit,Warning Sign,Roundabout,Triangle,Multi-Colour,No,0
+26.5378050161159,-78.6980902707595,1000,2014/12/12,Good,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,12:46:16pm,,Warning Sign,Yield,Triangle,Multi-Colour,No,0
+26.5379276227236,-78.6986015869728,1001,2014/12/12,Good,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,12:47:40pm,,Warning Sign,Yield,Triangle,Multi-Colour,No,0
+26.5375718770312,-78.6988651431475,1002,2014/12/12,Poor,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,12:49:11pm,,Warning Sign,Yield,Triangle,Multi-Colour,No,0
+26.5374596695791,-78.6992264362953,1003,2014/12/12,Good,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,12:50:26pm,Speed Limit,Warning Sign,Roundabout,Triangle,Multi-Colour,No,0
+26.537468469486,-78.6995864690593,1004,2014/12/12,Good,Aluminum,5,Roadside,Civic Industrial Area,Freeport,Steel,12:52:05pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5374929234867,-78.6997245252264,1005,2014/12/12,Good,Aluminum,5,Roadside,Civic Industrial Area,Freeport,Steel,12:53:15pm,Heavy Equip Crossing,Warning Sign,,Diamond,Yellow,No,0
+26.5381202803108,-78.6998210146634,1006,2014/12/12,Poor,Aluminum,4,Roadside,Civic Industrial Area,Freeport,Steel,12:55:25pm,,Warning Sign,School Cross Walk,Triangle,Yellow,No,0
+26.5372588683985,-78.6994869326764,1007,2014/12/12,Good,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,12:57:48pm,,Warning Sign,School Cross Walk,Triangle,Yellow,No,0
+26.5372974876894,-78.6985776905488,1008,2014/12/12,Poor,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,12:59:53pm,,Warning Sign,Yield,Triangle,Multi-Colour,No,0
+26.5369594640044,-78.6985434578479,1009,2014/12/12,Good,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,01:01:00pm,,Regulatory Sign,Speed Limit,Circle,Multi-Colour,No,0
+26.536618502439,-78.6985571501925,1010,2014/12/12,Good,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,01:02:28pm,,Warning Sign,School Cross Walk,Triangle,Yellow,No,0
+26.536449874716,-78.6985504629231,1011,2014/12/12,Good,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,01:03:27pm,,Regulatory Sign,Roundabout,Triangle,Multi-Colour,No,0
+26.5369553334634,-78.6983727063583,1012,2014/12/12,Good,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,01:06:31pm,,Warning Sign,School Cross Walk,Triangle,Yellow,No,0
+26.5388705262209,-78.7000936538506,1013,2014/12/12,Good,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,01:12:35pm,Heavy Equip Crossing,Warning Sign,,Diamond,Yellow,No,0
+26.5389348317757,-78.6963001978187,1014,2014/12/12,Exellent,Engineering,6,Roadside,Civic Industrial Area,Freeport,Steel,01:18:16pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5387459173848,-78.6954883790102,1015,2014/12/12,Good,Aluminum,6,Roadside,Civic Industrial Area,Freeport,Steel,01:20:12pm,Speed Limit,Warning Sign,Keep Left (except),Rectangle,Black & White,No,0
+26.5214722112243,-78.6891534919996,1016,2015/01/19,Exellent,Engineering,6,Roadside,East,Freeport,Steel,11:14:04am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5199926340867,-78.6893476357278,1017,2015/01/19,Exellent,Engineering,6,Roadside,East,Freeport,Steel,11:16:28am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5182575257177,-78.6896340205721,1018,2015/01/19,Exellent,Engineering,5,Roadside,East,Freeport,Steel,11:18:29am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5198368829534,-78.6894660725538,1019,2015/01/19,Good,Engineering,6,Roadside,East,Freeport,Steel,11:20:24am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.521236851139,-78.6883122075076,1020,2015/01/19,Exellent,Engineering,5,Roadside,East,Freeport,Steel,11:22:35am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5211505855471,-78.6882473878301,1021,2015/01/19,Good,Aluminum,6,Roadside,East,Freeport,Steel,11:23:41am,,Informational Sign,Speed Bump,Diamond,Yellow,No,0
+26.5197369410106,-78.6885167584394,1022,2015/01/19,Exellent,Engineering,6,Roadside,East,Freeport,Steel,11:25:42am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5182779816959,-78.6887655638331,1023,2015/01/19,Poor,Aluminum,6,Roadside,East,Freeport,Steel,11:27:26am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5183663407131,-78.688836281342,1024,2015/01/19,Good,Aluminum,6,Roadside,East,Freeport,Steel,11:28:18am,,Warning Sign,Speed Bump,Diamond,Yellow,No,0
+26.519634197511,-78.6886260093238,1025,2015/01/19,Exellent,Engineering,5,Roadside,East,Freeport,Steel,11:30:42am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5194453458826,-78.6874637422247,1026,2015/01/19,Exellent,Engineering,5,Roadside,East,Freeport,Steel,11:32:42am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5210144742034,-78.6869322582571,1027,2015/01/19,Exellent,Engineering,6,Roadside,East,Freeport,Steel,11:34:35am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5211754277024,-78.6879083071823,1028,2015/01/19,Poor,Aluminum,6,Roadside,East,Freeport,Steel,11:36:21am,,Warning Sign,Speed Bump,Rectangle,Yellow,No,0
+26.520070371225,-78.6902031306837,1029,2015/01/19,Good,Engineering,5,Roadside,East,Freeport,Steel,11:39:59am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5179645845622,-78.69259591168,1030,2015/01/19,Poor,Aluminum,6,Roadside,East,Freeport,Steel,11:48:49am,Right ln must turn right,Informational Sign,,Rectangle,Black & White,No,0
+26.5182187589533,-78.6920744140194,1031,,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,,,Warning,Hump,Triange,Red,No,5
+26.518105434413,-78.6654162683511,1032,2015/01/21,Good,Engineering,5,Roadside,Coral Gardens,Freeport,Steel,01:11:14pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5182919903864,-78.6654892216893,1033,2015/01/21,Good,Aluminum,5,Roadside,Coral Gardens,Freeport,Steel,01:12:13pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5185960260738,-78.6650330983686,1034,2015/01/21,Good,Aluminum,6,Roadside,Coral Gardens,Freeport,Steel,01:13:58pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5186532696731,-78.6648983320233,1035,2015/01/21,Good,Aluminum,6,Roadside,Coral Gardens,Freeport,Steel,01:15:44pm,No Dumping,Informational Sign,,Rectangle,Multi-Colour,No,0
+26.5181553044742,-78.666467564997,1036,2015/01/21,Good,Aluminum,6,Roadside,Coral Gardens,Freeport,Steel,01:18:23pm,No Dumping,Informational Sign,,Rectangle,Multi-Colour,No,0
+26.5184259981275,-78.6671784434493,1037,2015/01/21,Good,Aluminum,6,Roadside,Coral Gardens,Freeport,Steel,01:20:17pm,No Dumping,Informational Sign,,Rectangle,Multi-Colour,No,0
+26.5186091908539,-78.6670070850528,1038,2015/01/21,Good,Aluminum,6,Roadside,Coral Gardens,Freeport,Steel,01:23:20pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5178122246987,-78.6659931960086,1039,2015/01/21,Good,Aluminum,6,Roadside,Coral Gardens,Freeport,Steel,01:29:18pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5169208018318,-78.6668387818009,1040,2015/01/21,Good,Aluminum,6,Roadside,Coral Gardens,Freeport,Steel,01:31:08pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5226731326622,-78.6973312567697,1041,2015/01/26,Exellent,Aluminum,6,Roadside,Central Area,Freeport,Steel,10:39:09am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5225716613337,-78.6970445938699,1042,2015/01/26,Exellent,Engineering,6,Roadside,Central Area,Freeport,Steel,10:40:34am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5226647156496,-78.6936424231299,1043,2015/01/26,Good,Engineering,6,Roadside,Central Area,Freeport,Steel,10:42:16am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5266204503413,-78.6936943114035,1044,2015/01/26,Exellent,Engineering,5,Roadside,Central Area,Freeport,Steel,10:46:00am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5265328207348,-78.6970608947236,1045,2015/01/26,Exellent,Engineering,5,Roadside,Central Area,Freeport,Steel,10:48:41am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.526528212827,-78.6978566764982,1046,2015/01/26,Good,Aluminum,6,Roadside,Central Area,Freeport,Steel,10:51:23am,Roundabout,Warning Sign,Speed Limit,Circle,Multi-Colour,No,0
+26.5266322949544,-78.6973612242197,1047,2015/01/26,Exellent,Engineering,5,Roadside,Central Area,Freeport,Steel,10:55:45am,,Regulatory Sign,Stop,Octogon,Yellow,Yes,0
+26.5293237828709,-78.6972530933551,1048,2015/01/26,Good,Aluminum,6,Roadside,Central Area,Freeport,Steel,10:58:35am,,Warning Sign,Stop Ahead,Diamond,Yellow,No,0
+26.522770216705,-78.6957376167328,1049,2015/01/22,Good,Engineering,6,Roadside,Central Area,Freeport,Steel,01:16:31pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5264719350062,-78.6958139870316,1050,2015/01/22,Exellent,Engineering,5,Roadside,Central Area,Freeport,Steel,01:21:27pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5266764664665,-78.6957142360734,1051,2015/01/22,Exellent,Engineering,6,Roadside,Central Area,Freeport,Steel,01:35:31pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.529258443552,-78.6956661577401,1052,2015/01/22,Exellent,Engineering,6,Roadside,Central Area,Freeport,Steel,01:38:05pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5303125778058,-78.6958244494172,1053,2015/01/22,Exellent,Aluminum,5,Roadside,Central Area,Freeport,Steel,01:46:10pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5303605878303,-78.6959977282974,1054,2015/01/22,Good,Aluminum,6,Roadside,Central Area,Freeport,Steel,01:47:13pm,Stop here for pedestrian,Regulatory Sign,Pedestrian Crossing,Triangle,Multi-Colour,No,0
+26.5302954408088,-78.6972690272275,1055,2015/01/28,Exellent,Engineering,5,Roadside,Central Area,Freeport,Steel,11:02:51am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.531898148585,-78.6972282303113,1056,2015/01/28,Good,Aluminum,6,Roadside,Central Area,Freeport,Steel,11:05:50am,,Warning Sign,Pedestrian Crossing,Diamond,Yellow,No,0
+26.5326604526174,-78.6966557472644,1057,2015/01/28,Exellent,Engineering,5,Roadside,Central Area,Freeport,Steel,11:09:23am,One Way,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5328670777642,-78.6966324175921,1058,2015/01/28,Good,Aluminum,5,Roadside,Central Area,Freeport,Steel,11:10:36am,Taxi Only,Informational Sign,,Rectangle,Blue,No,0
+26.5325797321993,-78.6966178265408,1059,2015/01/28,Good,Aluminum,6,Roadside,Central Area,Freeport,Steel,11:11:55am,,Regulatory Sign,No Entry,Rectangle,Multi-Colour,No,0
+26.5325441309857,-78.6970422172364,1060,2015/01/28,Exellent,Engineering,6,Roadside,Central Area,Freeport,Steel,11:15:51am,,Regulatory Sign,Stop,Octogon,Red,No,0
+26.532574342815,-78.6970854180484,1061,2015/01/28,Exellent,Engineering,5,Roadside,Central Area,Freeport,Steel,11:16:41am,,Regulatory Sign,Stop,Octogon,Red,No,0
+26.532499335136,-78.6971199869026,1062,2015/01/28,Good,Aluminum,6,Roadside,Central Area,Freeport,Steel,11:17:21am,,Warning Sign,Pedestrian Crossing,Diamond,Yellow,No,0
+26.5321779697345,-78.6969556654057,1063,2015/01/28,Good,Aluminum,6,Roadside,Central Area,Freeport,Steel,11:19:20am,Public Bus Only,Informational Sign,,Rectangle,Blue,No,0
+26.5318443998401,-78.69695032706,1064,2015/01/28,Good,Aluminum,6,Roadside,Central Area,Freeport,Steel,11:20:57am,,Regulatory Sign,Stop,Octogon,Red,No,0
+26.5316889599787,-78.6970374644708,1065,2015/01/28,Exellent,Engineering,5,Roadside,Central Area,Freeport,Steel,11:22:21am,,Regulatory Sign,Stop,Octogon,Red,No,0
+26.5312650023692,-78.696947235509,1066,2015/01/28,Good,Aluminum,6,Roadside,Central Area,Freeport,Steel,11:23:48am,,Regulatory Sign,Stop,Octogon,Red,No,0
+26.5312395475844,-78.6971018032384,1067,2015/01/28,Exellent,Engineering,6,Roadside,Central Area,Freeport,Steel,11:24:36am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5311218254793,-78.6971100033413,1068,2015/01/28,Good,Aluminum,5,Roadside,Central Area,Freeport,Steel,11:25:32am,No Entry,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5310296098669,-78.6971289680194,1069,2015/01/28,Good,Aluminum,5,Roadside,Central Area,Freeport,Steel,11:26:33am,,Warning Sign,Stop Ahead,Diamond,Yellow,No,0
+26.5317268723334,-78.6964214826848,1070,2015/01/28,Good,Aluminum,6,Roadside,Central Area,Freeport,Steel,11:29:42am,,Regulatory Sign,Stop,Octogon,Red,No,0
+26.5318044808288,-78.6964308582271,1071,2015/01/28,Good,Aluminum,6,Roadside,Central Area,Freeport,Steel,11:30:31am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5321584541227,-78.6963537457284,1072,2015/01/28,Good,Aluminum,6,Roadside,Central Area,Freeport,Steel,11:31:52am,,Regulatory Sign,Speed Limit,Circle,Multi-Colour,No,0
+26.5335079838311,-78.695791657941,1073,2015/01/28,Exellent,Engineering,5,Roadside,Central Area,Freeport,Steel,11:37:54am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5336405759722,-78.6956834438554,1074,2015/01/28,Exellent,Engineering,6,Roadside,Central Area,Freeport,Steel,11:39:01am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5341189508372,-78.6957781963395,1075,2015/01/28,Exellent,Aluminum,6,Roadside,Central Area,Freeport,Steel,11:40:53am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5339123239044,-78.6966261748949,1076,2015/01/28,Good,Aluminum,5,Roadside,Central Area,Freeport,Steel,11:42:38am,No Entry,Regulatory Sign,Stop,Octogon,Red,No,0
+26.5341092491033,-78.696623332582,1077,2015/01/28,Good,Aluminum,5,Roadside,Central Area,Freeport,Steel,11:43:36am,No Entry,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5336132517801,-78.6964785984817,1078,2015/01/28,Poor,Aluminum,5,Roadside,Central Area,Freeport,Steel,11:45:42am,,Regulatory Sign,No Entry,Rectangle,Multi-Colour,No,0
+26.5266454895304,-78.6896787289336,1079,2015/07/03,Exellent,Engineering,5,Roadside,East Section,Freeport,Steel,10:52:06am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5274897184087,-78.6898230453107,1080,2015/07/03,Poor,Engineering,6,Roadside,East Section,Freeport,Steel,10:54:45am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5274180223649,-78.6919892281177,1081,2015/07/03,Poor,Aluminum,6,Roadside,East Section,Freeport,Steel,10:57:54am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.526686057659,-78.6920420459482,1082,2015/07/03,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,10:59:57am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5264314242629,-78.6921454613715,1083,2015/07/03,Poor,Engineering,6,Roadside,East Section,Freeport,Steel,11:02:00am,east section,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5283170782325,-78.6898052830162,1084,2015/07/03,Good,Engineering,6,Roadside,East Section,Freeport,Steel,11:05:03am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5282409557152,-78.6919639442138,1085,2015/07/03,Poor,Engineering,7,Roadside,East Section,Freeport,Steel,11:07:05am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5274052897097,-78.6896317152604,1086,2015/07/03,Good,Engineering,6,Roadside,East Section,Freeport,Steel,11:09:39am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5274067881074,-78.6889544193188,1087,2015/07/03,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,11:11:29am,,Warning Sign,Speed Bump,Rectangle,Yellow,Yes,0
+26.5274838918882,-78.6886903225542,1088,2015/07/03,Good,Engineering,6,Roadside,East Section,Freeport,Steel,11:13:25am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.528315920965,-78.6886834362477,1089,2015/07/03,Good,Engineering,5,Roadside,East Section,Freeport,Steel,11:15:18am,,Regulatory Sign,Stop,Octogon,Red,No,0
+26.5282443988314,-78.6896332196956,1090,2015/07/03,Poor,Aluminum,6,Roadside,East Section,Freeport,Steel,11:16:43am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5289404863812,-78.6896421908012,1091,2015/07/03,Poor,Aluminum,7,Roadside,East Section,Freeport,Steel,11:18:15am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5290203340646,-78.6886441300194,1092,2015/07/03,Poor,Engineering,6,Roadside,East Section,Freeport,Steel,11:19:40am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5296611383697,-78.6886689027811,1093,2015/07/03,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,11:21:10am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5295845622372,-78.6896403499696,1094,2015/07/03,Exellent,Engineering,7,Roadside,East Section,Freeport,Steel,11:22:55am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5302822968135,-78.6897604529586,1095,2015/07/03,Exellent,Engineering,6,Roadside,East Section,Freeport,Steel,11:24:23am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.530315007745,-78.6918471987172,1096,2015/07/03,Good,Engineering,6,Roadside,East Section,Freeport,Steel,11:26:55am,,Warning Sign,Pedestrian Crossing,Diamond,Yellow,Yes,0
+26.5302316287848,-78.6921301852877,1097,2015/07/03,Good,Engineering,6,Roadside,East Section,Freeport,Steel,11:28:17am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5340990696269,-78.6972711483092,1098,2015/07/03,Poor,Engineering,5,Roadside,Central Area,Freeport,Steel,11:32:37am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5344081029421,-78.697117206704,1099,2015/07/03,Poor,Aluminum,5,Roadside,Central Area,Freeport,Steel,11:36:20am,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5305817241024,-78.6920319584453,1100,2015/07/03,Good,Engineering,7,Roadside,East Section,Freeport,Steel,12:00:48pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5304956447062,-78.6923747581359,1101,2015/07/03,Good,Engineering,6,Roadside,East Section,Freeport,Steel,12:02:04pm,,Warning Sign,Pedestrian Crossing,Diamond,Yellow,Yes,0
+26.5316491602567,-78.6917537848524,1102,2015/07/03,Good,Aluminum,6,Roadside,East Section,Freeport,Steel,12:04:46pm,,Warning Sign,Pedestrian Crossing,Triangle,Multi-Colour,Yes,0
+26.5342756427977,-78.6921486907554,1103,2015/07/03,Good,Engineering,7,Roadside,East Section,Freeport,Steel,12:06:45pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0
+26.5324880148079,-78.6914912780688,1104,2015/07/03,Good,Engineering,6,Roadside,East Section,Freeport,Steel,12:10:04pm,,Regulatory Sign,Stop,Octogon,Red,Yes,0

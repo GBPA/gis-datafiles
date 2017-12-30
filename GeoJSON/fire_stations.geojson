@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fire_stations",
+"bbox": [ -78.6580217422458, 26.5406138104962, -78.6580217422458, 26.5406138104962 ],
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "Name": null }, "bbox": [ -78.658021742245793, 26.540613810496186, -78.658021742245793, 26.540613810496186 ], "geometry": { "type": "Point", "coordinates": [ -78.658021742245793, 26.540613810496186 ] } }
+]
+}

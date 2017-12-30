@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "golf_courses",
+"bbox": [ -78.7200223199842, 26.5088065198967, -78.5738543078337, 26.5550108494106 ],
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "Name": "Ruby Golf Course" }, "bbox": [ -78.70535316574238, 26.522657131333759, -78.70535316574238, 26.522657131333759 ], "geometry": { "type": "Point", "coordinates": [ -78.70535316574238, 26.522657131333759 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 2, "Name": "Emerald Golf Course" }, "bbox": [ -78.702396283151643, 26.512613075628646, -78.702396283151643, 26.512613075628646 ], "geometry": { "type": "Point", "coordinates": [ -78.702396283151643, 26.512613075628646 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3, "Name": "Reef Course and Country Club" }, "bbox": [ -78.650897977477484, 26.511773959641861, -78.650897977477484, 26.511773959641861 ], "geometry": { "type": "Point", "coordinates": [ -78.650897977477484, 26.511773959641861 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 4, "Name": "Lucayan Golf Course & Country Club" }, "bbox": [ -78.644839304248791, 26.524055649848066, -78.644839304248791, 26.524055649848066 ], "geometry": { "type": "Point", "coordinates": [ -78.644839304248791, 26.524055649848066 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 5, "Name": "Shannon Golf Course" }, "bbox": [ -78.573854307833727, 26.555010849410568, -78.573854307833727, 26.555010849410568 ], "geometry": { "type": "Point", "coordinates": [ -78.573854307833727, 26.555010849410568 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 6, "Name": null }, "bbox": [ -78.720022319984196, 26.508806519896659, -78.720022319984196, 26.508806519896659 ], "geometry": { "type": "Point", "coordinates": [ -78.720022319984196, 26.508806519896659 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 7, "Name": null }, "bbox": [ -78.622714969335263, 26.546398226031435, -78.622714969335263, 26.546398226031435 ], "geometry": { "type": "Point", "coordinates": [ -78.622714969335263, 26.546398226031435 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 8, "Name": null }, "bbox": [ -78.628192789431282, 26.551800280992836, -78.628192789431282, 26.551800280992836 ], "geometry": { "type": "Point", "coordinates": [ -78.628192789431282, 26.551800280992836 ] } }
+]
+}

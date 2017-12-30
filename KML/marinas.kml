@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="marinas" id="marinas">
+	<SimpleField name="fid" type="string"></SimpleField>
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+</Schema>
+<Folder><name>marinas</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#marinas">
+		<SimpleData name="fid">marinas.0</SimpleData>
+		<SimpleData name="OBJECTID">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7635436372206,26.5257702251365</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#marinas">
+		<SimpleData name="fid">marinas.1</SimpleData>
+		<SimpleData name="OBJECTID">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6385828501875,26.5152911429655</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#marinas">
+		<SimpleData name="fid">marinas.2</SimpleData>
+		<SimpleData name="OBJECTID">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6115217933368,26.5262094763078</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#marinas">
+		<SimpleData name="fid">marinas.3</SimpleData>
+		<SimpleData name="OBJECTID">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6624512099936,26.5000106402814</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#marinas">
+		<SimpleData name="fid">marinas.4</SimpleData>
+		<SimpleData name="OBJECTID">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6925150349843,26.4944177052789</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#marinas">
+		<SimpleData name="fid">marinas.5</SimpleData>
+		<SimpleData name="OBJECTID">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7005656215189,26.4948752164717</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#marinas">
+		<SimpleData name="fid">marinas.6</SimpleData>
+		<SimpleData name="OBJECTID">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7137625522461,26.4954148449275</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="golf_courses" id="golf_courses">
+	<SimpleField name="fid" type="string"></SimpleField>
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+</Schema>
+<Folder><name>golf_courses</name>
+  <Placemark>
+	<name>Ruby Golf Course</name>
+	<ExtendedData><SchemaData schemaUrl="#golf_courses">
+		<SimpleData name="fid">golf_courses.0</SimpleData>
+		<SimpleData name="OBJECTID">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7053531657424,26.5226571313338</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Emerald Golf Course</name>
+	<ExtendedData><SchemaData schemaUrl="#golf_courses">
+		<SimpleData name="fid">golf_courses.1</SimpleData>
+		<SimpleData name="OBJECTID">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7023962831516,26.5126130756286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Reef Course and Country Club</name>
+	<ExtendedData><SchemaData schemaUrl="#golf_courses">
+		<SimpleData name="fid">golf_courses.2</SimpleData>
+		<SimpleData name="OBJECTID">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6508979774775,26.5117739596419</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lucayan Golf Course &amp; Country Club</name>
+	<ExtendedData><SchemaData schemaUrl="#golf_courses">
+		<SimpleData name="fid">golf_courses.3</SimpleData>
+		<SimpleData name="OBJECTID">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6448393042488,26.5240556498481</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shannon Golf Course</name>
+	<ExtendedData><SchemaData schemaUrl="#golf_courses">
+		<SimpleData name="fid">golf_courses.4</SimpleData>
+		<SimpleData name="OBJECTID">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.5738543078337,26.5550108494106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#golf_courses">
+		<SimpleData name="fid">golf_courses.5</SimpleData>
+		<SimpleData name="OBJECTID">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7200223199842,26.5088065198967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#golf_courses">
+		<SimpleData name="fid">golf_courses.6</SimpleData>
+		<SimpleData name="OBJECTID">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6227149693353,26.5463982260314</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#golf_courses">
+		<SimpleData name="fid">golf_courses.7</SimpleData>
+		<SimpleData name="OBJECTID">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6281927894313,26.5518002809928</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

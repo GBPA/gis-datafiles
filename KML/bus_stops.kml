@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bus_stops" id="bus_stops">
+	<SimpleField name="OBJECTID" type="float"></SimpleField>
+	<SimpleField name="Bus_Bay" type="string"></SimpleField>
+	<SimpleField name="Shelter" type="string"></SimpleField>
+	<SimpleField name="ST_NAME" type="string"></SimpleField>
+	<SimpleField name="Region" type="string"></SimpleField>
+</Schema>
+<Folder><name>bus_stops</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">1</SimpleData>
+		<SimpleData name="ST_NAME">Midshipman Rd</SimpleData>
+		<SimpleData name="Region">Lucaya</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6488534024495,26.5155881834847</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">2</SimpleData>
+		<SimpleData name="ST_NAME">Midshipman Rd</SimpleData>
+		<SimpleData name="Region">Lucaya</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6436462137801,26.5179280034021</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">3</SimpleData>
+		<SimpleData name="ST_NAME">Midshipman Rd</SimpleData>
+		<SimpleData name="Region">Lucaya</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6378415627281,26.5199527927619</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">4</SimpleData>
+		<SimpleData name="ST_NAME">Midshipman Rd</SimpleData>
+		<SimpleData name="Region">Lucaya</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.5847612831189,26.5482980851793</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">5</SimpleData>
+		<SimpleData name="ST_NAME">Midshipman Rd</SimpleData>
+		<SimpleData name="Region">Lucaya</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.5984171442402,26.5414999568994</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">6</SimpleData>
+		<SimpleData name="ST_NAME">Midshipman Rd</SimpleData>
+		<SimpleData name="Region">Lucaya</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6031838402804,26.5375153776948</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">7</SimpleData>
+		<SimpleData name="ST_NAME">Midshipman Rd</SimpleData>
+		<SimpleData name="Region">Lucaya</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6153553855727,26.5318923657559</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">8</SimpleData>
+		<SimpleData name="ST_NAME">Midshipman Rd</SimpleData>
+		<SimpleData name="Region">Lucaya</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6413126681582,26.5184948945843</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">9</SimpleData>
+		<SimpleData name="Bus_Bay">Yes</SimpleData>
+		<SimpleData name="Shelter">Yes</SimpleData>
+		<SimpleData name="ST_NAME">Seahorse Rd</SimpleData>
+		<SimpleData name="Region">Lucaya</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6496233001891,26.5154929675206</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">10</SimpleData>
+		<SimpleData name="ST_NAME">Seahorse Rd</SimpleData>
+		<SimpleData name="Region">Lucaya</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6462768131797,26.5119256582003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">11</SimpleData>
+		<SimpleData name="Bus_Bay">Yes</SimpleData>
+		<SimpleData name="Shelter">Yes</SimpleData>
+		<SimpleData name="ST_NAME">Seahorse Rd</SimpleData>
+		<SimpleData name="Region">Lucaya</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6555732140064,26.5205417734336</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">12</SimpleData>
+		<SimpleData name="Bus_Bay">Yes</SimpleData>
+		<SimpleData name="Shelter">Yes</SimpleData>
+		<SimpleData name="ST_NAME">Seahorse Rd</SimpleData>
+		<SimpleData name="Region">Lucaya</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.656629037226,26.5211693428782</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">13</SimpleData>
+		<SimpleData name="ST_NAME">Seahorse Rd</SimpleData>
+		<SimpleData name="Region">Lucaya</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.648676974878,26.5146542997401</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">14</SimpleData>
+		<SimpleData name="Bus_Bay">Yes</SimpleData>
+		<SimpleData name="Shelter">Yes</SimpleData>
+		<SimpleData name="ST_NAME">The Mall Dr</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6932618915827,26.529850483135</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">15</SimpleData>
+		<SimpleData name="Bus_Bay">Yes</SimpleData>
+		<SimpleData name="Shelter">Yes</SimpleData>
+		<SimpleData name="ST_NAME">The Mall Dr</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6932835125183,26.5260181408819</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">16</SimpleData>
+		<SimpleData name="Bus_Bay">Yes</SimpleData>
+		<SimpleData name="Shelter">Yes</SimpleData>
+		<SimpleData name="ST_NAME">Sunrise Hwy</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.694337737818,26.5171912391702</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">17</SimpleData>
+		<SimpleData name="Bus_Bay">Yes</SimpleData>
+		<SimpleData name="ST_NAME">Sunrise Hwy</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6931101994864,26.516985095382</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">18</SimpleData>
+		<SimpleData name="Bus_Bay">Yes</SimpleData>
+		<SimpleData name="ST_NAME">Sunrise Hwy</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6875017210881,26.5160869949751</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">19</SimpleData>
+		<SimpleData name="Bus_Bay">Yes</SimpleData>
+		<SimpleData name="ST_NAME">Sunrise Hwy</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6879691152392,26.5158400055396</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">20</SimpleData>
+		<SimpleData name="Bus_Bay">Yes</SimpleData>
+		<SimpleData name="Shelter">Yes</SimpleData>
+		<SimpleData name="ST_NAME">Sunrise Hwy</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6833398609627,26.5164811611901</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">21</SimpleData>
+		<SimpleData name="Bus_Bay">Yes</SimpleData>
+		<SimpleData name="Shelter">Yes</SimpleData>
+		<SimpleData name="ST_NAME">Sunrise Hwy</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6827496281005,26.5167575859329</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">22</SimpleData>
+		<SimpleData name="Bus_Bay">Yes</SimpleData>
+		<SimpleData name="Shelter">Yes</SimpleData>
+		<SimpleData name="ST_NAME">Sunrise Hwy</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6784764059075,26.5167606002874</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">23</SimpleData>
+		<SimpleData name="Bus_Bay">Yes</SimpleData>
+		<SimpleData name="Shelter">Yes</SimpleData>
+		<SimpleData name="ST_NAME">Sunrise Hwy</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6786810774169,26.5164854722456</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">24</SimpleData>
+		<SimpleData name="Bus_Bay">Yes</SimpleData>
+		<SimpleData name="Shelter">Yes</SimpleData>
+		<SimpleData name="ST_NAME">Sunrise Hwy</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.672999869388,26.5164935322595</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">25</SimpleData>
+		<SimpleData name="Bus_Bay">Yes</SimpleData>
+		<SimpleData name="Shelter">Yes</SimpleData>
+		<SimpleData name="ST_NAME">Sunrise Hwy</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.671955406168,26.5170935323683</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">26</SimpleData>
+		<SimpleData name="Bus_Bay">Yes</SimpleData>
+		<SimpleData name="ST_NAME">Sunrise Hwy</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6688782034342,26.5185063414146</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">27</SimpleData>
+		<SimpleData name="ST_NAME">Sunrise Hwy</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6679424363451,26.519041227014</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">28</SimpleData>
+		<SimpleData name="Bus_Bay">Yes</SimpleData>
+		<SimpleData name="Shelter">Yes</SimpleData>
+		<SimpleData name="ST_NAME">Sunrise Hwy</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6639827791741,26.5216268188339</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">29</SimpleData>
+		<SimpleData name="ST_NAME">Downtown</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6965781104908,26.5318684928674</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">30</SimpleData>
+		<SimpleData name="Bus_Bay">Yes</SimpleData>
+		<SimpleData name="Shelter">Yes</SimpleData>
+		<SimpleData name="ST_NAME">The Mall Dr</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6935935939445,26.5273960971244</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">33</SimpleData>
+		<SimpleData name="Bus_Bay">Yes</SimpleData>
+		<SimpleData name="ST_NAME">The Mall Dr</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6949592912702,26.519271079957</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">34</SimpleData>
+		<SimpleData name="ST_NAME">Sunrise Hwy</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6665166672132,26.5201199713247</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">35</SimpleData>
+		<SimpleData name="Bus_Bay">Yes</SimpleData>
+		<SimpleData name="Shelter">Yes</SimpleData>
+		<SimpleData name="ST_NAME">Sunrise Hwy</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6639695315574,26.5212722655093</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">36</SimpleData>
+		<SimpleData name="Bus_Bay">Yes</SimpleData>
+		<SimpleData name="ST_NAME">Yellow Pine St</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7018926537288,26.5425154300506</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">37</SimpleData>
+		<SimpleData name="ST_NAME">Queens Hwy</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7143943834364,26.5372993357793</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">38</SimpleData>
+		<SimpleData name="Bus_Bay">Yes</SimpleData>
+		<SimpleData name="ST_NAME">Yellow Pine St</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7013342780977,26.5417131069924</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">39</SimpleData>
+		<SimpleData name="Bus_Bay">Yes</SimpleData>
+		<SimpleData name="ST_NAME">Settlers Wy</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6926037863547,26.5389739212347</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">40</SimpleData>
+		<SimpleData name="ST_NAME">E Atlantic Dr</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6918954822793,26.5316553042105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">41</SimpleData>
+		<SimpleData name="Bus_Bay">Yes</SimpleData>
+		<SimpleData name="ST_NAME">Coral Rd</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6750325198627,26.5279699913529</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">42</SimpleData>
+		<SimpleData name="Bus_Bay">Yes</SimpleData>
+		<SimpleData name="ST_NAME">Settlers Wy</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6798277969736,26.5400750652009</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">43</SimpleData>
+		<SimpleData name="ST_NAME">Queens Hwy</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.707482940567,26.5408838122172</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">44</SimpleData>
+		<SimpleData name="Bus_Bay">Yes</SimpleData>
+		<SimpleData name="ST_NAME">Sunrise Hwy</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.701745929039,26.5172162102568</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">45</SimpleData>
+		<SimpleData name="Bus_Bay">Yes</SimpleData>
+		<SimpleData name="Shelter">Yes</SimpleData>
+		<SimpleData name="ST_NAME">Sergeant Major Dr</SimpleData>
+		<SimpleData name="Region">Lucaya</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6575991222268,26.5317249309438</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">46</SimpleData>
+		<SimpleData name="Bus_Bay">Yes</SimpleData>
+		<SimpleData name="Shelter">Yes</SimpleData>
+		<SimpleData name="ST_NAME">Pioneers Way</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6822730149319,26.5292635852439</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">47</SimpleData>
+		<SimpleData name="Bus_Bay">Yes</SimpleData>
+		<SimpleData name="Shelter">Yes</SimpleData>
+		<SimpleData name="ST_NAME">Explorers Wy</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6951872586655,26.5341224580913</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">48</SimpleData>
+		<SimpleData name="ST_NAME">E Atlantic Dr</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6925379947228,26.5195425651388</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">49</SimpleData>
+		<SimpleData name="ST_NAME">Coral Rd</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6788341832102,26.5369353297914</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">50</SimpleData>
+		<SimpleData name="ST_NAME">Coral Rd</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6767310998987,26.5304809605068</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">51</SimpleData>
+		<SimpleData name="ST_NAME">Coral Rd</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6742489029854,26.5273489503555</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">52</SimpleData>
+		<SimpleData name="ST_NAME">Somerville Dr</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6789575827851,26.5179276370322</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">53</SimpleData>
+		<SimpleData name="ST_NAME">Adventurers Wy</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6861208296813,26.5264864437271</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">54</SimpleData>
+		<SimpleData name="ST_NAME">Adventurers Wy</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6861830391673,26.526618407135</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">55</SimpleData>
+		<SimpleData name="ST_NAME">Adventurers Wy</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6843141342322,26.5264897112681</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">56</SimpleData>
+		<SimpleData name="ST_NAME">Poinciana Dr</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6905483647715,26.5225742225374</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">57</SimpleData>
+		<SimpleData name="ST_NAME">Polaris Dr</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6911697121781,26.5072863106333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">58</SimpleData>
+		<SimpleData name="ST_NAME">Polaris Dr</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.691179805466,26.5005864834152</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">62</SimpleData>
+		<SimpleData name="ST_NAME">Coral Rd</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6665652542152,26.5165702262068</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">63</SimpleData>
+		<SimpleData name="ST_NAME">Coral Rd</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6635980082452,26.513790172034</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">64</SimpleData>
+		<SimpleData name="ST_NAME">Coral Rd</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.66103992708,26.5114100384449</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">65</SimpleData>
+		<SimpleData name="ST_NAME">Coral Rd</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6588973155653,26.5093972019127</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">66</SimpleData>
+		<SimpleData name="ST_NAME">Queens Hwy</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.703461507123,26.5424413462653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">67</SimpleData>
+		<SimpleData name="ST_NAME">Queens Hwy</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7108625652775,26.5391132124162</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">68</SimpleData>
+		<SimpleData name="ST_NAME">Grand Bahamian Wy</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7356584089605,26.500737687085</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">69</SimpleData>
+		<SimpleData name="Bus_Bay">Yes</SimpleData>
+		<SimpleData name="Shelter">Yes</SimpleData>
+		<SimpleData name="ST_NAME">Grand Bahamian Wy</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7332813378909,26.5164297065561</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">70</SimpleData>
+		<SimpleData name="ST_NAME">Sunrise Hwy</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7142457066685,26.517238862948</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">71</SimpleData>
+		<SimpleData name="ST_NAME">Sunrise Hwy</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7014045210857,26.517092823375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">72</SimpleData>
+		<SimpleData name="ST_NAME">W Atlantic Dr</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.699272736029,26.520948490412</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">73</SimpleData>
+		<SimpleData name="ST_NAME">Queens Hwy</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6968356641645,26.5453720635689</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">74</SimpleData>
+		<SimpleData name="ST_NAME">Explorers Wy</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6917446666002,26.5345899311191</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">75</SimpleData>
+		<SimpleData name="ST_NAME">Explorers Wy</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6923380533342,26.534246977363</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">76</SimpleData>
+		<SimpleData name="ST_NAME">S Mall Dr</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6954116056653,26.507665996007</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">77</SimpleData>
+		<SimpleData name="ST_NAME">S Mall Dr</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6952918499753,26.5003819207264</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">78</SimpleData>
+		<SimpleData name="ST_NAME">W Settlers Wy</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7040312072791,26.5362236220179</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">79</SimpleData>
+		<SimpleData name="ST_NAME">W Settlers Wy</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7042014833816,26.5363114611515</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">80</SimpleData>
+		<SimpleData name="ST_NAME">W Atlantic Dr</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6983578949841,26.5366203714885</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">81</SimpleData>
+		<SimpleData name="ST_NAME">The Mall Dr</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6936271784596,26.521937305768</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">82</SimpleData>
+		<SimpleData name="Bus_Bay">Yes</SimpleData>
+		<SimpleData name="ST_NAME">The Mall Dr</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6933047597009,26.5220877537448</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">83</SimpleData>
+		<SimpleData name="ST_NAME">Poinciana Dr</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6868567305303,26.5218064584608</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">84</SimpleData>
+		<SimpleData name="ST_NAME">Poinciana Dr</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6868747276285,26.521946971653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">85</SimpleData>
+		<SimpleData name="Bus_Bay">Yes</SimpleData>
+		<SimpleData name="ST_NAME">Sunrise Hwy</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7071102514172,26.5172079078491</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">86</SimpleData>
+		<SimpleData name="ST_NAME">S Mall Dr</SimpleData>
+		<SimpleData name="Region">Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6954141103061,26.5033909015988</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">87</SimpleData>
+		<SimpleData name="Bus_Bay">Yes</SimpleData>
+		<SimpleData name="Shelter">Yes</SimpleData>
+		<SimpleData name="ST_NAME">Doubloon Rd</SimpleData>
+		<SimpleData name="Region">Lucaya</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.5935646567458,26.5368579606559</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">88</SimpleData>
+		<SimpleData name="Bus_Bay">No</SimpleData>
+		<SimpleData name="Shelter">No</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.653311887832,26.5045876280342</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">89</SimpleData>
+		<SimpleData name="Bus_Bay">No</SimpleData>
+		<SimpleData name="Shelter">No</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6531877937508,26.5045221969997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">90</SimpleData>
+		<SimpleData name="Bus_Bay">No</SimpleData>
+		<SimpleData name="Shelter">No</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.653998300782,26.5038240363951</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">91</SimpleData>
+		<SimpleData name="Bus_Bay">No</SimpleData>
+		<SimpleData name="Shelter">No</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6449517214751,26.5109155804241</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bus_stops">
+		<SimpleData name="OBJECTID">92</SimpleData>
+		<SimpleData name="Bus_Bay">No</SimpleData>
+		<SimpleData name="Shelter">No</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6503548406719,26.5175380227873</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

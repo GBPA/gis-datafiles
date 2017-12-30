@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="beaches" id="beaches">
+	<SimpleField name="Id" type="int"></SimpleField>
+</Schema>
+<Folder><name>beaches</name>
+  <Placemark>
+	<name>Williams Town</name>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6728178134661,26.4958262854701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Coral</name>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6555335376315,26.4992813464402</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lucayan Beach</name>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6408143184,26.5101832269879</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Taino Beach</name>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6207811271345,26.5192650127439</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Smiths Point</name>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6167021320154,26.5214635438108</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fortune Beach</name>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.5767210452215,26.5419048691061</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Barbary Beach</name>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.551757764379,26.5502250652492</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sharp Rock</name>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.4964469379067,26.5680404766794</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>South Riding Point</name>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.4359849467064,26.5950056469502</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gold Rock</name>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.3997026113082,26.602077243803</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Peterson Cay</name>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.5230523097178,26.5517182806194</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Xanadu</name>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7021545467276,26.4926038025047</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lover's</name>
+	<ExtendedData><SchemaData schemaUrl="#beaches">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7815641956905,26.5217752337407</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
