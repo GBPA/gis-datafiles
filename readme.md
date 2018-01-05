@@ -17,7 +17,7 @@ Our data is made freely available to vendors, developers, designers, planners, o
 https://gis.gbpa.com/
 
 REST API to test against (no authentication required):
-https://api.gis.gbpa.com
+https://api.gbpa.com/gis
 
 ## Licensing
 The data supplied in the repo is provided by the Grand Bahama Port Authority (GBPA) for third parties to use or modify under a **Creative Commons Attribution 4.0 International (CC BY 4.0)** license. Please include *"Data Provided by The Grand Bahama Port Authority"* in both the source code and UI of your application where possible.

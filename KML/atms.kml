@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="atms" id="atms">
+	<SimpleField name="Desc" type="string"></SimpleField>
+</Schema>
+<Folder><name>atms</name>
+  <Placemark>
+	<name>Bank of the Bahamas ATM/ABM</name>
+	<ExtendedData><SchemaData schemaUrl="#atms">
+		<SimpleData name="Desc">Instant Teller - Woodstock Street &amp; Bank Lane, Freeport</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.694092,26.5337170051723</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bank of the Bahamas ATM/ABM</name>
+	<ExtendedData><SchemaData schemaUrl="#atms">
+		<SimpleData name="Desc">Instant Teller - Harbour West Shopping Center / Queen’s Highway</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.788527,26.5328190733694</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CIBC ATM/ABM</name>
+	<ExtendedData><SchemaData schemaUrl="#atms">
+		<SimpleData name="Desc">Instant Teller - East Mall Branch</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.694854,26.528212</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CIBC ATM/ABM</name>
+	<ExtendedData><SchemaData schemaUrl="#atms">
+		<SimpleData name="Desc">Instant Teller - Municipal Motors</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.669169,26.5189</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CIBC ATM/ABM</name>
+	<ExtendedData><SchemaData schemaUrl="#atms">
+		<SimpleData name="Desc">Instant Teller - RAND Memorial Hospital</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6950163,26.5320964</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CIBC ATM/ABM</name>
+	<ExtendedData><SchemaData schemaUrl="#atms">
+		<SimpleData name="Desc">Instant Teller - Shell Parkway Boulevard Station</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.679683,26.517278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CIBC ATM/ABM</name>
+	<ExtendedData><SchemaData schemaUrl="#atms">
+		<SimpleData name="Desc">Instant Teller - Solomon’s Super Centre, Lucaya, Seahorse Plaza</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.657149,26.520479</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CIBC ATM/ABM</name>
+	<ExtendedData><SchemaData schemaUrl="#atms">
+		<SimpleData name="Desc">Instant Teller - Port Lucaya Marketplace</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6426392197609,26.5126479204975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CIBC ATM/ABM</name>
+	<ExtendedData><SchemaData schemaUrl="#atms">
+		<SimpleData name="Desc">Instant Teller - Pioneer's Way</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.694006,26.529959</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Commonwealth Bank ATM/ABM</name>
+	<ExtendedData><SchemaData schemaUrl="#atms">
+		<SimpleData name="Desc">Instant Teller - The Mall Drive</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6949933,26.5293636</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Commonwealth Bank ATM/ABM</name>
+	<ExtendedData><SchemaData schemaUrl="#atms">
+		<SimpleData name="Desc">Instant Teller - Freeport International Airport, Domestic Terminal</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6984586,26.5481476</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Commonwealth Bank ATM/ABM</name>
+	<ExtendedData><SchemaData schemaUrl="#atms">
+		<SimpleData name="Desc">Instant Teller - Lucaya</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6562355,26.5208412</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Commonwealth Bank ATM/ABM</name>
+	<ExtendedData><SchemaData schemaUrl="#atms">
+		<SimpleData name="Desc">Instant Teller - CostRight Food Store</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6983434,26.5437039</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RBC Royal Bank of Canada ATM/ABM</name>
+	<ExtendedData><SchemaData schemaUrl="#atms">
+		<SimpleData name="Desc">Instant Teller - East Mall Explorers Way</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.694156,26.53375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RBC Royal Bank of Canada ATM/ABM</name>
+	<ExtendedData><SchemaData schemaUrl="#atms">
+		<SimpleData name="Desc">Instant Teller - FINCO</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.694156,26.53375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RBC Royal Bank of Canada ATM/ABM</name>
+	<ExtendedData><SchemaData schemaUrl="#atms">
+		<SimpleData name="Desc">Instant Teller - Kelly's Freeport ST</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.699376,26.538139</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RBC Royal Bank of Canada ATM/ABM</name>
+	<ExtendedData><SchemaData schemaUrl="#atms">
+		<SimpleData name="Desc">Instant Teller - Kelly's Cash Counter (BHS)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.699371,26.538204</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RBC Royal Bank of Canada ATM/ABM</name>
+	<ExtendedData><SchemaData schemaUrl="#atms">
+		<SimpleData name="Desc">Instant Teller - Focol East Mall</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.699371,26.539605</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RBC Royal Bank of Canada ATM/ABM</name>
+	<ExtendedData><SchemaData schemaUrl="#atms">
+		<SimpleData name="Desc">Instant Teller - East Sunrise Highway Service Station</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.693105,26.517467</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RBC Royal Bank of Canada ATM/ABM</name>
+	<ExtendedData><SchemaData schemaUrl="#atms">
+		<SimpleData name="Desc">Instant Teller - Port Lucaya Marketplace</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.642315,26.512986</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Scotiabank ATM/ABM</name>
+	<ExtendedData><SchemaData schemaUrl="#atms">
+		<SimpleData name="Desc">Instant Teller - Manor House</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6397143,26.5123497</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Scotiabank ATM/ABM</name>
+	<ExtendedData><SchemaData schemaUrl="#atms">
+		<SimpleData name="Desc">Instant Teller - Treasure Bay Casino</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6422235,26.5117165</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Scotiabank ATM/ABM</name>
+	<ExtendedData><SchemaData schemaUrl="#atms">
+		<SimpleData name="Desc">Instant Teller - Instant Teller - Lucayan Reef</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6427143,26.5105753</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Scotiabank ATM/ABM</name>
+	<ExtendedData><SchemaData schemaUrl="#atms">
+		<SimpleData name="Desc">Domestic Airport Terminal</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6962512,26.5480648</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Scotiabank ATM/ABM</name>
+	<ExtendedData><SchemaData schemaUrl="#atms">
+		<SimpleData name="Desc">Instant Teller - Mall Drive, Branch</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.6962914,26.5346527</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

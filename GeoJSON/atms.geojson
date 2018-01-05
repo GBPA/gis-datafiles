@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "name": "atms",
+  "features": [
+    { "type": "Feature", "properties": { "Name": "Bank of the Bahamas ATM/ABM", "Desc": "Instant Teller - Woodstock Street & Bank Lane, Freeport" }, "geometry": { "type": "Point", "coordinates": [ -78.69409199999996, 26.53371700517226 ] } },
+    { "type": "Feature", "properties": { "Name": "Bank of the Bahamas ATM/ABM", "Desc": "Instant Teller - Harbour West Shopping Center / Queen’s Highway" }, "geometry": { "type": "Point", "coordinates": [ -78.78852699999999, 26.53281907336945 ] } },
+    { "type": "Feature", "properties": { "Name": "CIBC ATM/ABM", "Desc": "Instant Teller - East Mall Branch" }, "geometry": { "type": "Point", "coordinates": [ -78.69485400000002,26.528212 ] } },
+    { "type": "Feature", "properties": { "Name": "CIBC ATM/ABM", "Desc": "Instant Teller - Municipal Motors" }, "geometry": { "type": "Point", "coordinates": [ -78.669169,26.5189 ] } },
+    { "type": "Feature", "properties": { "Name": "CIBC ATM/ABM", "Desc": "Instant Teller - RAND Memorial Hospital" }, "geometry": { "type": "Point", "coordinates": [ -78.6950163,26.5320964 ] } },
+    { "type": "Feature", "properties": { "Name": "CIBC ATM/ABM", "Desc": "Instant Teller - Shell Parkway Boulevard Station" }, "geometry": { "type": "Point", "coordinates": [ -78.679683,26.517278 ] } },
+    { "type": "Feature", "properties": { "Name": "CIBC ATM/ABM", "Desc": "Instant Teller - Solomon’s Super Centre, Lucaya, Seahorse Plaza" }, "geometry": { "type": "Point", "coordinates": [ -78.657149,26.520479 ] } },
+    { "type": "Feature", "properties": { "Name": "CIBC ATM/ABM", "Desc": "Instant Teller - Port Lucaya Marketplace" }, "geometry": { "type": "Point", "coordinates": [ -78.6426392197609,26.51264792049755 ] } },
+    { "type": "Feature", "properties": { "Name": "CIBC ATM/ABM", "Desc": "Instant Teller - Pioneer's Way" }, "geometry": { "type": "Point", "coordinates": [ -78.694006,26.529959 ] } },
+    { "type": "Feature", "properties": { "Name": "Commonwealth Bank ATM/ABM", "Desc": "Instant Teller - The Mall Drive" }, "geometry": { "type": "Point", "coordinates": [ -78.6949933,26.5293636 ] } },
+    { "type": "Feature", "properties": { "Name": "Commonwealth Bank ATM/ABM", "Desc": "Instant Teller - Freeport International Airport, Domestic Terminal" }, "geometry": { "type": "Point", "coordinates": [ -78.6984586,26.5481476 ] } },
+    { "type": "Feature", "properties": { "Name": "Commonwealth Bank ATM/ABM", "Desc": "Instant Teller - Lucaya" }, "geometry": { "type": "Point", "coordinates": [ -78.6562355,26.5208412 ] } },
+    { "type": "Feature", "properties": { "Name": "Commonwealth Bank ATM/ABM", "Desc": "Instant Teller - CostRight Food Store" }, "geometry": { "type": "Point", "coordinates": [ -78.6983434,26.5437039 ] } },
+    { "type": "Feature", "properties": { "Name": "RBC Royal Bank of Canada ATM/ABM", "Desc": "Instant Teller - East Mall Explorers Way" }, "geometry": { "type": "Point", "coordinates": [ -78.694156,26.53375 ] } },
+    { "type": "Feature", "properties": { "Name": "RBC Royal Bank of Canada ATM/ABM", "Desc": "Instant Teller - FINCO" }, "geometry": { "type": "Point", "coordinates": [ -78.694156,26.53375 ] } },
+    { "type": "Feature", "properties": { "Name": "RBC Royal Bank of Canada ATM/ABM", "Desc": "Instant Teller - Kelly's Freeport ST" }, "geometry": { "type": "Point", "coordinates": [ -78.699376,26.538139 ] } },
+    { "type": "Feature", "properties": { "Name": "RBC Royal Bank of Canada ATM/ABM", "Desc": "Instant Teller - Kelly's Cash Counter (BHS)" }, "geometry": { "type": "Point", "coordinates": [ -78.699371,26.538204 ] } },
+    { "type": "Feature", "properties": { "Name": "RBC Royal Bank of Canada ATM/ABM", "Desc": "Instant Teller - Focol East Mall" }, "geometry": { "type": "Point", "coordinates": [ -78.699371,26.539605 ] } },
+    { "type": "Feature", "properties": { "Name": "RBC Royal Bank of Canada ATM/ABM", "Desc": "Instant Teller - East Sunrise Highway Service Station" }, "geometry": { "type": "Point", "coordinates": [ -78.693105,26.517467 ] } },
+    { "type": "Feature", "properties": { "Name": "RBC Royal Bank of Canada ATM/ABM", "Desc": "Instant Teller - Port Lucaya Marketplace" }, "geometry": { "type": "Point", "coordinates": [ -78.642315,26.512986 ] } },
+    { "type": "Feature", "properties": { "Name": "Scotiabank ATM/ABM", "Desc": "Instant Teller - Manor House" }, "geometry": { "type": "Point", "coordinates": [ -78.6397143,26.5123497 ] } },
+    { "type": "Feature", "properties": { "Name": "Scotiabank ATM/ABM", "Desc": "Instant Teller - Treasure Bay Casino" }, "geometry": { "type": "Point", "coordinates": [ -78.6422235,26.5117165 ] } },
+    { "type": "Feature", "properties": { "Name": "Scotiabank ATM/ABM", "Desc": "Instant Teller - Instant Teller - Lucayan Reef" }, "geometry": { "type": "Point", "coordinates": [ -78.6427143,26.5105753 ] } },
+    { "type": "Feature", "properties": { "Name": "Scotiabank ATM/ABM", "Desc": "Domestic Airport Terminal" }, "geometry": { "type": "Point", "coordinates": [ -78.6962512,26.5480648 ] } },
+    { "type": "Feature", "properties": { "Name": "Scotiabank ATM/ABM", "Desc": "Instant Teller - Mall Drive, Branch" }, "geometry": { "type": "Point", "coordinates": [ -78.6962914,26.5346527 ] } }
+  ]
+}
