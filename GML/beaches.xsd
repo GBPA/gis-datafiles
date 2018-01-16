@@ -16,17 +16,17 @@
     <xs:extension base="gml:AbstractFeatureType">
       <xs:sequence>
         <xs:element name="geometryProperty" type="gml:PointPropertyType" nillable="true" minOccurs="0" maxOccurs="1"/>
-        <xs:element name="Id" nillable="true" minOccurs="0" maxOccurs="1">
-          <xs:simpleType>
-            <xs:restriction base="xs:integer">
-              <xs:totalDigits value="6"/>
-            </xs:restriction>
-          </xs:simpleType>
-        </xs:element>
         <xs:element name="Name" nillable="true" minOccurs="0" maxOccurs="1">
           <xs:simpleType>
             <xs:restriction base="xs:string">
-              <xs:maxLength value="50"/>
+              <xs:maxLength value="255"/>
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:element>
+        <xs:element name="Name_" nillable="true" minOccurs="0" maxOccurs="1">
+          <xs:simpleType>
+            <xs:restriction base="xs:string">
+              <xs:maxLength value="255"/>
             </xs:restriction>
           </xs:simpleType>
         </xs:element>
